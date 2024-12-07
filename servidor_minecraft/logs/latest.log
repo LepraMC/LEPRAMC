@@ -821,3 +821,38 @@
 [07Dec2024 14:05:42.991] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
 [07Dec2024 14:06:30.803] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Disconnected
 [07Dec2024 14:06:30.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[07Dec2024 14:10:56.755] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@496c2201[id=<null>,name=LordZand,properties={},legacy=false] (/127.130.194.44:39675) lost connection: Disconnected
+[07Dec2024 14:11:12.205] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/127.130.194.44:40459] logged in with entity id 890 at (67.95771638856422, 68.0, 33.03178210362274)
+[07Dec2024 14:11:12.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[07Dec2024 14:11:12.380] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[07Dec2024 14:11:12.412] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[07Dec2024 14:11:12.414] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[07Dec2024 14:11:12.415] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[07Dec2024 14:12:31.452] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Disconnected
+[07Dec2024 14:12:31.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[07Dec2024 14:12:45.227] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/127.130.194.44:37193] logged in with entity id 1106 at (67.95771638856422, 68.0, 33.03178210362274)
+[07Dec2024 14:12:45.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[07Dec2024 14:12:45.314] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[07Dec2024 14:12:45.343] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[07Dec2024 14:12:45.344] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[07Dec2024 14:12:45.345] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[07Dec2024 14:14:28.502] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Disconnected
+[07Dec2024 14:14:28.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[07Dec2024 14:15:03.799] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@cd56fff[id=<null>,name=LordZand,properties={},legacy=false] (/127.130.194.44:52613) lost connection: Disconnected
+[07Dec2024 14:15:52.000] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7cab70a8[id=<null>,name=LordZand,properties={},legacy=false] (/127.130.194.44:37799) lost connection: Disconnected
+[07Dec2024 14:16:14.437] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/127.130.194.44:42759] logged in with entity id 1406 at (44.23157269665705, 76.0, 23.370470268685416)
+[07Dec2024 14:16:14.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[07Dec2024 14:16:14.512] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[07Dec2024 14:16:14.536] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[07Dec2024 14:16:14.537] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[07Dec2024 14:16:14.538] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[07Dec2024 14:17:29.558] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Timed out
+[07Dec2024 14:17:29.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[07Dec2024 14:18:52.174] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/127.130.194.44:40355] logged in with entity id 1677 at (37.05396582142705, 75.7531999805212, -1.5852379380064192)
+[07Dec2024 14:18:52.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[07Dec2024 14:18:52.247] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[07Dec2024 14:18:52.270] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[07Dec2024 14:18:52.270] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[07Dec2024 14:18:52.271] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[07Dec2024 14:19:52.353] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Timed out
+[07Dec2024 14:19:52.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
