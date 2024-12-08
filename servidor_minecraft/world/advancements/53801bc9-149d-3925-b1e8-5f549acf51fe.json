@@ -1,541 +1,207 @@
 {
   "enigmaticlegacy:book/relics/cursed_ring": {
     "criteria": {
-      "has_items": "2024-12-06 17:45:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2024-12-06 17:45:51 +0000"
+      "has_items": "2024-12-08 16:09:13 +0000"
     },
     "done": true
   },
   "ars_nouveau:root": {
     "criteria": {
-      "ars_nouveau:worn_notebook": "2024-12-06 17:45:51 +0000"
+      "ars_nouveau:worn_notebook": "2024-12-08 16:09:08 +0000"
     },
     "done": true
   },
   "farmersdelight:main/root": {
     "criteria": {
-      "seeds": "2024-12-06 17:45:51 +0000"
+      "seeds": "2024-12-08 16:08:43 +0000"
     },
     "done": true
   },
   "create:root": {
     "criteria": {
-      "0": "2024-12-06 17:45:51 +0000"
+      "0": "2024-12-08 16:08:43 +0000"
     },
     "done": true
   },
   "enigmaticlegacy:book/relics/enigmatic_amulet": {
     "criteria": {
-      "has_items": "2024-12-06 17:45:51 +0000"
+      "has_items": "2024-12-08 16:09:15 +0000"
     },
     "done": true
   },
   "enigmaticlegacy:main/root": {
     "criteria": {
-      "flower": "2024-12-06 17:45:51 +0000"
+      "flower": "2024-12-08 16:09:15 +0000"
     },
     "done": true
   },
   "rpgsmw:choose_your_class": {
     "criteria": {
-      "choose_your_class_0": "2024-12-06 17:45:51 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/misc/cosmic_cake": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
+      "choose_your_class_0": "2024-12-08 16:09:10 +0000"
     },
     "done": true
   },
   "iceandfire:iceandfire/root": {
     "criteria": {
-      "tick": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/accessories/enigmatic_elytra": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/misc/mega_sponge": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/misc/hunter_guidebook": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
+      "tick": "2024-12-08 16:08:43 +0000"
     },
     "done": true
   },
   "idas:idas_root": {
     "criteria": {
-      "always": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/accessories/escape_scroll": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/accessories/iron_ring": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/materials/cosmic_heart": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/misc/enchantment_transposer": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/tools/ender_slayer": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/accessories/ender_ring": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/misc/infinimeal": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "boliviamod:advancement_discover_bolivia": {
-    "criteria": {
-      "advancement_discover_bolivia_0": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/misc/animal_guidebook": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
+      "always": "2024-12-08 16:08:43 +0000"
     },
     "done": true
   },
   "dungeons_arise:wda_root": {
     "criteria": {
-      "WDA": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/misc/extradimensional_eye": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/accessories/heaven_scroll": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/misc/end_anchor": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/misc/astral_potato": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/accessories/magnet_ring": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/misc/soul_compass": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/misc/lore_inscriber": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
+      "WDA": "2024-12-08 16:08:43 +0000"
     },
     "done": true
   },
   "the_bumblezone:root": {
     "criteria": {
-      "instant_granted": "2024-12-06 17:45:52 +0000"
+      "instant_granted": "2024-12-08 16:08:43 +0000"
     },
     "done": true
   },
   "the_bumblezone:wiki": {
     "criteria": {
-      "instant_granted": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/accessories/xp_scroll": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/decorations/lamp": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/tools/infernal_shield": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/tools/etherium_axe": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/accessories/fabulous_scroll": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/misc/twisted_mirror": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/misc/mending_mixture": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/decorations/shroomlamp": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/accessories/enchanter_pearl": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/accessories/golden_ring": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/tools/etherium_sword": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/armor/etherium_armor": {
-    "criteria": {
-      "has_the_recipe1": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/tools/forbidden_axe": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/tools/the_twist": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
+      "instant_granted": "2024-12-08 16:08:43 +0000"
     },
     "done": true
   },
   "mowziesmobs:root": {
     "criteria": {
-      "custom_test_name": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/tools/etherium_scythe": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/accessories/mining_charm": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/decorations/redstone_lantern": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/tools/the_infinitum": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/tools/eldritch_pan": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/accessories/super_magnet_ring": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/accessories/arcane_scrolls": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/accessories/avarice_scroll": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/tools/etherium_shovel": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
+      "custom_test_name": "2024-12-08 16:08:43 +0000"
     },
     "done": true
   },
   "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
-      "bornin_chaos_0": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/tools/etherium_pickaxe": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/accessories/monster_charm": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/accessories/desolation_ring": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
+      "bornin_chaos_0": "2024-12-08 16:08:43 +0000"
     },
     "done": true
   },
   "cataclysm:root": {
     "criteria": {
-      "custom_test_name": "2024-12-06 17:45:52 +0000"
+      "custom_test_name": "2024-12-08 16:08:43 +0000"
     },
     "done": true
   },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
-      "tick": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/accessories/berserk_charm": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/materials/twisted_heart": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/accessories/insignia": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
+      "tick": "2024-12-08 16:08:43 +0000"
     },
     "done": true
   },
   "incendium:technical/new_player": {
     "criteria": {
-      "requirement": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/materials/ender_rod": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/accessories/cursed_scroll": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/misc/curse_transposer": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/tools/astral_breaker": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/misc/cursed_stone": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 17:45:52 +0000"
+      "requirement": "2024-12-08 16:08:43 +0000"
     },
     "done": true
   },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 17:45:53 +0000"
+      "log_spam_fixer": "2024-12-08 16:08:43 +0000"
     },
     "done": false
   },
   "incendium:technical/using/ragnarok": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 17:45:53 +0000"
+      "log_spam_fixer": "2024-12-08 16:08:43 +0000"
     },
     "done": false
   },
   "incendium:technical/using/trailblazer": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 17:45:53 +0000"
+      "log_spam_fixer": "2024-12-08 16:08:43 +0000"
     },
     "done": false
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:taiga": "2024-12-06 17:47:29 +0000",
-      "minecraft:river": "2024-12-08 00:46:05 +0000",
-      "minecraft:lush_caves": "2024-12-06 17:45:53 +0000"
+      "minecraft:taiga": "2024-12-08 16:08:43 +0000"
     },
     "done": false
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 17:45:53 +0000"
+      "log_spam_fixer": "2024-12-08 16:08:43 +0000"
     },
     "done": false
   },
-  "minecraft:adventure/root": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "killed_something": "2024-12-07 14:14:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:skeleton": "2024-12-07 14:27:34 +0000",
-      "minecraft:spider": "2024-12-07 23:51:28 +0000",
-      "minecraft:zombie": "2024-12-07 14:39:43 +0000"
+      "log_spam_fixer": "2024-12-08 16:12:36 +0000"
     },
     "done": false
   },
-  "minecraft:adventure/kill_a_mob": {
+  "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "minecraft:skeleton": "2024-12-07 14:27:34 +0000"
+      "log_spam_fixer": "2024-12-08 16:12:36 +0000"
     },
-    "done": true
+    "done": false
   },
-  "born_in_chaos_v1:the_wind_darkening": {
+  "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "the_wind_darkening_0": "2024-12-07 22:06:27 +0000"
+      "log_spam_fixer": "2024-12-08 16:12:36 +0000"
     },
-    "done": true
+    "done": false
   },
-  "boliviamod:advancement_it_all_looks_delicious": {
+  "incendium:technical/feed_ghastling": {
     "criteria": {
-      "advancement_it_all_looks_delicious_0": "2024-12-07 22:07:52 +0000"
+      "log_spam_fixer": "2024-12-08 16:12:36 +0000"
     },
-    "done": true
+    "done": false
   },
-  "minecraft:husbandry/root": {
+  "incendium:technical/on_inventory_change": {
     "criteria": {
-      "consumed_item": "2024-12-07 23:17:36 +0000"
+      "log_spam_fixer": "2024-12-08 16:12:36 +0000"
     },
-    "done": true
+    "done": false
   },
-  "boliviamod:advancement_mineral_wealth": {
+  "incendium:technical/on_player_hurt": {
     "criteria": {
-      "advancement_mineral_wealth_0": "2024-12-07 23:25:22 +0000"
+      "log_spam_fixer": "2024-12-08 16:12:36 +0000"
     },
-    "done": true
+    "done": false
   },
-  "immersive_paintings:misc/graffiti": {
+  "incendium:technical/firestorm": {
     "criteria": {
-      "has_item": "2024-12-07 23:28:04 +0000"
+      "log_spam_fixer": "2024-12-08 16:12:36 +0000"
     },
-    "done": true
+    "done": false
   },
-  "boliviamod:advancement_cook_in_the_pot": {
+  "incendium:technical/holy_wrath": {
     "criteria": {
-      "advancement_cook_in_the_pot_0": "2024-12-07 23:35:16 +0000"
+      "log_spam_fixer": "2024-12-08 16:12:36 +0000"
     },
-    "done": true
+    "done": false
   },
-  "born_in_chaos_v1:fighting_nightmares": {
+  "incendium:technical/on_block": {
     "criteria": {
-      "fighting_nightmares_0": "2024-12-07 23:51:43 +0000"
+      "log_spam_fixer": "2024-12-08 16:12:36 +0000"
     },
-    "done": true
+    "done": false
   },
-  "the_bumblezone:teleportation/is_near_beehive": {
+  "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "is_near_beehive": "2024-12-08 00:46:17 +0000"
+      "log_spam_fixer": "2024-12-08 16:12:36 +0000"
     },
-    "done": true
+    "done": false
   },
-  "immersive_paintings:misc/glow_graffiti": {
+  "incendium:technical/give_ghastling": {
     "criteria": {
-      "has_item": "2024-12-08 15:54:59 +0000"
+      "log_spam_fixer": "2024-12-08 16:12:36 +0000"
     },
-    "done": true
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-08 16:12:36 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
