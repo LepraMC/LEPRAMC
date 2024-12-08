@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2024-12-08 15:58:16 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/tools/etherium_axe": {
     "criteria": {
       "has_the_recipe": "2024-12-08 15:37:55 +0000"
@@ -314,6 +320,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-12-08 15:39:16 +0000",
+      "minecraft:river": "2024-12-08 15:58:11 +0000",
       "minecraft:lush_caves": "2024-12-08 15:38:19 +0000"
     },
     "done": false

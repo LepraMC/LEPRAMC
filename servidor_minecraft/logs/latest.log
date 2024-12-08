@@ -862,3 +862,15 @@
 [08Dec2024 15:56:32.647] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Disconnected
 [08Dec2024 15:56:32.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand left the game
 [08Dec2024 15:56:32.707] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Dec2024 15:58:16.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has made the advancement [The Imperial March]
+[08Dec2024 15:58:21.006] [Server thread/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
+[08Dec2024 15:58:23.657] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[08Dec2024 15:58:23.658] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to md568eb6$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
+[08Dec2024 16:01:13.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MIEMBRO+]☠ Rodjes7: Set own game mode to Survival Mode]
+[08Dec2024 16:01:51.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MIEMBRO+]☠ Rodjes7: Set own game mode to Creative Mode]
+[08Dec2024 16:07:06.937] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/[::1]:47790] logged in with entity id 9321 at (2.9137561377851395, 72.0, 15.291136231463703)
+[08Dec2024 16:07:07.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand joined the game
+[08Dec2024 16:07:07.089] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[08Dec2024 16:07:07.118] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[08Dec2024 16:07:07.119] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[08Dec2024 16:07:07.122] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
