@@ -452,6 +452,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-12-06 17:47:29 +0000",
+      "minecraft:river": "2024-12-08 00:46:05 +0000",
       "minecraft:lush_caves": "2024-12-06 17:45:53 +0000"
     },
     "done": false
@@ -471,6 +472,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-07 14:27:34 +0000",
+      "minecraft:spider": "2024-12-07 23:51:28 +0000",
       "minecraft:zombie": "2024-12-07 14:39:43 +0000"
     },
     "done": false
@@ -481,77 +483,11 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
-      "log_spam_fixer": "2024-12-07 22:08:54 +0000"
+      "the_wind_darkening_0": "2024-12-07 22:06:27 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-07 22:08:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-07 22:08:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-07 22:08:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-07 22:08:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-07 22:08:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-07 22:08:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-07 22:08:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-07 22:08:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-07 22:08:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-07 22:08:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-07 22:08:54 +0000"
-    },
-    "done": false
+    "done": true
   },
   "boliviamod:advancement_it_all_looks_delicious": {
     "criteria": {
@@ -559,9 +495,39 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:the_wind_darkening": {
+  "minecraft:husbandry/root": {
     "criteria": {
-      "the_wind_darkening_0": "2024-12-07 22:06:27 +0000"
+      "consumed_item": "2024-12-07 23:17:36 +0000"
+    },
+    "done": true
+  },
+  "boliviamod:advancement_mineral_wealth": {
+    "criteria": {
+      "advancement_mineral_wealth_0": "2024-12-07 23:25:22 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/graffiti": {
+    "criteria": {
+      "has_item": "2024-12-07 23:28:04 +0000"
+    },
+    "done": true
+  },
+  "boliviamod:advancement_cook_in_the_pot": {
+    "criteria": {
+      "advancement_cook_in_the_pot_0": "2024-12-07 23:35:16 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2024-12-07 23:51:43 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2024-12-08 00:46:17 +0000"
     },
     "done": true
   },
