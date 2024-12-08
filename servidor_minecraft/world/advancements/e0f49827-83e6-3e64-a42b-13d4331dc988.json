@@ -444,6 +444,12 @@
     },
     "done": true
   },
+  "immersive_paintings:misc/glow_graffiti": {
+    "criteria": {
+      "has_item": "2024-12-08 15:55:42 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/misc/cursed_stone": {
     "criteria": {
       "has_the_recipe": "2024-12-08 15:37:55 +0000"
