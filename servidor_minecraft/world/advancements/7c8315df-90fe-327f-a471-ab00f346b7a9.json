@@ -35,12 +35,6 @@
     },
     "done": true
   },
-  "incendium:technical/scroll_of_returning": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 00:05:55 +0000"
-    },
-    "done": false
-  },
   "enigmaticlegacy:book/accessories/escape_scroll": {
     "criteria": {
       "has_the_recipe": "2024-12-09 00:05:54 +0000"
@@ -59,35 +53,17 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 00:10:19 +0000"
-    },
-    "done": false
-  },
   "enigmaticlegacy:book/misc/enchantment_transposer": {
     "criteria": {
       "has_the_recipe": "2024-12-09 00:05:54 +0000"
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 00:10:19 +0000"
-    },
-    "done": false
-  },
   "enigmaticlegacy:book/tools/ender_slayer": {
     "criteria": {
       "has_the_recipe": "2024-12-09 00:05:54 +0000"
     },
     "done": true
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 00:10:19 +0000"
-    },
-    "done": false
   },
   "enigmaticlegacy:book/accessories/ender_ring": {
     "criteria": {
@@ -100,12 +76,6 @@
       "has_the_recipe": "2024-12-09 00:05:54 +0000"
     },
     "done": true
-  },
-  "incendium:technical/using/ragnarok": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 00:05:55 +0000"
-    },
-    "done": false
   },
   "boliviamod:advancement_discover_bolivia": {
     "criteria": {
@@ -197,18 +167,6 @@
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 00:10:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 00:10:19 +0000"
-    },
-    "done": false
-  },
   "enigmaticlegacy:book/relics/enigmatic_amulet": {
     "criteria": {
       "has_items": "2024-12-09 00:05:54 +0000"
@@ -238,12 +196,6 @@
       "has_the_recipe": "2024-12-09 00:05:54 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 00:10:19 +0000"
-    },
-    "done": false
   },
   "enigmaticlegacy:main/root": {
     "criteria": {
@@ -299,12 +251,6 @@
     },
     "done": true
   },
-  "incendium:technical/using/trailblazer": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 00:05:55 +0000"
-    },
-    "done": false
-  },
   "enigmaticlegacy:book/tools/etherium_sword": {
     "criteria": {
       "has_the_recipe": "2024-12-09 00:05:54 +0000"
@@ -353,35 +299,11 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 00:10:19 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:taiga": "2024-12-09 00:05:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 00:10:19 +0000"
-    },
-    "done": false
-  },
   "enigmaticlegacy:book/tools/the_infinitum": {
     "criteria": {
       "has_the_recipe": "2024-12-09 00:05:54 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 00:10:19 +0000"
-    },
-    "done": false
   },
   "enigmaticlegacy:book/tools/eldritch_pan": {
     "criteria": {
@@ -401,12 +323,6 @@
     },
     "done": true
   },
-  "incendium:technical/using/shield": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 00:05:55 +0000"
-    },
-    "done": false
-  },
   "enigmaticlegacy:book/accessories/avarice_scroll": {
     "criteria": {
       "has_the_recipe": "2024-12-09 00:05:54 +0000"
@@ -418,12 +334,6 @@
       "has_the_recipe": "2024-12-09 00:05:54 +0000"
     },
     "done": true
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 00:10:19 +0000"
-    },
-    "done": false
   },
   "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
@@ -497,18 +407,6 @@
     },
     "done": true
   },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 00:10:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 00:10:19 +0000"
-    },
-    "done": false
-  },
   "enigmaticlegacy:book/misc/curse_transposer": {
     "criteria": {
       "has_the_recipe": "2024-12-09 00:05:54 +0000"
@@ -526,6 +424,108 @@
       "has_the_recipe": "2024-12-09 00:05:54 +0000"
     },
     "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 00:05:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 00:05:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 00:05:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2024-12-09 00:05:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 00:05:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 00:20:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 00:20:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 00:20:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 00:20:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 00:20:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 00:20:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 00:20:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 00:20:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 00:20:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 00:20:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 00:20:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 00:20:19 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

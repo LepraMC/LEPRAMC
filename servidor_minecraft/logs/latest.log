@@ -58,3 +58,30 @@
 [09Dec2024 00:13:50.382] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to SayaMeiii...
 [09Dec2024 00:13:50.383] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [09Dec2024 00:13:50.384] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to SayaMeiii
+[09Dec2024 00:15:18.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ SayaMeiii is bleeding. [MIEMBRO+]☠ SayaMeiii was slain by Zombie Bruiser
+[09Dec2024 00:15:29.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[ADMIN]☠ LordZand: Set the time to 1000]
+[09Dec2024 00:15:44.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ SayaMeiii was slain by Zombie Bruiser
+[09Dec2024 00:15:44.075] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for SayaMeiii at X: 1.5652496343460847, Y: 71.0, Z: 25.54867589445013
+[09Dec2024 00:16:42.919] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player LordZand picking up: PermanentItemEntity['Extradimensional Vessel'/5657, l='ServerLevel[world]', x=1.57, y=72.50, z=25.55]
+[09Dec2024 00:16:42.920] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/5657, l='ServerLevel[world]', x=1.57, y=72.50, z=25.55]
+[09Dec2024 00:17:16.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[ADMIN]☠ LordZand: Teleported [ADMIN]☠ LordZand to [MIEMBRO+]☠ SayaMeiii]
+[09Dec2024 00:19:35.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[ADMIN]☠ LordZand: Teleported [MIEMBRO+]☠ SayaMeiii to [ADMIN]☠ LordZand]
+[09Dec2024 00:20:36.127] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SayaMeiii lost connection: Timed out
+[09Dec2024 00:20:36.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ SayaMeiii left the game
+[09Dec2024 00:21:36.612] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Timed out
+[09Dec2024 00:21:36.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand left the game
+[09Dec2024 00:22:22.792] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/[::1]:59202] logged in with entity id 6836 at (-6.564551951219224, 87.91769784226618, 11.955381179458117)
+[09Dec2024 00:22:22.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand joined the game
+[09Dec2024 00:22:22.859] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[09Dec2024 00:22:22.883] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[09Dec2024 00:22:22.883] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[09Dec2024 00:22:22.884] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[09Dec2024 00:23:04.038] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SayaMeiii[/[::1]:48862] logged in with entity id 6976 at (7.021393060284096, 72.0, 18.26269849937767)
+[09Dec2024 00:23:04.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ SayaMeiii joined the game
+[09Dec2024 00:23:04.109] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: SayaMeiii
+[09Dec2024 00:23:04.132] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to SayaMeiii...
+[09Dec2024 00:23:04.133] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[09Dec2024 00:23:04.133] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to SayaMeiii
+[09Dec2024 00:23:41.967] [Server thread/INFO] [Easy NPC/]: Opening menu 1f9a8a2b-c7f4-49bf-9be4-9b261369ba7c for npc bf2b3055-e79a-42a4-8ffd-6b8704e696b0 and player ServerPlayer['SayaMeiii'/6976, l='ServerLevel[world]', x=70.91, y=68.00, z=33.48] with DialogMenuHandler{displayName=literal{TIO DE LA MINA}[style={color=#FF0000}]}
+[09Dec2024 00:23:42.491] [Server thread/INFO] [Easy NPC/]: Opening menu bdcb16e0-122a-4da1-814c-5a3868bb7b16 for npc bf2b3055-e79a-42a4-8ffd-6b8704e696b0 and player ServerPlayer['SayaMeiii'/6976, l='ServerLevel[world]', x=70.82, y=68.50, z=32.42] with DialogMenuHandler{displayName=literal{TIO DE LA MINA}[style={color=#FF0000}]}
+[09Dec2024 00:24:20.047] [Server thread/INFO] [Easy NPC/]: Opening menu cdb965cd-8737-402d-9cce-3b8c0d455f25 for npc 9f7900b5-a106-48c3-af3e-0504c14b1c97 and player ServerPlayer['SayaMeiii'/6976, l='ServerLevel[world]', x=3.50, y=71.00, z=28.34] with DialogMenuHandler{displayName=literal{HIJA DE LA CASE}[style={color=#9AC0CD}]}
