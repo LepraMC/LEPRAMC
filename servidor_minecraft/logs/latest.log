@@ -31,3 +31,30 @@
 [09Dec2024 00:04:05.169] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
 [09Dec2024 00:04:05.170] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [09Dec2024 00:04:05.171] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[09Dec2024 00:05:54.570] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SayaMeiii[/[::1]:44836] logged in with entity id 3690 at (-3.5, 72.0, -3.5)
+[09Dec2024 00:05:54.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SayaMeiii joined the game
+[09Dec2024 00:05:54.642] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: SayaMeiii
+[09Dec2024 00:05:54.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SayaMeiii has reached the goal [Choose Your Class]
+[09Dec2024 00:05:54.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SayaMeiii has made the advancement [Discover Bolivia]
+[09Dec2024 00:05:54.698] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to SayaMeiii...
+[09Dec2024 00:05:54.699] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[09Dec2024 00:05:54.702] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to SayaMeiii
+[09Dec2024 00:05:54.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SayaMeiii has made the advancement [Ice and Fire]
+[09Dec2024 00:05:54.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SayaMeiii has made the advancement [Integrated Dungeons and Structures]
+[09Dec2024 00:06:40.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[ADMIN]☠ LordZand: Added SayaMeiii to team [Miembro]]
+[09Dec2024 00:08:07.728] [Server thread/INFO] [Easy NPC/]: Opening menu 0edbd6b4-656d-49f5-bcda-963de022ce5a for npc 9f7900b5-a106-48c3-af3e-0504c14b1c97 and player ServerPlayer['LordZand'/3162, l='ServerLevel[world]', x=3.39, y=71.00, z=28.70] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[HIJA DE LA CASE]}]
+[09Dec2024 00:08:09.940] [Server thread/INFO] [Easy NPC/]: Opening menu dfa7e925-b77b-4226-9e47-9bbb62ee4588 for npc 9f7900b5-a106-48c3-af3e-0504c14b1c97 and player ServerPlayer['LordZand'/3162, l='ServerLevel[world]', x=3.39, y=71.00, z=28.70] with BasicTradingConfigurationMenu[translation{key='text.easy_npc.config.basic_trading.title', args=[HIJA DE LA CASE]}]
+[09Dec2024 00:08:16.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has made the advancement [Advancement Mineral Wealth]
+[09Dec2024 00:10:25.164] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SayaMeiii lost connection: Timed out
+[09Dec2024 00:10:25.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ SayaMeiii left the game
+[09Dec2024 00:10:25.503] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[09Dec2024 00:10:25.504] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to mde573d0$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
+[09Dec2024 00:10:32.767] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@288e1998[id=<null>,name=SayaMeiii,properties={},legacy=false] (/[::1]:35338): Took too long to log in
+[09Dec2024 00:10:32.768] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@288e1998[id=<null>,name=SayaMeiii,properties={},legacy=false] (/[::1]:35338) lost connection: Took too long to log in
+[09Dec2024 00:10:32.815] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Dec2024 00:13:50.295] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SayaMeiii[/[::1]:57268] logged in with entity id 5382 at (1.597692658938057, 71.0, 24.657635133331087)
+[09Dec2024 00:13:50.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ SayaMeiii joined the game
+[09Dec2024 00:13:50.358] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: SayaMeiii
+[09Dec2024 00:13:50.382] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to SayaMeiii...
+[09Dec2024 00:13:50.383] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[09Dec2024 00:13:50.384] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to SayaMeiii
