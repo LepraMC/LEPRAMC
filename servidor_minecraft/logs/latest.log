@@ -813,3 +813,7 @@
 [10Dec2024 13:10:00.861] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
 [10Dec2024 13:10:00.990] [Server thread/INFO] [Enigmatic Legacy/INFO]: Blue Skies detected: false
 [10Dec2024 13:14:53.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has made the advancement [Deceived Hopes]
+[10Dec2024 13:21:57.077] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=49, y=27, z=359} BlockPos{x=50, y=29, z=360}
+[10Dec2024 13:21:57.135] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=49, y=27, z=359} BlockPos{x=50, y=29, z=360}
+[10Dec2024 13:21:57.225] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=49, y=27, z=359} BlockPos{x=50, y=29, z=360}
+[10Dec2024 13:25:21.452] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already

@@ -516,6 +516,7 @@
     "criteria": {
       "cooked_mutton": "2024-12-10 12:52:28 +0000",
       "cooked_beef": "2024-12-10 12:44:23 +0000",
+      "glow_berries": "2024-12-10 13:21:43 +0000",
       "cooked_salmon": "2024-12-10 12:40:44 +0000"
     },
     "done": false
@@ -528,7 +529,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-10 13:18:22 +0000",
       "minecraft:spider": "2024-12-10 12:43:48 +0000",
+      "minecraft:creeper": "2024-12-10 13:16:51 +0000",
       "minecraft:zombie": "2024-12-10 12:41:49 +0000"
     },
     "done": false
@@ -566,6 +569,18 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-10 12:53:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "glow_berries": "2024-12-10 13:23:14 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2024-12-10 13:14:53 +0000"
     },
     "done": true
   },
