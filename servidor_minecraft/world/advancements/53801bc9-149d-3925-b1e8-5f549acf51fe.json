@@ -91,6 +91,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-10 12:46:25 +0000",
       "minecraft:taiga": "2024-12-08 16:08:43 +0000",
       "minecraft:river": "2024-12-09 00:00:03 +0000",
       "minecraft:lush_caves": "2024-12-08 17:42:05 +0000"
@@ -469,81 +470,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 12:41:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 12:41:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 12:41:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 12:41:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 12:41:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 12:41:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 12:41:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 12:41:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 12:41:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 12:41:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 12:41:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 12:41:24 +0000"
-    },
-    "done": false
-  },
   "tetra:recipes/planks": {
     "criteria": {
       "got_wood": "2024-12-10 12:30:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-10 12:30:27 +0000"
     },
     "done": true
   },
@@ -565,6 +500,12 @@
     },
     "done": true
   },
+  "immersive_paintings:misc/painting": {
+    "criteria": {
+      "has_item": "2024-12-10 12:37:16 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/acacia_blossom": {
     "criteria": {
       "acacia_blossom": "2024-12-10 12:39:35 +0000"
@@ -573,6 +514,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2024-12-10 12:52:28 +0000",
+      "cooked_beef": "2024-12-10 12:44:23 +0000",
       "cooked_salmon": "2024-12-10 12:40:44 +0000"
     },
     "done": false
@@ -583,15 +526,46 @@
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "crafting_table": "2024-12-10 12:30:27 +0000"
+      "minecraft:spider": "2024-12-10 12:43:48 +0000",
+      "minecraft:zombie": "2024-12-10 12:41:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-10 12:41:49 +0000"
     },
     "done": true
   },
-  "immersive_paintings:misc/painting": {
+  "supplementaries:adventure/way_sign": {
     "criteria": {
-      "has_item": "2024-12-10 12:37:16 +0000"
+      "bastion": "2024-12-10 12:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-10 12:49:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-10 12:50:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-10 12:52:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-10 12:53:42 +0000"
     },
     "done": true
   },
