@@ -99,6 +99,7 @@
       "minecraft:snowy_plains": "2024-12-10 21:24:44 +0000",
       "minecraft:snowy_taiga": "2024-12-10 21:18:16 +0000",
       "minecraft:lush_caves": "2024-12-08 17:42:05 +0000",
+      "minecraft:ice_spikes": "2024-12-11 02:09:08 +0000",
       "minecraft:frozen_ocean": "2024-12-10 21:15:26 +0000",
       "minecraft:snowy_beach": "2024-12-10 21:09:04 +0000"
     },
@@ -788,6 +789,12 @@
   "enigmaticlegacy:book/relics/enigmatic_eye": {
     "criteria": {
       "impossible": "2024-12-10 21:41:31 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2024-12-11 02:16:15 +0000"
     },
     "done": true
   },
