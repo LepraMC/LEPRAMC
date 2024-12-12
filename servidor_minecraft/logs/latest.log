@@ -820,3 +820,15 @@
 [12Dec2024 02:00:39.182] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
 [12Dec2024 02:10:29.145] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Disconnected
 [12Dec2024 02:10:29.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand left the game
+[12Dec2024 02:15:43.279] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:54454] logged in with entity id 19303 at (-598.0177085998134, 62.351530073565236, -606.4824777436454)
+[12Dec2024 02:15:43.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand joined the game
+[12Dec2024 02:15:43.386] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[12Dec2024 02:15:43.416] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[12Dec2024 02:15:43.417] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[12Dec2024 02:15:43.418] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[12Dec2024 02:19:33.421] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SayaMeiii[/10.147.18.18:52058] logged in with entity id 21025 at (-69.57474955345285, -42.0, 223.64013736724996)
+[12Dec2024 02:19:33.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ SayaMeiii joined the game
+[12Dec2024 02:19:33.466] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: SayaMeiii
+[12Dec2024 02:19:33.537] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to SayaMeiii...
+[12Dec2024 02:19:33.539] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[12Dec2024 02:19:33.541] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to SayaMeiii

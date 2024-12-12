@@ -170,87 +170,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 02:06:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 02:06:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 02:06:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 02:06:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 02:06:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 02:06:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 02:06:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 02:06:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 02:06:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 02:06:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 02:06:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 02:06:02 +0000"
-    },
-    "done": false
-  },
   "enigmaticlegacy:book/misc/cosmic_cake": {
     "criteria": {
       "has_the_recipe": "2024-12-10 01:29:37 +0000"
-    },
-    "done": true
-  },
-  "tetra:spelunking/root": {
-    "criteria": {
-      "spelunking": "2024-12-10 01:55:48 +0000"
     },
     "done": true
   },
@@ -269,12 +191,6 @@
   "enigmaticlegacy:book/misc/hunter_guidebook": {
     "criteria": {
       "has_the_recipe": "2024-12-10 01:29:37 +0000"
-    },
-    "done": true
-  },
-  "artifacts:chest_slayer": {
-    "criteria": {
-      "kill_mimic": "2024-12-10 02:02:47 +0000"
     },
     "done": true
   },
@@ -299,12 +215,6 @@
   "enigmaticlegacy:book/misc/enchantment_transposer": {
     "criteria": {
       "has_the_recipe": "2024-12-10 01:29:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2024-12-10 01:30:34 +0000"
     },
     "done": true
   },
@@ -446,12 +356,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:zombie": "2024-12-10 01:47:39 +0000"
-    },
-    "done": false
-  },
   "enigmaticlegacy:book/armor/etherium_armor": {
     "criteria": {
       "has_the_recipe2": "2024-12-10 01:29:37 +0000"
@@ -479,18 +383,6 @@
   "enigmaticlegacy:book/accessories/mining_charm": {
     "criteria": {
       "has_the_recipe": "2024-12-10 01:29:37 +0000"
-    },
-    "done": true
-  },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2024-12-10 02:02:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:zombie": "2024-12-10 01:47:39 +0000"
     },
     "done": true
   },
@@ -533,12 +425,6 @@
   "enigmaticlegacy:book/tools/etherium_shovel": {
     "criteria": {
       "has_the_recipe": "2024-12-10 01:29:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2024-12-10 02:01:42 +0000"
     },
     "done": true
   },
@@ -605,6 +491,48 @@
   "enigmaticlegacy:book/misc/cursed_stone": {
     "criteria": {
       "has_the_recipe": "2024-12-10 01:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-10 01:30:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-10 01:47:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-10 01:47:39 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/root": {
+    "criteria": {
+      "spelunking": "2024-12-10 01:55:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-10 02:01:42 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-12-10 02:02:47 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-10 02:02:57 +0000"
     },
     "done": true
   },
