@@ -99,6 +99,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-10 01:08:07 +0000",
       "minecraft:taiga": "2024-12-10 00:56:07 +0000",
+      "minecraft:beach": "2024-12-12 02:45:33 +0000",
       "minecraft:river": "2024-12-10 01:15:18 +0000",
       "minecraft:lush_caves": "2024-12-10 01:02:04 +0000"
     },
@@ -502,6 +503,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2024-12-12 02:41:12 +0000",
       "minecraft:zombie": "2024-12-10 01:47:39 +0000"
     },
     "done": false
@@ -533,6 +535,36 @@
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2024-12-10 02:02:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-12-12 02:27:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "glow_berries": "2024-12-12 02:30:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-12 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-12 02:49:00 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2024-12-12 02:39:33 +0000"
     },
     "done": true
   },

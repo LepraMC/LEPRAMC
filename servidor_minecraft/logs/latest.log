@@ -832,3 +832,70 @@
 [12Dec2024 02:19:33.537] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to SayaMeiii...
 [12Dec2024 02:19:33.539] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [12Dec2024 02:19:33.541] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to SayaMeiii
+[12Dec2024 02:27:16.770] [pool-8-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / idas:treetop_tavern], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_red], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean]] from pos BlockPos{x=-1077, y=67, z=-491}
+[12Dec2024 02:27:20.386] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3259ms or 65 ticks behind
+[12Dec2024 02:27:20.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand moved too quickly! -2.6716627024416084,-9.805755674216229,0.6891995294844264
+[12Dec2024 02:27:20.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SayaMeiii moved too quickly! -1.659739809644556,-2.0013359791121417,9.924306641995656
+[12Dec2024 02:27:21.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand is bleeding. [ADMIN]☠ LordZand was doomed to fall by Ice Dragon
+[12Dec2024 02:27:24.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ SayaMeiii has made the advancement [This Must be a Sign!]
+[12Dec2024 02:27:48.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand was doomed to fall by Ice Dragon
+[12Dec2024 02:29:39.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand is bleeding. [ADMIN]☠ LordZand was slain by Ice Dragon
+[12Dec2024 02:29:50.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand was slain by Ice Dragon
+[12Dec2024 02:31:19.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand is bleeding. [ADMIN]☠ LordZand was turned to ice by Ice Dragon
+[12Dec2024 02:31:25.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand was turned to ice by a dragon
+[12Dec2024 02:32:52.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ SayaMeiii has made the advancement [Suit Up]
+[12Dec2024 02:33:45.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ SayaMeiii is bleeding. [MIEMBRO+]☠ SayaMeiii was blown up by Creeper
+[12Dec2024 02:34:05.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand is bleeding. [ADMIN]☠ LordZand was shot by Stymphalian Bird
+[12Dec2024 02:34:12.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand was shot by Stymphalian Bird
+[12Dec2024 02:34:27.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ SayaMeiii was blown up by Creeper
+[12Dec2024 02:35:49.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand is bleeding. [ADMIN]☠ LordZand was turned to ice by Ice Dragon
+[12Dec2024 02:35:56.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand was frozen by a dragon
+[12Dec2024 02:37:05.753] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SayaMeiii lost connection: Disconnected
+[12Dec2024 02:37:05.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ SayaMeiii left the game
+[12Dec2024 02:37:14.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[ADMIN]☠ LordZand: Set own game mode to Creative Mode]
+[12Dec2024 02:37:54.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[ADMIN]☠ LordZand: Set own game mode to Survival Mode]
+[12Dec2024 02:37:58.816] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SayaMeiii[/10.147.18.18:53088] logged in with entity id 36224 at (208.5214569063378, 64.0, 295.5026144081823)
+[12Dec2024 02:37:58.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ SayaMeiii joined the game
+[12Dec2024 02:37:58.843] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: SayaMeiii
+[12Dec2024 02:37:58.868] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to SayaMeiii...
+[12Dec2024 02:37:58.868] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[12Dec2024 02:37:58.869] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to SayaMeiii
+[12Dec2024 02:38:22.461] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Disconnected
+[12Dec2024 02:38:22.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand left the game
+[12Dec2024 02:39:49.318] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:54516] logged in with entity id 37217 at (-902.7787269034492, 68.5, -460.81089204924444)
+[12Dec2024 02:39:49.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand joined the game
+[12Dec2024 02:39:49.342] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[12Dec2024 02:39:49.367] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[12Dec2024 02:39:49.367] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[12Dec2024 02:39:49.368] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[12Dec2024 02:39:56.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand is bleeding. [ADMIN]☠ LordZand was pricked to death
+[12Dec2024 02:40:52.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand was pricked to death
+[12Dec2024 02:41:47.132] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[12Dec2024 02:41:47.132] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[12Dec2024 02:41:47.132] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[12Dec2024 02:41:47.133] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[12Dec2024 02:41:47.133] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[12Dec2024 02:41:47.133] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[12Dec2024 02:41:53.983] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[12Dec2024 02:48:14.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[12Dec2024 02:48:14.241] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Flying is not enabled on this server
+[12Dec2024 02:48:14.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand left the game
+[12Dec2024 02:48:39.671] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:54548] logged in with entity id 43542 at (-1042.021749014727, 64.24918707874468, -481.3625769668747)
+[12Dec2024 02:48:39.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand joined the game
+[12Dec2024 02:48:39.699] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[12Dec2024 02:48:39.719] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[12Dec2024 02:48:39.719] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[12Dec2024 02:48:39.720] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[12Dec2024 02:49:00.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ SayaMeiii has made the advancement [Not Today, Thank You]
+[12Dec2024 02:50:48.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has made the advancement [Piece of Chaos]
+[12Dec2024 02:52:08.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand is bleeding. [ADMIN]☠ LordZand was slain by Cyclops
+[12Dec2024 02:52:57.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[MIEMBRO+]☠ SayaMeiii> -1038 -545
+[12Dec2024 02:52:58.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand was slain by Cyclops
+[12Dec2024 02:53:04.732] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[12Dec2024 02:53:04.732] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[12Dec2024 02:53:04.733] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[12Dec2024 02:53:04.733] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[12Dec2024 02:53:04.733] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[12Dec2024 02:53:04.733] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[12Dec2024 02:53:04.733] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[12Dec2024 02:53:04.734] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
