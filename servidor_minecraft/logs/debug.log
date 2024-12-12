@@ -11051,3 +11051,86 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [12Dec2024 01:57:40.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Dec2024 01:57:40.180] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [12Dec2024 02:00:39.182] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[12Dec2024 02:02:40.165] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 02:02:40.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 02:05:57.666] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[12Dec2024 02:06:52.982] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_3
+[12Dec2024 02:07:12.059] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[12Dec2024 02:07:12.068] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight2
+[12Dec2024 02:07:12.069] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight1
+[12Dec2024 02:07:12.077] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/bend1
+[12Dec2024 02:07:12.077] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t1
+[12Dec2024 02:07:12.078] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t2
+[12Dec2024 02:07:12.078] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term1
+[12Dec2024 02:07:12.080] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/inter1
+[12Dec2024 02:07:12.084] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term2
+[12Dec2024 02:07:12.089] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term3
+[12Dec2024 02:07:12.267] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_4_0
+[12Dec2024 02:07:12.268] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_deadend_1
+[12Dec2024 02:07:12.270] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_turn_1
+[12Dec2024 02:07:12.271] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_3_0
+[12Dec2024 02:07:12.272] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_straight_0
+[12Dec2024 02:07:12.275] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:decor/lamp_post
+[12Dec2024 02:07:12.278] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_turn_0
+[12Dec2024 02:07:12.280] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_brown_2
+[12Dec2024 02:07:12.283] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/brown_fishing_house
+[12Dec2024 02:07:12.284] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_deadend_nohouse
+[12Dec2024 02:07:12.285] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_red_3
+[12Dec2024 02:07:12.286] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_nitwit
+[12Dec2024 02:07:12.288] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/lg_red_house_1
+[12Dec2024 02:07:12.289] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_fisherman
+[12Dec2024 02:07:12.291] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/red_sorcerer_house
+[12Dec2024 02:07:12.293] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_merchant
+[12Dec2024 02:07:12.295] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_brown_3
+[12Dec2024 02:07:12.295] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_sorcerer
+[12Dec2024 02:07:12.297] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/md_brown_house_1
+[12Dec2024 02:07:12.299] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_gardener
+[12Dec2024 02:07:12.548] [Worker-Main-1/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from integrated_api-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[12Dec2024 02:07:12.549] [Worker-Main-1/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[12Dec2024 02:07:12.552] [Worker-Main-1/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[12Dec2024 02:07:12.552] [Worker-Main-1/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from the_bumblezone-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[12Dec2024 02:07:12.558] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[12Dec2024 02:07:12.558] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[12Dec2024 02:07:12.969] [Worker-Main-32/DEBUG] [mixin/]: Mixing structures.BeardifierMixin from integrated_api-common.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[12Dec2024 02:07:12.974] [Worker-Main-32/DEBUG] [mixin/]: Mixing structures.BeardifierAccessor from integrated_api-common.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[12Dec2024 02:07:12.975] [Worker-Main-32/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[12Dec2024 02:07:12.979] [Worker-Main-32/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[12Dec2024 02:07:12.979] [Worker-Main-32/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[12Dec2024 02:07:13.005] [Worker-Main-32/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[12Dec2024 02:07:13.005] [Worker-Main-32/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[12Dec2024 02:07:16.283] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[12Dec2024 02:07:16.287] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_0_main
+[12Dec2024 02:07:16.291] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_roof_0
+[12Dec2024 02:07:16.295] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_bridge_0
+[12Dec2024 02:07:16.299] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_bridge_1_broken
+[12Dec2024 02:07:16.303] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_1_support
+[12Dec2024 02:07:16.305] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_0_tower
+[12Dec2024 02:07:16.308] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_2
+[12Dec2024 02:07:16.309] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_top_skeleton_juggernaut_0
+[12Dec2024 02:07:16.310] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_bottom
+[12Dec2024 02:07:16.310] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_top_skeleton_ranged_0
+[12Dec2024 02:07:16.312] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_top
+[12Dec2024 02:07:16.318] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_1
+[12Dec2024 02:07:16.321] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_2_tower
+[12Dec2024 02:07:16.325] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_2
+[12Dec2024 02:07:16.329] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_1
+[12Dec2024 02:07:16.336] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_roof_1
+[12Dec2024 02:07:16.337] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_top_phantom_0
+[12Dec2024 02:07:16.337] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_bridge_1_small_terminator
+[12Dec2024 02:07:16.338] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_bridge_0_small
+[12Dec2024 02:07:16.342] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_5
+[12Dec2024 02:07:16.343] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_skeleton_juggernaut_0
+[12Dec2024 02:07:16.343] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_skeleton_ranged_0
+[12Dec2024 02:07:16.344] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_witch_0
+[12Dec2024 02:07:16.348] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_3
+[12Dec2024 02:07:16.353] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_4
+[12Dec2024 02:07:16.356] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_0
+[12Dec2024 02:07:16.362] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_0
+[12Dec2024 02:07:16.363] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_skeleton_juggernaut_1
+[12Dec2024 02:07:16.366] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_1
+[12Dec2024 02:07:16.369] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_2
+[12Dec2024 02:07:16.372] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_0
+[12Dec2024 02:07:40.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 02:07:40.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 02:10:29.145] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Disconnected
+[12Dec2024 02:10:29.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand left the game
