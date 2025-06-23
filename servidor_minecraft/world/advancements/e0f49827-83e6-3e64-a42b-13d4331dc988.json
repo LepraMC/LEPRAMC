@@ -892,6 +892,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-06-23 04:28:21 +0000"
+    },
+    "done": true
+  },
   "witherstormmod:main/root": {
     "criteria": {
       "summoned_wither_storm": "2025-06-23 04:14:01 +0000"
