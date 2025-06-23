@@ -503,7 +503,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-12 03:08:59 +0000",
       "minecraft:spider": "2024-12-12 02:41:12 +0000",
+      "minecraft:cave_spider": "2024-12-12 03:04:42 +0000",
+      "minecraft:stray": "2024-12-12 03:05:45 +0000",
       "minecraft:zombie": "2024-12-10 01:47:39 +0000"
     },
     "done": false
@@ -546,7 +549,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "glow_berries": "2024-12-12 02:30:40 +0000"
+      "cooked_cod": "2024-12-12 02:58:53 +0000",
+      "glow_berries": "2024-12-12 02:30:40 +0000",
+      "mushroom_stew": "2024-12-12 03:12:49 +0000"
     },
     "done": false
   },
@@ -556,15 +561,69 @@
     },
     "done": true
   },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2024-12-12 02:39:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-12 02:49:00 +0000"
     },
     "done": true
   },
-  "the_bumblezone:teleportation/is_near_beehive": {
+  "immersive_paintings:misc/graffiti": {
     "criteria": {
-      "is_near_beehive": "2024-12-12 02:39:33 +0000"
+      "has_item": "2024-12-12 02:56:50 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2024-12-12 03:00:25 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll": {
+    "criteria": {
+      "find": "2024-12-12 03:02:18 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_throwing": {
+    "criteria": {
+      "find": "2024-12-12 03:02:18 +0000"
+    },
+    "done": true
+  },
+  "tetra:recipes/string": {
+    "criteria": {
+      "got_string": "2024-12-12 03:02:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2024-12-12 03:12:49 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bowfor_wizards": {
+    "criteria": {
+      "bowfor_wizards_0": "2024-12-12 03:16:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-12 03:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-12 03:28:05 +0000"
     },
     "done": true
   },
