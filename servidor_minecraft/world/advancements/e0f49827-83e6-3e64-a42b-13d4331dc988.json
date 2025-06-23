@@ -880,5 +880,23 @@
     },
     "done": true
   },
+  "witherstormmod:main/summon_wither_storm": {
+    "criteria": {
+      "summoned_wither_storm": "2025-06-23 04:14:01 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:main/infinite_potential": {
+    "criteria": {
+      "inventory_changed": "2025-06-23 04:13:47 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:main/root": {
+    "criteria": {
+      "summoned_wither_storm": "2025-06-23 04:14:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
