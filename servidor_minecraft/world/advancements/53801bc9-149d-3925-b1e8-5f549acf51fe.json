@@ -934,9 +934,9 @@
     },
     "done": true
   },
-  "enigmaticlegacy:book/relics/blazing_core": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "has_items": "2025-08-06 20:04:02 +0000"
+      "slept_in_bed": "2025-08-06 20:02:22 +0000"
     },
     "done": true
   },
@@ -946,9 +946,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
+  "enigmaticlegacy:book/relics/blazing_core": {
     "criteria": {
-      "slept_in_bed": "2025-08-06 20:02:22 +0000"
+      "has_items": "2025-08-06 20:04:02 +0000"
     },
     "done": true
   },
@@ -969,6 +969,24 @@
       "has_item_4": "2025-08-06 20:04:02 +0000"
     },
     "done": false
+  },
+  "enigmaticlegacy:book/relics/void_stone": {
+    "criteria": {
+      "has_items": "2025-08-06 20:05:01 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/enchantments/generic": {
+    "criteria": {
+      "has_items": "2025-08-06 20:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-08-06 20:13:11 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
