@@ -1055,3 +1055,57 @@
 [06Aug2025 18:32:38.674] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3458ms or 69 ticks behind
 [06Aug2025 18:32:39.544] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=5221, y=90, z=7925} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
 [06Aug2025 18:32:39.545] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=5221, y=90, z=7925}
+[06Aug2025 18:34:02.315] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Aug2025 18:34:02.321] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Aug2025 18:34:17.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[06Aug2025 18:34:17.599] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Flying is not enabled on this server
+[06Aug2025 18:34:17.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[06Aug2025 18:34:17.683] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Aug2025 18:34:42.386] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:52537] logged in with entity id 15946 at (5398.3994140625, 98.1173369884491, 8046.64697265625)
+[06Aug2025 18:34:42.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[06Aug2025 18:34:42.452] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[06Aug2025 18:34:42.485] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[06Aug2025 18:34:42.486] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[06Aug2025 18:34:42.486] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[06Aug2025 18:34:58.533] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2418ms or 48 ticks behind
+[06Aug2025 18:35:04.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 0.4650724610310135
+[06Aug2025 18:35:04.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 1.2214100074315866
+[06Aug2025 18:35:04.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 1.9468948089088371
+[06Aug2025 18:35:04.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 0.6377342745026908
+[06Aug2025 18:37:42.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand moved too quickly! -1.4413530681858902,-10.887624538855706,-0.5790053423615973
+[06Aug2025 18:38:21.653] [pool-8-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / idas:castle], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_orange], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian], ResourceKey[minecraft:worldgen/structure / idas:treetop_tavern], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=5483, y=82, z=7685}
+[06Aug2025 18:43:52.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 0.2676779585690383
+[06Aug2025 18:43:52.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 0.9853494450053404
+[06Aug2025 18:43:52.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 1.724219107701174
+[06Aug2025 18:43:52.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 2.4744314918680175
+[06Aug2025 18:43:52.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 3.2307131401448714
+[06Aug2025 18:43:52.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 3.9902423306384662
+[06Aug2025 18:43:52.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 4.755529274878421
+[06Aug2025 18:43:53.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 5.527738638670608
+[06Aug2025 18:43:53.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 5.978722761405198
+[06Aug2025 18:43:53.109] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 6.417969153755321
+[06Aug2025 18:43:53.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 0.28055441867945774
+[06Aug2025 18:43:53.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 1.0097091325733345
+[06Aug2025 18:43:53.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 1.7547232413307938
+[06Aug2025 18:43:53.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 0.6143452843753039
+[06Aug2025 18:43:53.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 0.6188859983903967
+[06Aug2025 18:43:53.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 1.3793565126907197
+[06Aug2025 18:43:53.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 0.6226156988141156
+[06Aug2025 18:43:53.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 0.6233113322623467
+[06Aug2025 18:43:53.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 1.386149754485814
+[06Aug2025 18:43:53.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 0.62388271913278
+[06Aug2025 18:43:53.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 1.3870268790788032
+[06Aug2025 18:43:53.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 0.6240463132917284
+[06Aug2025 18:43:53.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 0.624076825546581
+[06Aug2025 18:43:53.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 0.624093152045134
+[06Aug2025 18:43:53.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 0.6241018880291449
+[06Aug2025 18:43:53.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 1.3031278226399081
+[06Aug2025 18:43:53.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 0.49786010361549415
+[06Aug2025 18:44:01.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 0.48217752238360845
+[06Aug2025 18:44:01.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 1.2343213157100763
+[06Aug2025 18:44:01.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 1.984402882597351
+[06Aug2025 18:44:01.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 0.7321651826459856
+[06Aug2025 18:44:09.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 0.42476463121784036
+[06Aug2025 18:44:09.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 0.42214707145012653
+[06Aug2025 18:44:10.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 0.25758868798857293
+[06Aug2025 18:44:10.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 0.6724609202738066
