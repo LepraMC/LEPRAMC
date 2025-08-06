@@ -934,5 +934,41 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/relics/blazing_core": {
+    "criteria": {
+      "has_items": "2025-08-06 20:04:02 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2025-08-06 20:03:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-06 20:02:22 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/all_spellstones": {
+    "criteria": {
+      "spellstone4": "2025-08-06 20:04:02 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:main/discover_spellstone": {
+    "criteria": {
+      "spellstone": "2025-08-06 20:04:02 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/the_cube": {
+    "criteria": {
+      "has_item_4": "2025-08-06 20:04:02 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

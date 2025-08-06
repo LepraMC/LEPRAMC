@@ -1615,3 +1615,14 @@
 [06Aug2025 19:52:30.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> disccccc
 [06Aug2025 19:52:54.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> taba en el baño
 [06Aug2025 19:52:58.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> ya voy
+[06Aug2025 19:58:51.737] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Disconnected
+[06Aug2025 19:58:51.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 left the game
+[06Aug2025 20:02:22.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Sweet Dreams]
+[06Aug2025 20:03:45.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Ghost Riders In The Sky]
+[06Aug2025 20:04:02.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Elemental Might]
+[06Aug2025 20:05:08.563] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:56743] logged in with entity id 70882 at (185.84692250258917, 90.0, 8086.773668631023)
+[06Aug2025 20:05:08.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 joined the game
+[06Aug2025 20:05:08.608] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[06Aug2025 20:05:08.630] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[06Aug2025 20:05:08.631] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[06Aug2025 20:05:08.631] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
