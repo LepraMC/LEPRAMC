@@ -511,6 +511,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chorus_fruit": "2025-08-06 20:21:08 +0000",
       "pumpkin_pie": "2025-08-05 16:58:08 +0000",
       "bread": "2025-08-06 16:28:01 +0000",
       "golden_carrot": "2025-08-05 15:30:32 +0000"
@@ -985,6 +986,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-08-06 20:13:11 +0000"
+    },
+    "done": true
+  },
+  "rpgsmw:assassin_class": {
+    "criteria": {
+      "assassin_class_0": "2025-08-06 21:07:04 +0000"
     },
     "done": true
   },
