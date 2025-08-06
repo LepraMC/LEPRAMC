@@ -1606,3 +1606,12 @@
 [06Aug2025 19:35:55.733] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
 [06Aug2025 19:35:55.733] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [06Aug2025 19:35:55.734] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[06Aug2025 19:52:07.658] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:55357] logged in with entity id 65670 at (73.72368985907221, 129.4952008770059, 7945.365471904661)
+[06Aug2025 19:52:07.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 joined the game
+[06Aug2025 19:52:07.713] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[06Aug2025 19:52:07.746] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[06Aug2025 19:52:07.746] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[06Aug2025 19:52:07.747] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[06Aug2025 19:52:30.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> disccccc
+[06Aug2025 19:52:54.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> taba en el baño
+[06Aug2025 19:52:58.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> ya voy
