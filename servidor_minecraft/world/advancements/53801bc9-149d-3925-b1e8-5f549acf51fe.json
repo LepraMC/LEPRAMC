@@ -995,5 +995,17 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_forge_brick": {
+    "criteria": {
+      "forge": "2025-08-06 21:22:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_core": {
+    "criteria": {
+      "core": "2025-08-06 21:23:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
