@@ -611,6 +611,7 @@
       "minecraft:sunflower_plains": "2025-08-07 03:35:47 +0000",
       "minecraft:birch_forest": "2025-07-26 01:15:37 +0000",
       "minecraft:bamboo_jungle": "2025-07-29 17:10:42 +0000",
+      "minecraft:wooded_badlands": "2025-08-07 03:44:37 +0000",
       "minecraft:savanna_plateau": "2025-07-26 01:53:45 +0000",
       "minecraft:beach": "2025-07-25 20:26:32 +0000",
       "minecraft:dark_forest": "2025-07-25 20:26:14 +0000",
@@ -1543,6 +1544,12 @@
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2025-08-03 21:01:03 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/ichor_bottle": {
+    "criteria": {
+      "has_items": "2025-08-07 03:49:13 +0000"
     },
     "done": true
   },
