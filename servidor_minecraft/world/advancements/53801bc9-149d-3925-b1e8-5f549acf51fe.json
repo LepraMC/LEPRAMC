@@ -567,6 +567,7 @@
       "minecraft:river": "2025-08-05 15:42:23 +0000",
       "minecraft:lukewarm_ocean": "2025-08-05 16:42:50 +0000",
       "minecraft:dripstone_caves": "2025-08-05 15:51:40 +0000",
+      "minecraft:snowy_taiga": "2025-08-07 00:20:18 +0000",
       "minecraft:forest": "2025-08-05 17:02:06 +0000",
       "minecraft:lush_caves": "2025-08-06 18:24:21 +0000",
       "minecraft:desert": "2025-08-06 16:22:39 +0000",
@@ -1053,6 +1054,12 @@
   "enigmaticlegacy:book/materials/earth_heart": {
     "criteria": {
       "has_items": "2025-08-07 00:19:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-08-07 00:29:27 +0000"
     },
     "done": true
   },
