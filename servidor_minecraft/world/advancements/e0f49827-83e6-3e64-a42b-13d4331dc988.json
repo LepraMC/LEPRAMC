@@ -526,6 +526,7 @@
       "minecraft:blaze": "2025-07-25 20:34:48 +0000",
       "minecraft:pillager": "2025-08-03 05:06:56 +0000",
       "minecraft:skeleton": "2025-07-26 00:56:14 +0000",
+      "minecraft:ravager": "2025-08-07 21:21:17 +0000",
       "minecraft:ghast": "2025-07-26 00:35:43 +0000",
       "minecraft:hoglin": "2025-08-03 00:20:57 +0000",
       "minecraft:guardian": "2025-08-02 23:06:38 +0000",
@@ -535,9 +536,11 @@
       "minecraft:creeper": "2025-07-26 01:39:30 +0000",
       "minecraft:wither": "2025-08-07 06:05:04 +0000",
       "minecraft:slime": "2025-07-26 15:59:45 +0000",
+      "minecraft:evoker": "2025-08-07 21:23:42 +0000",
       "quark:forgotten": "2025-08-02 04:12:10 +0000",
       "minecraft:phantom": "2025-07-29 17:17:25 +0000",
       "minecraft:zombified_piglin": "2025-08-07 20:51:33 +0000",
+      "minecraft:witch": "2025-08-07 21:21:24 +0000",
       "minecraft:wither_skeleton": "2025-07-26 15:58:28 +0000",
       "minecraft:husk": "2025-08-07 03:41:19 +0000",
       "minecraft:ender_dragon": "2025-08-02 04:59:31 +0000",
@@ -545,6 +548,7 @@
       "minecraft:piglin": "2025-07-29 04:22:09 +0000",
       "minecraft:enderman": "2025-07-27 21:41:55 +0000",
       "minecraft:stray": "2025-07-29 17:12:28 +0000",
+      "minecraft:vex": "2025-08-07 21:23:33 +0000",
       "minecraft:zombie": "2025-07-25 20:16:35 +0000",
       "minecraft:zombie_villager": "2025-07-28 22:05:02 +0000"
     },
@@ -1649,6 +1653,12 @@
   "born_in_chaos_v1:dismantledto_bones": {
     "criteria": {
       "dismantledto_bones_0": "2025-08-07 20:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-08-07 21:26:15 +0000"
     },
     "done": true
   },

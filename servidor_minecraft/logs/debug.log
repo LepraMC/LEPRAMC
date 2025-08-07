@@ -13333,3 +13333,642 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [07Aug2025 21:12:49.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Aug2025 21:12:49.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07Aug2025 21:13:04.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 21:14:11.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 21:14:16.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 21:14:49.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 21:15:58.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> -9600 -3200
+[07Aug2025 21:16:15.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 21:16:37.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> -9600 -3200
+[07Aug2025 21:16:49.822] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:hermits_hollow/hermits_hollow
+[07Aug2025 21:16:54.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> -9600 -3200
+[07Aug2025 21:17:09.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> -9600 -3200
+[07Aug2025 21:17:10.066] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:cottage/cottage
+[07Aug2025 21:17:10.931] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[07Aug2025 21:17:18.922] [Worker-Main-3/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from integrated_api-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[07Aug2025 21:17:18.923] [Worker-Main-3/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[07Aug2025 21:17:18.923] [Worker-Main-3/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[07Aug2025 21:17:18.923] [Worker-Main-3/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from the_bumblezone-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[07Aug2025 21:17:18.924] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[07Aug2025 21:17:18.924] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[07Aug2025 21:17:19.873] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[07Aug2025 21:17:19.880] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight1
+[07Aug2025 21:17:19.881] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight2
+[07Aug2025 21:17:19.881] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/bend1
+[07Aug2025 21:17:19.882] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term3
+[07Aug2025 21:17:19.886] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t2
+[07Aug2025 21:17:19.888] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term2
+[07Aug2025 21:17:19.893] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/intersection_big
+[07Aug2025 21:17:19.900] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term1
+[07Aug2025 21:17:19.901] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/inter1
+[07Aug2025 21:17:20.779] [Worker-Main-83/DEBUG] [mixin/]: Mixing world.NoiseChunkAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[07Aug2025 21:17:20.784] [Worker-Main-83/DEBUG] [mixin/]: Mixing structures.BeardifierMixin from integrated_api-common.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[07Aug2025 21:17:20.785] [Worker-Main-83/DEBUG] [mixin/]: Mixing structures.BeardifierAccessor from integrated_api-common.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[07Aug2025 21:17:20.785] [Worker-Main-83/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[07Aug2025 21:17:20.786] [Worker-Main-83/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[07Aug2025 21:17:20.786] [Worker-Main-83/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[07Aug2025 21:17:20.790] [Worker-Main-83/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[07Aug2025 21:17:20.790] [Worker-Main-83/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[07Aug2025 21:17:22.390] [Worker-Main-83/DEBUG] [mixin/]: Mixing structures.JigsawPlacementUnlimit from integrated_api-common.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[07Aug2025 21:17:22.390] [Worker-Main-83/DEBUG] [mixin/]: Mixing ChunkGeneratorMixin from quark.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[07Aug2025 21:17:22.391] [Worker-Main-83/DEBUG] [mixin/]: Mixing IMixinJigsawPlacement from witherstormmod.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[07Aug2025 21:17:22.392] [Worker-Main-83/DEBUG] [mixin/]: Renaming @Invoker method invokeAddPieces(Lnet/minecraft/world/level/levelgen/RandomState;IZLnet/minecraft/world/level/chunk/ChunkGenerator;Lnet/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplateManager;Lnet/minecraft/world/level/LevelHeightAccessor;Lnet/minecraft/util/RandomSource;Lnet/minecraft/core/Registry;Lnet/minecraft/world/level/levelgen/structure/PoolElementStructurePiece;Ljava/util/List;Lnet/minecraft/world/phys/shapes/VoxelShape;)V to invokeAddPieces_$md$253a15$0 in witherstormmod.mixins.json:IMixinJigsawPlacement
+[07Aug2025 21:17:22.426] [Worker-Main-83/DEBUG] [mixin/]: Mixing IMixinStructurePiecesBuilder from witherstormmod.mixins.json into net.minecraft.world.level.levelgen.structure.pieces.StructurePiecesBuilder
+[07Aug2025 21:17:22.560] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[07Aug2025 21:17:22.705] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[07Aug2025 21:17:30.422] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[07Aug2025 21:17:31.508] [pool-8-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_orange], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / idas:castle], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle]] from pos BlockPos{x=-533, y=71, z=8315}
+[07Aug2025 21:17:32.345] [pool-8-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/wandering_trader_camp/town_centers/trader_meeting_point_1
+[07Aug2025 21:17:32.372] [pool-8-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/town_centers/med_meeting_point_1
+[07Aug2025 21:17:32.394] [pool-8-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/town_centers/sparse_jungle_meeting_point_1
+[07Aug2025 21:17:44.190] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/extractor_platform_small
+[07Aug2025 21:17:44.192] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/intersection_split_7_a
+[07Aug2025 21:17:49.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 21:17:49.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 21:17:52.161] [Worker-Main-84/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[07Aug2025 21:17:52.383] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[07Aug2025 21:17:52.395] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[07Aug2025 21:17:53.401] [Worker-Main-32/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:17:53.401] [Worker-Main-32/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:17:53.403] [Worker-Main-32/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:17:54.390] [Worker-Main-84/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:17:54.390] [Worker-Main-84/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:17:54.391] [Worker-Main-84/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:17:54.392] [Worker-Main-84/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:17:54.392] [Worker-Main-84/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:17:54.408] [Worker-Main-84/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:18:00.324] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[07Aug2025 21:18:00.342] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[07Aug2025 21:18:00.371] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[07Aug2025 21:18:00.389] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_2
+[07Aug2025 21:18:01.550] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ars_nouveau:wilden_den_top_defender
+[07Aug2025 21:18:01.658] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ars_nouveau:wilden_den_top_stalker
+[07Aug2025 21:18:01.773] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ars_nouveau:wilden_den_top_hunter
+[07Aug2025 21:18:04.472] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[07Aug2025 21:18:04.475] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[07Aug2025 21:18:04.476] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[07Aug2025 21:18:04.476] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[07Aug2025 21:18:04.477] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[07Aug2025 21:18:04.478] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[07Aug2025 21:18:04.478] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[07Aug2025 21:18:04.479] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[07Aug2025 21:18:04.479] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[07Aug2025 21:19:23.143] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/62497, l='ServerLevel[world]', x=-576.24, y=70.00, z=8185.24] died, message: 'Nitwit burned to death'
+[07Aug2025 21:19:33.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 21:22:49.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 21:22:49.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 21:22:51.501] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:22:51.501] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:22:51.501] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:22:51.501] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:22:51.501] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:22:51.501] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:22:51.501] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:22:51.501] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:22:51.502] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:22:51.502] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:22:51.502] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:22:51.502] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:22:51.502] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:22:51.502] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:22:51.502] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:22:51.502] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:22:51.502] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:22:51.502] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:22:51.502] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:22:51.502] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:22:51.502] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:22:51.502] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:22:51.502] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:22:51.502] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:22:53.250] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/62627, l='ServerLevel[world]', x=-656.75, y=63.75, z=8181.33] died, message: 'Villager was slain by Vindicator'
+[07Aug2025 21:23:08.500] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:08.501] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:08.501] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:08.501] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:08.501] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:08.501] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:08.501] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:08.501] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:08.501] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:08.501] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:08.501] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:08.501] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:08.501] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:08.501] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:08.501] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:08.501] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:08.502] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:08.502] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:08.502] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:08.502] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:08.502] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:08.502] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:08.502] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:08.502] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:15.202] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/62531, l='ServerLevel[world]', x=-634.37, y=68.02, z=8177.47] died, message: 'Butcher was slain by Vindicator'
+[07Aug2025 21:23:31.900] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:31.900] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:31.900] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:31.900] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:31.900] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:31.901] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:31.901] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:31.901] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:31.901] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:31.901] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:31.901] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:31.901] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:31.901] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:31.901] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:31.901] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:31.901] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:31.901] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:31.902] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:31.902] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:31.902] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:31.902] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:31.902] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:31.902] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:31.902] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:23:42.411] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_evoker_loot
+[07Aug2025 21:24:28.702] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:24:28.702] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:24:28.702] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:24:28.702] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:24:28.702] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:24:28.702] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:24:28.702] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:24:28.702] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:24:28.702] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:24:28.702] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:24:28.702] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:24:28.702] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:24:28.702] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:24:28.702] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:24:28.702] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:24:28.702] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:24:28.702] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:24:28.702] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:24:28.702] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:24:28.702] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:24:28.702] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:24:28.702] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:24:28.702] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:24:28.702] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:24:30.005] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_evoker_loot
+[07Aug2025 21:25:10.856] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:10.856] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:10.856] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:10.856] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:10.856] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:10.856] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:10.856] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:10.856] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:10.856] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:10.856] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:10.856] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:10.856] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:10.856] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:10.856] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:10.856] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:10.857] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:10.857] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:10.857] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:10.857] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:10.857] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:10.857] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:10.857] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:10.857] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:10.857] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:26.656] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_evoker_loot
+[07Aug2025 21:25:31.649] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/62614, l='ServerLevel[world]', x=-631.43, y=68.50, z=8192.41] died, message: 'Toolsmith was slain by Vindicator'
+[07Aug2025 21:25:43.305] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:43.305] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:43.305] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:43.305] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:43.305] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:43.305] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:43.305] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:43.305] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:43.306] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:43.306] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:43.306] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:43.306] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:43.306] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:43.306] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:43.306] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:43.306] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:43.306] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:43.306] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:43.306] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:43.306] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:43.306] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:43.306] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:43.306] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:43.306] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:44.458] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_evoker_loot
+[07Aug2025 21:25:44.848] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:44.848] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:44.848] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:44.848] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:44.848] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:44.848] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:44.848] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:44.848] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:44.848] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:44.848] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:44.848] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:44.848] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:44.849] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:44.849] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:44.849] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:44.849] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:44.849] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:44.849] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:44.849] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:44.849] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:44.849] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:44.849] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:44.849] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:25:44.849] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:26:01.852] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:26:01.852] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:26:01.852] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:26:01.852] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:26:01.852] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:26:01.852] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:26:01.852] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:26:01.852] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:26:01.852] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:26:01.852] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:26:01.852] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:26:01.852] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:26:01.852] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:26:01.852] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:26:01.852] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:26:01.852] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:26:01.853] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:26:01.853] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:26:01.853] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:26:01.853] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:26:01.853] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:26:01.853] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:26:01.853] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:26:01.853] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 21:26:13.159] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_evoker_loot
+[07Aug2025 21:26:15.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has completed the challenge [Hero of the Village]
+[07Aug2025 21:26:42.064] [Worker-Main-32/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[07Aug2025 21:26:42.437] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[07Aug2025 21:26:42.437] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[07Aug2025 21:26:42.437] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[07Aug2025 21:26:50.737] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/town_centers/old_growth_taiga_meeting_point_1
+[07Aug2025 21:26:50.738] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/streets/corner_01
+[07Aug2025 21:26:50.740] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/streets/crossroad_01
+[07Aug2025 21:26:50.740] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/old_growth_taiga_planter_1
+[07Aug2025 21:26:50.742] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/streets/crossroad_02
+[07Aug2025 21:26:50.742] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/streets/corner_02
+[07Aug2025 21:26:50.745] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_mason_1
+[07Aug2025 21:26:50.746] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/streets/straight_02
+[07Aug2025 21:26:50.746] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/streets/straight_01
+[07Aug2025 21:26:50.747] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_small_house_2
+[07Aug2025 21:26:50.748] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_small_house_1
+[07Aug2025 21:26:50.751] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_armorer_and_butcher_1
+[07Aug2025 21:26:50.752] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_small_farm_1
+[07Aug2025 21:26:50.753] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_medium_house_2
+[07Aug2025 21:26:50.755] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_cartographer_1
+[07Aug2025 21:26:50.757] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_leatherworker_1
+[07Aug2025 21:26:50.759] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_shepherd_1
+[07Aug2025 21:26:50.760] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_temple_1
+[07Aug2025 21:26:50.762] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_fisher_1
+[07Aug2025 21:26:50.809] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_medium_house_1
+[07Aug2025 21:26:50.810] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_small_house_3
+[07Aug2025 21:26:50.811] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/terminators/terminator_02
+[07Aug2025 21:26:50.812] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_small_house_6
+[07Aug2025 21:26:50.813] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_toolsmith_and_weaponsmith_1
+[07Aug2025 21:26:50.814] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/houses/old_growth_taiga_fletcher_1
+[07Aug2025 21:26:50.814] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/terminators/terminator_01
+[07Aug2025 21:26:50.933] [Worker-Main-83/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-1082, y=76, z=7702}
+[07Aug2025 21:26:50.934] [Worker-Main-83/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-1082, y=76, z=7703}
+[07Aug2025 21:26:50.934] [Worker-Main-83/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:26:50.934] [Worker-Main-83/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:26:50.935] [Worker-Main-83/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:26:50.935] [Worker-Main-83/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:26:50.935] [Worker-Main-83/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:26:50.935] [Worker-Main-83/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:26:52.883] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:impaled_icebreaker
+[07Aug2025 21:26:52.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -8.454102828318128,0.0,-7.505435445639705
+[07Aug2025 21:26:52.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -9.678423350739877,0.0,-8.582586000596166
+[07Aug2025 21:26:56.180] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/extractor_platform_large
+[07Aug2025 21:26:56.181] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/intersection_6
+[07Aug2025 21:26:56.243] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_4_0
+[07Aug2025 21:27:02.324] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:sunken_ship/sunken_ship_ruins1
+[07Aug2025 21:27:07.434] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[07Aug2025 21:27:13.788] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/large_hallway_ruined
+[07Aug2025 21:27:13.789] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_hallway
+[07Aug2025 21:27:13.790] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_hallway_ruined
+[07Aug2025 21:27:13.791] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/hammer
+[07Aug2025 21:27:13.791] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_hallway_cap_1
+[07Aug2025 21:27:13.792] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/crate_2_4
+[07Aug2025 21:27:13.793] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/crate_2_5
+[07Aug2025 21:27:13.793] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/crate_2_2
+[07Aug2025 21:27:13.794] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_turn_b
+[07Aug2025 21:27:13.795] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/earthpiercer_schematic
+[07Aug2025 21:27:13.795] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/crate_2_1
+[07Aug2025 21:27:13.796] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/crate_2_3
+[07Aug2025 21:27:13.797] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/large_hallway_2
+[07Aug2025 21:27:13.797] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/vent
+[07Aug2025 21:27:13.798] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_hallway_debris
+[07Aug2025 21:27:13.799] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_turn_a
+[07Aug2025 21:27:13.799] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/large_cap_3
+[07Aug2025 21:27:13.800] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/intersection_5_a
+[07Aug2025 21:27:13.802] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/shaft_large
+[07Aug2025 21:27:13.802] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_entrance_2
+[07Aug2025 21:27:13.803] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_hallway_ruined_cap
+[07Aug2025 21:27:13.804] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/spawner
+[07Aug2025 21:27:13.804] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_entrance_3
+[07Aug2025 21:27:13.805] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/shaft_large_cap_up
+[07Aug2025 21:27:13.805] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/large_cap_2
+[07Aug2025 21:27:13.806] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/large_cap_1
+[07Aug2025 21:27:13.806] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/transfer_unit
+[07Aug2025 21:27:13.807] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/cave_3
+[07Aug2025 21:27:13.808] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/intersection_split_7_b
+[07Aug2025 21:27:13.809] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/container_large
+[07Aug2025 21:27:13.914] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/intersection_5_c
+[07Aug2025 21:27:13.915] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/crate_3_1
+[07Aug2025 21:27:13.916] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/sculk_contained
+[07Aug2025 21:27:13.949] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/container
+[07Aug2025 21:27:13.950] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/cave_1
+[07Aug2025 21:27:13.951] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/sculk_broken
+[07Aug2025 21:27:13.951] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/shaft_large_ruined_up_small
+[07Aug2025 21:27:13.952] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_entrance_1
+[07Aug2025 21:27:13.952] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/shaft_large_cap_down
+[07Aug2025 21:27:13.953] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/extractor_schematic
+[07Aug2025 21:27:13.954] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/cave_2
+[07Aug2025 21:27:13.954] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/stonecutter_schematic
+[07Aug2025 21:27:15.464] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/shaft_large_ruined
+[07Aug2025 21:27:15.465] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/large_hallway_1
+[07Aug2025 21:27:15.466] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/small_hallway_cap_2
+[07Aug2025 21:27:18.114] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:sunken_ship/sunken_ship_ruins2
+[07Aug2025 21:27:22.744] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/town_centers/snowy_taiga_meeting_point_1
+[07Aug2025 21:27:22.758] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/corner_01
+[07Aug2025 21:27:22.759] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/snowy_taiga_drakkar_1
+[07Aug2025 21:27:22.790] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/snowy_taiga_wood_pile_1
+[07Aug2025 21:27:22.792] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_armorer_1
+[07Aug2025 21:27:22.793] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_butcher_1
+[07Aug2025 21:27:22.795] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_cartographer_1
+[07Aug2025 21:27:22.796] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_fisher_1
+[07Aug2025 21:27:22.797] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_fletcher_1
+[07Aug2025 21:27:22.798] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_leatherworker_1
+[07Aug2025 21:27:22.799] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_library_1
+[07Aug2025 21:27:22.800] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_mason_1
+[07Aug2025 21:27:22.801] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_shepherd_1
+[07Aug2025 21:27:22.801] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_farm_1
+[07Aug2025 21:27:22.802] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_toolsmith_and_weaponsmith_1
+[07Aug2025 21:27:22.803] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_temple_1
+[07Aug2025 21:27:22.804] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_house_1
+[07Aug2025 21:27:22.805] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_house_2
+[07Aug2025 21:27:22.806] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_house_3
+[07Aug2025 21:27:22.807] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_house_4
+[07Aug2025 21:27:22.808] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_house_5
+[07Aug2025 21:27:22.809] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/terminators/terminator_01
+[07Aug2025 21:27:22.809] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/terminators/terminator_02
+[07Aug2025 21:27:22.810] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/terminators/terminator_03
+[07Aug2025 21:27:22.810] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/terminators/terminator_04
+[07Aug2025 21:27:22.822] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/straight_05
+[07Aug2025 21:27:22.830] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/crossroad_06
+[07Aug2025 21:27:22.839] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/modded/waystones/waystone_default
+[07Aug2025 21:27:22.839] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/straight_03
+[07Aug2025 21:27:22.866] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/crossroad_05
+[07Aug2025 21:27:22.874] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/crossroad_01
+[07Aug2025 21:27:22.875] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/straight_04
+[07Aug2025 21:27:22.876] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/straight_06
+[07Aug2025 21:27:22.877] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/crossroad_02
+[07Aug2025 21:27:22.878] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/straight_01
+[07Aug2025 21:27:22.879] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/turn_01
+[07Aug2025 21:27:22.880] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/crossroad_03
+[07Aug2025 21:27:22.880] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/crossroad_04
+[07Aug2025 21:27:22.881] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/corner_03
+[07Aug2025 21:27:22.882] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/straight_02
+[07Aug2025 21:27:22.886] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/corner_02
+[07Aug2025 21:27:23.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> -9600 -3200
+[07Aug2025 21:27:28.861] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/large_cap_4
+[07Aug2025 21:27:28.862] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/shaft_large_ruined_up
+[07Aug2025 21:27:28.891] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[07Aug2025 21:27:31.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -8.358267670267423,0.0,-7.052045847450245
+[07Aug2025 21:27:31.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -9.232015342464592,0.0,-7.7892450957297115
+[07Aug2025 21:27:38.884] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/crate_3_2
+[07Aug2025 21:27:38.885] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/crate_3_5
+[07Aug2025 21:27:40.785] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/crate_3_4
+[07Aug2025 21:27:43.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -8.77513089696913,0.0,-7.403762100479071
+[07Aug2025 21:27:43.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -10.032787941112474,0.0,-8.464873742932468
+[07Aug2025 21:27:43.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -11.291125663592993,0.0,-9.526559687984445
+[07Aug2025 21:27:43.185] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/crate_3_3
+[07Aug2025 21:27:44.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 19.543236209338147,0.0,16.489038541567425
+[07Aug2025 21:27:44.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 19.543236209338147,0.0,16.489038541567425
+[07Aug2025 21:27:44.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 19.15372249826737,0.0,16.160397648855906
+[07Aug2025 21:27:44.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 19.543236209338147,0.0,16.489038541567425
+[07Aug2025 21:27:44.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 19.64131063892978,0.0,16.57178599609142
+[07Aug2025 21:27:44.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 19.189214365212592,0.0,16.190342881861397
+[07Aug2025 21:27:44.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 18.641381242247917,0.0,15.728124578702591
+[07Aug2025 21:27:49.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 21:27:49.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 21:27:50.920] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/shaft_large_ruined_down_small
+[07Aug2025 21:27:56.817] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[07Aug2025 21:27:56.826] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_0
+[07Aug2025 21:27:56.827] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_pillager_0
+[07Aug2025 21:27:56.828] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_vindicator_spawner_0
+[07Aug2025 21:27:56.889] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[07Aug2025 21:27:56.904] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[07Aug2025 21:27:56.916] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[07Aug2025 21:28:01.409] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of idas:nexus/nexus
+[07Aug2025 21:28:02.017] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/70884, l='ServerLevel[world]', x=-2021.50, y=59.00, z=7019.50]
+[07Aug2025 21:28:22.790] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[07Aug2025 21:28:41.824] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:sunken_ship/sunken_ship
+[07Aug2025 21:28:49.397] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[07Aug2025 21:28:49.398] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_pillager_0
+[07Aug2025 21:28:49.400] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_0
+[07Aug2025 21:28:49.401] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_evoker_0
+[07Aug2025 21:28:49.401] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_vindicator_spawner_0
+[07Aug2025 21:28:57.418] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:57.563] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:57.629] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:57.695] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:57.831] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:57.904] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:58.002] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:58.092] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:58.208] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:58.321] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:58.406] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:58.518] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:58.623] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:58.766] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:58.838] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:58.921] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:58.993] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:59.134] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:59.197] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:59.298] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:59.420] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:29:02.269] [Worker-Main-3/DEBUG] [ModernFix/]: Structure alexscaves:abyssal_ruins_0 is being run through DFU (hash b7b8f5bc5bbf0a2442dc025f1d4784418e019d8719999e061de8f7804ee89d00), this will cause launch time delays
+[07Aug2025 21:29:04.179] [Worker-Main-32/DEBUG] [ModernFix/]: Structure alexscaves:abyssal_ruins_2 is being run through DFU (hash a065931b223ae535149a44ab4e3db455be860fdbe3a3e47acc2e1db87b459ef8), this will cause launch time delays
+[07Aug2025 21:29:10.564] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[07Aug2025 21:29:10.605] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[07Aug2025 21:29:26.529] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[07Aug2025 21:30:18.691] [Worker-Main-83/DEBUG] [ModernFix/]: Structure alexscaves:abyssal_ruins_1 is being run through DFU (hash d1f776f1e47613d0d2f150ddb53693548859d3ad87c74a97a019bd4d775f1fb2), this will cause launch time delays
+[07Aug2025 21:30:22.533] [Worker-Main-84/DEBUG] [ModernFix/]: Structure alexscaves:whalefall_skull_2 is being run through DFU (hash 03b257e4edd3784c01d1e1288ddc7dc7bd284817cbc197519599c1d13e8057b1), this will cause launch time delays
+[07Aug2025 21:30:22.564] [Worker-Main-84/DEBUG] [ModernFix/]: Structure alexscaves:whalefall_body_3 is being run through DFU (hash 54ad9e7dc3553fcd52df470ed7430cbb23da9537d10fb568a7de530495a30ba5), this will cause launch time delays
+[07Aug2025 21:30:22.567] [Worker-Main-84/DEBUG] [ModernFix/]: Structure alexscaves:whalefall_tail_0 is being run through DFU (hash ffe9edd5718c8bd1c78e0e860f2b33e3a00fb95086d16924f6042fd84194707b), this will cause launch time delays
+[07Aug2025 21:30:28.865] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_1
+[07Aug2025 21:30:28.889] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_dolphin_rider_0
+[07Aug2025 21:30:28.900] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_ranged_skeleton_0
+[07Aug2025 21:30:28.904] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_0
+[07Aug2025 21:30:28.906] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_skeleton_juggernaut_1
+[07Aug2025 21:30:28.906] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_captain_0
+[07Aug2025 21:30:31.936] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/extractor_active
+[07Aug2025 21:30:31.937] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/extractor_inactive
+[07Aug2025 21:30:34.634] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of idas:nexus/nexus_white
+[07Aug2025 21:30:35.502] [Worker-Main-84/DEBUG] [ModernFix/]: Structure alexscaves:deep_one_ruins_2 is being run through DFU (hash 1d1ee602572333460956864a92b2f53f393c1c323bb6e773dadaef07d1fa0a82), this will cause launch time delays
+[07Aug2025 21:30:35.807] [Worker-Main-32/DEBUG] [ModernFix/]: Structure alexscaves:abyssal_ruins_3 is being run through DFU (hash be77ebec84ed7c0144ab92932235a9493381fb80158bd5ea4580901bf0987560), this will cause launch time delays
+[07Aug2025 21:30:36.589] [Worker-Main-2/DEBUG] [ModernFix/]: Structure alexscaves:deep_one_ruins_1 is being run through DFU (hash e312aeb0d43b6cfe2743b69a481b155b9edcedae4cb67695a8f5198d039538d9), this will cause launch time delays
+[07Aug2025 21:30:42.048] [Worker-Main-32/DEBUG] [ModernFix/]: Structure alexscaves:deep_one_ruins_0 is being run through DFU (hash 04e5babb3b7b40c100ba982a0bef9200379bae3e0d962006e07dd308de6736e1), this will cause launch time delays
+[07Aug2025 21:30:52.199] [Worker-Main-84/DEBUG] [ModernFix/]: Structure alexscaves:whalefall_skull_0 is being run through DFU (hash 1253ebb7a0107689368651eb71cf927c41bdec76a7b890fb2dad646896751dd3), this will cause launch time delays
+[07Aug2025 21:30:52.200] [Worker-Main-84/DEBUG] [ModernFix/]: Structure alexscaves:whalefall_body_0 is being run through DFU (hash b319dfbdc567d87adb21d54e8609603b4e9e9933f411d144e54a9efec77b074c), this will cause launch time delays
+[07Aug2025 21:30:52.203] [Worker-Main-84/DEBUG] [ModernFix/]: Structure alexscaves:whalefall_tail_1 is being run through DFU (hash c6cd90bd7c906c34f725d1ef672a34abb218f7d35262c00177e2fa482c3c3540), this will cause launch time delays
+[07Aug2025 21:31:03.790] [Worker-Main-84/DEBUG] [ModernFix/]: Structure alexscaves:whalefall_tail_2 is being run through DFU (hash 5a8d22a48837fea81fea3ec99071babaf80711d832d0127650e9e4f9ed6f70f2), this will cause launch time delays
+[07Aug2025 21:31:07.961] [Worker-Main-3/DEBUG] [ModernFix/]: Structure alexscaves:whalefall_skull_1 is being run through DFU (hash 33e1717980d67c88bcef4f90f82de4f1246c1d597f38712fa710f32c902994dc), this will cause launch time delays
+[07Aug2025 21:31:07.962] [Worker-Main-3/DEBUG] [ModernFix/]: Structure alexscaves:whalefall_body_2 is being run through DFU (hash d627487fc7e9e68e95a15507465f1ae595895f56afcc16a1f2d4905d12c57f4e), this will cause launch time delays
+[07Aug2025 21:31:20.977] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:31:21.518] [Worker-Main-84/DEBUG] [ModernFix/]: Structure alexscaves:whalefall_tail_3 is being run through DFU (hash 4e928cb83afddb6a04dec38dfeb36e0a0f378c2e33e47f622725e9082b00b3fb), this will cause launch time delays
+[07Aug2025 21:31:23.815] [Worker-Main-83/DEBUG] [ModernFix/]: Structure alexscaves:deep_one_ruins_3 is being run through DFU (hash 83bd2c96c1756bbd206b05133ee0a8ca84526c06513d4c358a39db82852b9d94), this will cause launch time delays
+[07Aug2025 21:31:42.267] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/old_growth_taiga/base_plate
+[07Aug2025 21:31:42.283] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/badlands/base_plate
+[07Aug2025 21:31:42.340] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/snowy_slopes/base_plate
+[07Aug2025 21:31:42.353] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/beach/base_plate
+[07Aug2025 21:31:42.408] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/sunflower_plains/base_plate
+[07Aug2025 21:31:42.513] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/snowy_plains/base_plate
+[07Aug2025 21:31:42.552] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/savanna/base_plate
+[07Aug2025 21:31:42.573] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/taiga/base_plate
+[07Aug2025 21:31:42.588] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/grove/base_plate
+[07Aug2025 21:31:42.608] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/mushroom_fields/base_plate
+[07Aug2025 21:31:42.627] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/forest/base_plate
+[07Aug2025 21:31:42.695] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/rustic/base_plate
+[07Aug2025 21:31:42.714] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/iberian/base_plate
+[07Aug2025 21:31:42.777] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/exclusives/oriental/base_plate
+[07Aug2025 21:31:42.791] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/mediterranean/base_plate
+[07Aug2025 21:31:42.807] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/birch/base_plate
+[07Aug2025 21:31:42.937] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/pillager_outpost_ocean/base_plate
+[07Aug2025 21:31:42.952] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/pillager
+[07Aug2025 21:31:42.953] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/vindicator
+[07Aug2025 21:31:42.953] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/outpost_captain
+[07Aug2025 21:31:44.439] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3307ms or 66 ticks behind
+[07Aug2025 21:31:44.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 7.113362618891642,0.0,-7.175647484380534
+[07Aug2025 21:31:44.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 7.301861627021026,0.0,-7.365793582301194
+[07Aug2025 21:31:44.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 7.4681177521911195,0.0,-7.533502440667689
+[07Aug2025 21:31:44.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 7.614755654591136,0.0,-7.681421653746838
+[07Aug2025 21:31:44.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 7.74409028450782,0.0,-7.8118863996824075
+[07Aug2025 21:31:44.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 7.858163428094485,0.0,-7.9269563055977414
+[07Aug2025 21:31:44.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 7.958775940737723,0.0,-8.028447962615246
+[07Aug2025 21:31:44.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 8.047516176889076,0.0,-8.117963604104261
+[07Aug2025 21:31:44.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 8.125785065174568,0.0,-8.196916399897418
+[07Aug2025 21:31:44.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 8.194818224642404,0.0,-8.26655276578731
+[07Aug2025 21:31:44.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 8.255705471292913,0.0,-8.327972040502573
+[07Aug2025 21:31:44.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 8.309408022838852,0.0,-8.382143840801291
+[07Aug2025 21:31:44.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 8.495229932334496,0.0,-8.569579504711328
+[07Aug2025 21:31:44.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 8.797581115542016,0.0,-8.874553896327598
+[07Aug2025 21:31:44.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 9.202711118163279,0.0,-9.283197445780388
+[07Aug2025 21:31:44.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 9.698492039507983,0.0,-9.783277192444984
+[07Aug2025 21:31:44.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 10.274227071166024,0.0,-10.364003665049495
+[07Aug2025 21:31:44.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 10.920481628120797,0.0,-11.015860549934587
+[07Aug2025 21:31:44.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 11.628934406387089,0.0,-11.730454458450367
+[07Aug2025 21:31:44.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 12.25378975681815,0.0,-12.360726285761302
+[07Aug2025 21:31:44.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 12.804912175898153,0.0,-12.916626037449532
+[07Aug2025 21:31:44.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 13.291002149526776,0.0,-13.406929618437971
+[07Aug2025 21:31:44.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 13.719733506267403,0.0,-13.839377376870289
+[07Aug2025 21:31:44.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 14.097874562912693,0.0,-14.220796299807262
+[07Aug2025 21:31:44.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 14.43139497487391,0.0,-14.557207789837776
+[07Aug2025 21:31:44.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 14.725559978223373,0.0,-14.853922724044423
+[07Aug2025 21:31:44.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 14.98501351117784,0.0,-15.115625296014514
+[07Aug2025 21:31:44.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 15.213851527243605,0.0,-15.346446964492316
+[07Aug2025 21:31:44.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 15.415686657413517,0.0,-15.55003167608993
+[07Aug2025 21:31:44.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 15.593705242223677,0.0,-15.72959339171939
+[07Aug2025 21:31:44.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 15.750717634025932,0.0,-15.887966824904652
+[07Aug2025 21:31:44.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 15.889202563595518,0.0,-16.02765219297362
+[07Aug2025 21:31:44.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 15.919943034148673,0.0,-16.1146063729866
+[07Aug2025 21:31:44.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 15.855652891848877,0.0,-16.155051645134336
+[07Aug2025 21:31:44.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 15.707545749013207,0.0,-16.154476060544766
+[07Aug2025 21:31:44.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 15.513945270256045,0.0,-16.045429696943756
+[07Aug2025 21:31:44.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 15.280052467799123,0.0,-15.840301164935227
+[07Aug2025 21:31:44.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 15.01062183583872,0.0,-15.550428160390766
+[07Aug2025 21:31:44.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 14.681339572599427,0.0,-15.259126088843004
+[07Aug2025 21:31:44.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 14.299268170572304,0.0,-14.966563580197544
+[07Aug2025 21:31:44.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 13.87063674813453,0.0,-14.672889366032905
+[07Aug2025 21:31:44.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 13.400939387694052,0.0,-14.37823462759934
+[07Aug2025 21:31:44.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 12.89502186993559,0.0,-14.082715066761011
+[07Aug2025 21:31:44.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 12.448802619272556,0.0,-13.822066814102072
+[07Aug2025 21:31:44.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 12.055237240188035,0.0,-13.59217505525703
+[07Aug2025 21:31:44.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 11.708112575835457,0.0,-13.38941052395512
+[07Aug2025 21:31:44.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 11.401948621876272,0.0,-13.210572207347468
+[07Aug2025 21:31:44.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 11.131912014484442,0.0,-13.052836812099486
+[07Aug2025 21:31:44.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 10.89373972676458,0.0,-12.913714193490705
+[07Aug2025 21:31:44.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 10.683671768995737,0.0,-12.79100804387781
+[07Aug2025 21:31:44.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 10.49839183024369,0.0,-12.68278121991898
+[07Aug2025 21:31:44.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 10.334974924264316,0.0,-12.587325161187437
+[07Aug2025 21:31:44.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 10.190841213190652,0.0,-12.50313291738621
+[07Aug2025 21:31:44.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 10.063715280023644,0.0,-12.428875358353253
+[07Aug2025 21:31:51.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 9.526944114986236,0.0,-3.4434947765766992
+[07Aug2025 21:31:51.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 9.850934005302406,0.0,-3.6362248498307963
+[07Aug2025 21:31:52.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 10.291791120640937,0.0,-3.9335438735324715
+[07Aug2025 21:31:52.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 10.835725128449667,0.0,-4.3231103515299765
+[07Aug2025 21:31:52.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 11.502943528079868,0.0,-4.726117539923507
+[07Aug2025 21:31:52.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 12.091430156553542,0.0,-5.0815698800861355
+[07Aug2025 21:31:52.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 12.610475362867419,0.0,-5.395078844109776
+[07Aug2025 21:31:52.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 13.068273234836397,0.0,-5.671593750378634
+[07Aug2025 21:31:52.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 13.47205095791287,0.0,-5.915479897707883
+[07Aug2025 21:31:52.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 13.828182909666339,0.0,-6.130587479652604
+[07Aug2025 21:31:52.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 14.142291291112997,0.0,-6.320312366927283
+[07Aug2025 21:31:56.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 7.23715623954422,0.0,-7.120983178060669
+[07Aug2025 21:31:56.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 7.376156647827429,0.0,-7.246769515219057
+[07Aug2025 21:31:56.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 7.498755007933141,0.0,-7.3577130645926445
+[07Aug2025 21:31:56.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 7.787651778454347,0.0,-7.533011901105965
+[07Aug2025 21:31:56.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 8.223223746962503,0.0,-7.765072100875841
+[07Aug2025 21:31:56.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 8.788163240094946,0.0,-8.047195823037328
+[07Aug2025 21:31:56.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 9.428351247024693,0.0,-8.437908361183872
+[07Aug2025 21:31:56.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 10.134826807289755,0.0,-8.924477846429
+[07Aug2025 21:31:56.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 10.899767989596967,0.0,-9.495593159015698
+[07Aug2025 21:31:56.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 11.716275850545117,0.0,-10.141277891318168
+[07Aug2025 21:31:56.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 12.578265522054153,0.0,-10.852732851809378
+[07Aug2025 21:31:56.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 13.519260851723175,0.0,-11.557786724139078
+[07Aug2025 21:31:56.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 14.529939171889055,0.0,-12.257194836711278
+[07Aug2025 21:31:56.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 15.421357450275082,0.0,-12.874072791999424
+[07Aug2025 21:31:56.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 16.207588371811653,0.0,-13.418159148563973
+[07Aug2025 21:31:56.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 16.901044044606806,0.0,-13.898043315053656
+[07Aug2025 21:31:56.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 17.512671948012212,0.0,-14.321301149897408
+[07Aug2025 21:31:56.170] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 10.972568354059604,0.0,-7.716246276906531
+[07Aug2025 21:31:56.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 11.448368379188196,0.0,-8.04550870481944
+[07Aug2025 21:31:56.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 11.868024001351841,0.0,-8.335918166239026
+[07Aug2025 21:32:02.028] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[07Aug2025 21:32:29.143] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/mushroom_fields_fantasy/town_centers/mushroom_meeting_point_1
+[07Aug2025 21:32:29.146] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/mushroom_fields_fantasy/streets/straight_01 is being run through DFU (hash 902e2346f9c3d0e2004e290369a94dbd54b5c2cb9da283405da455f3dbc03b8e), this will cause launch time delays
+[07Aug2025 21:32:29.261] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/mushroom_fields_fantasy/streets/crossroad_01 is being run through DFU (hash b45407985d7c2a81375d18f03b42039fd0906f10218efbc8e9135d1ab690af4b), this will cause launch time delays
+[07Aug2025 21:32:29.268] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/mushroom_fields_fantasy/streets/straight_03 is being run through DFU (hash bbb450868317528e0785c1fed98ffb951173d04c40c37f682a18928299425e67), this will cause launch time delays
+[07Aug2025 21:32:29.275] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/mushroom_fields_fantasy/houses/mushroom_butcher_1 is being run through DFU (hash 099433d0439c20af7091649d3e4ca332c2b56ff95db29cc9533e0302dcb4e7e6), this will cause launch time delays
+[07Aug2025 21:32:29.281] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/mushroom_fields_fantasy/houses/mushroom_heavy_professions_gazebo is being run through DFU (hash 378a00ad674d1e8c7c220e6be39c8576ca48885e6520da36fa0a1ab76cbf602e), this will cause launch time delays
+[07Aug2025 21:32:29.285] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/mushroom_fields_fantasy/houses/mushroom_small_house_1 is being run through DFU (hash 75d5a527249392d361de4d4a32f0ef9999b6efe6357f3d7fb1be5a384e5983db), this will cause launch time delays
+[07Aug2025 21:32:29.291] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/mushroom_fields_fantasy/houses/mushroom_light_professions_gazebo is being run through DFU (hash 5a372ac17d0a1a91df6c8095f508087eced14836fcddd4e1762721405385d461), this will cause launch time delays
+[07Aug2025 21:32:29.295] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/mushroom_fields_fantasy/streets/straight_02 is being run through DFU (hash 399ae92412ce875b45c1caa202d4736bc130e7aa5f65956e9fc2393d9c6d4882), this will cause launch time delays
+[07Aug2025 21:32:29.299] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/mushroom_fields_fantasy/professions_misc/heavy_professions/mushroom_weaponsmith_1 is being run through DFU (hash d5354dbaf9e882a2668a2a2d9de90dd9fa6c559b044d0c73111243ac1671454d), this will cause launch time delays
+[07Aug2025 21:32:29.301] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/mushroom_fields_fantasy/houses/mushroom_large_house_2 is being run through DFU (hash 0d1d098b6ce43acdc196ca8458745fc89899d3253bc4965acbe4d6ec866748ac), this will cause launch time delays
+[07Aug2025 21:32:29.313] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/mushroom_fields_fantasy/houses/mushroom_small_house_2 is being run through DFU (hash 04ae715b4e85bcbf5d32fe6e96a4d1742eba1662ff1b7b06c19638782f839437), this will cause launch time delays
+[07Aug2025 21:32:29.318] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/mushroom_fields_fantasy/terminators/terminator_01 is being run through DFU (hash 0eb3f716abb0d7cc1419a46bd7c9e346890b171a116b4c0c3ec1d5d6c1110347), this will cause launch time delays
+[07Aug2025 21:32:29.319] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/mushroom_fields_fantasy/professions_misc/light_professions/mushroom_cartographer_1 is being run through DFU (hash 942edfb91cff064e0609a797a0fe2ad422c11d60ea54877e710e3f78a6b0e463), this will cause launch time delays
+[07Aug2025 21:32:29.321] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/mushroom_fields_fantasy/professions_misc/heavy_professions/mushroom_toolsmith_1 is being run through DFU (hash f5b47c234edc65854d4e4eef8ed9d0237f147563f4c8c0ea7028f36ebc22ff96), this will cause launch time delays
+[07Aug2025 21:32:29.323] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/mushroom_fields_fantasy/streets/turn_01 is being run through DFU (hash 20f4e408a797f03a87d562e365bcba721e11afffcdd1e2546c6caefe2a3b2039), this will cause launch time delays
+[07Aug2025 21:32:29.327] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/mushroom_fields_fantasy/houses/mushroom_small_farm_1 is being run through DFU (hash 266dfdc9f4246bb2c5fdd6ef02048d8fa69a195ab6af216a53a2a6d6bde6ba60), this will cause launch time delays
+[07Aug2025 21:32:29.329] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/mushroom_fields_fantasy/houses/mushroom_large_house_1 is being run through DFU (hash f01cdaa92356569a2abe73c8ed98b7b40329cc1658e468523685a109c7e74870), this will cause launch time delays
+[07Aug2025 21:32:29.335] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/mushroom_fields_fantasy/professions_misc/heavy_professions/mushroom_mason_1 is being run through DFU (hash 8f7951b1d6608d87284a70419143c75216a01fcffe80189a1db2c44bfa36aa97), this will cause launch time delays
+[07Aug2025 21:32:35.886] [Worker-Main-3/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;672061792,-366263352,-1752079043,-405291646],type:"minecraft:entity",y_offset:0.36f}}]
+[07Aug2025 21:32:36.483] [Worker-Main-2/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;176865803,-972338229,-2060744252,-623071664],type:"minecraft:entity",y_offset:0.36f}}]
+[07Aug2025 21:32:52.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 21:32:52.772] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 21:32:53.123] [Worker-Main-32/DEBUG] [ModernFix/]: Structure alexscaves:whalefall_body_1 is being run through DFU (hash 666a7f51a7d39edc6d18a9cb7ab131bb03bb3d3cb8330c0e26baf82ee712fcb3), this will cause launch time delays

@@ -906,3 +906,166 @@
 [07Aug2025 21:10:26.667] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [07Aug2025 21:10:26.667] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
 [07Aug2025 21:13:04.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 21:14:11.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 21:14:16.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 21:14:49.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 21:15:58.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> -9600 -3200
+[07Aug2025 21:16:15.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 21:16:37.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> -9600 -3200
+[07Aug2025 21:16:54.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> -9600 -3200
+[07Aug2025 21:17:09.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> -9600 -3200
+[07Aug2025 21:17:31.508] [pool-8-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_orange], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / idas:castle], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle]] from pos BlockPos{x=-533, y=71, z=8315}
+[07Aug2025 21:17:52.161] [Worker-Main-84/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[07Aug2025 21:17:53.401] [Worker-Main-32/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:17:53.401] [Worker-Main-32/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:17:53.403] [Worker-Main-32/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:17:54.390] [Worker-Main-84/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:17:54.390] [Worker-Main-84/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:17:54.391] [Worker-Main-84/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:17:54.392] [Worker-Main-84/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:17:54.392] [Worker-Main-84/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:17:54.408] [Worker-Main-84/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:19:23.143] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/62497, l='ServerLevel[world]', x=-576.24, y=70.00, z=8185.24] died, message: 'Nitwit burned to death'
+[07Aug2025 21:19:33.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 21:22:53.250] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/62627, l='ServerLevel[world]', x=-656.75, y=63.75, z=8181.33] died, message: 'Villager was slain by Vindicator'
+[07Aug2025 21:23:15.202] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/62531, l='ServerLevel[world]', x=-634.37, y=68.02, z=8177.47] died, message: 'Butcher was slain by Vindicator'
+[07Aug2025 21:25:31.649] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/62614, l='ServerLevel[world]', x=-631.43, y=68.50, z=8192.41] died, message: 'Toolsmith was slain by Vindicator'
+[07Aug2025 21:26:15.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has completed the challenge [Hero of the Village]
+[07Aug2025 21:26:42.064] [Worker-Main-32/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[07Aug2025 21:26:42.437] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[07Aug2025 21:26:42.437] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[07Aug2025 21:26:42.437] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[07Aug2025 21:26:50.933] [Worker-Main-83/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-1082, y=76, z=7702}
+[07Aug2025 21:26:50.934] [Worker-Main-83/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-1082, y=76, z=7703}
+[07Aug2025 21:26:50.934] [Worker-Main-83/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:26:50.934] [Worker-Main-83/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:26:50.935] [Worker-Main-83/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:26:50.935] [Worker-Main-83/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:26:50.935] [Worker-Main-83/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:26:50.935] [Worker-Main-83/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:26:52.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -8.454102828318128,0.0,-7.505435445639705
+[07Aug2025 21:26:52.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -9.678423350739877,0.0,-8.582586000596166
+[07Aug2025 21:27:23.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> -9600 -3200
+[07Aug2025 21:27:31.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -8.358267670267423,0.0,-7.052045847450245
+[07Aug2025 21:27:31.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -9.232015342464592,0.0,-7.7892450957297115
+[07Aug2025 21:27:43.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -8.77513089696913,0.0,-7.403762100479071
+[07Aug2025 21:27:43.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -10.032787941112474,0.0,-8.464873742932468
+[07Aug2025 21:27:43.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -11.291125663592993,0.0,-9.526559687984445
+[07Aug2025 21:27:44.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 19.543236209338147,0.0,16.489038541567425
+[07Aug2025 21:27:44.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 19.543236209338147,0.0,16.489038541567425
+[07Aug2025 21:27:44.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 19.15372249826737,0.0,16.160397648855906
+[07Aug2025 21:27:44.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 19.543236209338147,0.0,16.489038541567425
+[07Aug2025 21:27:44.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 19.64131063892978,0.0,16.57178599609142
+[07Aug2025 21:27:44.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 19.189214365212592,0.0,16.190342881861397
+[07Aug2025 21:27:44.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 18.641381242247917,0.0,15.728124578702591
+[07Aug2025 21:28:02.017] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/70884, l='ServerLevel[world]', x=-2021.50, y=59.00, z=7019.50]
+[07Aug2025 21:28:57.418] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:57.563] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:57.629] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:57.695] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:57.831] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:57.904] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:58.002] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:58.092] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:58.208] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:58.321] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:58.406] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:58.518] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:58.623] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:58.766] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:58.838] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:58.921] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:58.993] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:59.134] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:59.197] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:59.298] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:28:59.420] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:31:20.977] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:31:44.439] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3307ms or 66 ticks behind
+[07Aug2025 21:31:44.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 7.113362618891642,0.0,-7.175647484380534
+[07Aug2025 21:31:44.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 7.301861627021026,0.0,-7.365793582301194
+[07Aug2025 21:31:44.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 7.4681177521911195,0.0,-7.533502440667689
+[07Aug2025 21:31:44.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 7.614755654591136,0.0,-7.681421653746838
+[07Aug2025 21:31:44.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 7.74409028450782,0.0,-7.8118863996824075
+[07Aug2025 21:31:44.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 7.858163428094485,0.0,-7.9269563055977414
+[07Aug2025 21:31:44.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 7.958775940737723,0.0,-8.028447962615246
+[07Aug2025 21:31:44.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 8.047516176889076,0.0,-8.117963604104261
+[07Aug2025 21:31:44.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 8.125785065174568,0.0,-8.196916399897418
+[07Aug2025 21:31:44.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 8.194818224642404,0.0,-8.26655276578731
+[07Aug2025 21:31:44.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 8.255705471292913,0.0,-8.327972040502573
+[07Aug2025 21:31:44.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 8.309408022838852,0.0,-8.382143840801291
+[07Aug2025 21:31:44.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 8.495229932334496,0.0,-8.569579504711328
+[07Aug2025 21:31:44.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 8.797581115542016,0.0,-8.874553896327598
+[07Aug2025 21:31:44.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 9.202711118163279,0.0,-9.283197445780388
+[07Aug2025 21:31:44.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 9.698492039507983,0.0,-9.783277192444984
+[07Aug2025 21:31:44.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 10.274227071166024,0.0,-10.364003665049495
+[07Aug2025 21:31:44.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 10.920481628120797,0.0,-11.015860549934587
+[07Aug2025 21:31:44.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 11.628934406387089,0.0,-11.730454458450367
+[07Aug2025 21:31:44.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 12.25378975681815,0.0,-12.360726285761302
+[07Aug2025 21:31:44.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 12.804912175898153,0.0,-12.916626037449532
+[07Aug2025 21:31:44.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 13.291002149526776,0.0,-13.406929618437971
+[07Aug2025 21:31:44.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 13.719733506267403,0.0,-13.839377376870289
+[07Aug2025 21:31:44.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 14.097874562912693,0.0,-14.220796299807262
+[07Aug2025 21:31:44.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 14.43139497487391,0.0,-14.557207789837776
+[07Aug2025 21:31:44.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 14.725559978223373,0.0,-14.853922724044423
+[07Aug2025 21:31:44.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 14.98501351117784,0.0,-15.115625296014514
+[07Aug2025 21:31:44.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 15.213851527243605,0.0,-15.346446964492316
+[07Aug2025 21:31:44.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 15.415686657413517,0.0,-15.55003167608993
+[07Aug2025 21:31:44.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 15.593705242223677,0.0,-15.72959339171939
+[07Aug2025 21:31:44.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 15.750717634025932,0.0,-15.887966824904652
+[07Aug2025 21:31:44.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 15.889202563595518,0.0,-16.02765219297362
+[07Aug2025 21:31:44.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 15.919943034148673,0.0,-16.1146063729866
+[07Aug2025 21:31:44.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 15.855652891848877,0.0,-16.155051645134336
+[07Aug2025 21:31:44.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 15.707545749013207,0.0,-16.154476060544766
+[07Aug2025 21:31:44.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 15.513945270256045,0.0,-16.045429696943756
+[07Aug2025 21:31:44.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 15.280052467799123,0.0,-15.840301164935227
+[07Aug2025 21:31:44.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 15.01062183583872,0.0,-15.550428160390766
+[07Aug2025 21:31:44.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 14.681339572599427,0.0,-15.259126088843004
+[07Aug2025 21:31:44.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 14.299268170572304,0.0,-14.966563580197544
+[07Aug2025 21:31:44.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 13.87063674813453,0.0,-14.672889366032905
+[07Aug2025 21:31:44.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 13.400939387694052,0.0,-14.37823462759934
+[07Aug2025 21:31:44.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 12.89502186993559,0.0,-14.082715066761011
+[07Aug2025 21:31:44.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 12.448802619272556,0.0,-13.822066814102072
+[07Aug2025 21:31:44.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 12.055237240188035,0.0,-13.59217505525703
+[07Aug2025 21:31:44.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 11.708112575835457,0.0,-13.38941052395512
+[07Aug2025 21:31:44.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 11.401948621876272,0.0,-13.210572207347468
+[07Aug2025 21:31:44.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 11.131912014484442,0.0,-13.052836812099486
+[07Aug2025 21:31:44.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 10.89373972676458,0.0,-12.913714193490705
+[07Aug2025 21:31:44.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 10.683671768995737,0.0,-12.79100804387781
+[07Aug2025 21:31:44.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 10.49839183024369,0.0,-12.68278121991898
+[07Aug2025 21:31:44.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 10.334974924264316,0.0,-12.587325161187437
+[07Aug2025 21:31:44.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 10.190841213190652,0.0,-12.50313291738621
+[07Aug2025 21:31:44.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 10.063715280023644,0.0,-12.428875358353253
+[07Aug2025 21:31:51.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 9.526944114986236,0.0,-3.4434947765766992
+[07Aug2025 21:31:51.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 9.850934005302406,0.0,-3.6362248498307963
+[07Aug2025 21:31:52.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 10.291791120640937,0.0,-3.9335438735324715
+[07Aug2025 21:31:52.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 10.835725128449667,0.0,-4.3231103515299765
+[07Aug2025 21:31:52.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 11.502943528079868,0.0,-4.726117539923507
+[07Aug2025 21:31:52.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 12.091430156553542,0.0,-5.0815698800861355
+[07Aug2025 21:31:52.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 12.610475362867419,0.0,-5.395078844109776
+[07Aug2025 21:31:52.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 13.068273234836397,0.0,-5.671593750378634
+[07Aug2025 21:31:52.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 13.47205095791287,0.0,-5.915479897707883
+[07Aug2025 21:31:52.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 13.828182909666339,0.0,-6.130587479652604
+[07Aug2025 21:31:52.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 14.142291291112997,0.0,-6.320312366927283
+[07Aug2025 21:31:56.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 7.23715623954422,0.0,-7.120983178060669
+[07Aug2025 21:31:56.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 7.376156647827429,0.0,-7.246769515219057
+[07Aug2025 21:31:56.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 7.498755007933141,0.0,-7.3577130645926445
+[07Aug2025 21:31:56.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 7.787651778454347,0.0,-7.533011901105965
+[07Aug2025 21:31:56.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 8.223223746962503,0.0,-7.765072100875841
+[07Aug2025 21:31:56.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 8.788163240094946,0.0,-8.047195823037328
+[07Aug2025 21:31:56.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 9.428351247024693,0.0,-8.437908361183872
+[07Aug2025 21:31:56.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 10.134826807289755,0.0,-8.924477846429
+[07Aug2025 21:31:56.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 10.899767989596967,0.0,-9.495593159015698
+[07Aug2025 21:31:56.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 11.716275850545117,0.0,-10.141277891318168
+[07Aug2025 21:31:56.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 12.578265522054153,0.0,-10.852732851809378
+[07Aug2025 21:31:56.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 13.519260851723175,0.0,-11.557786724139078
+[07Aug2025 21:31:56.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 14.529939171889055,0.0,-12.257194836711278
+[07Aug2025 21:31:56.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 15.421357450275082,0.0,-12.874072791999424
+[07Aug2025 21:31:56.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 16.207588371811653,0.0,-13.418159148563973
+[07Aug2025 21:31:56.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 16.901044044606806,0.0,-13.898043315053656
+[07Aug2025 21:31:56.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 17.512671948012212,0.0,-14.321301149897408
+[07Aug2025 21:31:56.170] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 10.972568354059604,0.0,-7.716246276906531
+[07Aug2025 21:31:56.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 11.448368379188196,0.0,-8.04550870481944
+[07Aug2025 21:31:56.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 11.868024001351841,0.0,-8.335918166239026
+[07Aug2025 21:32:35.886] [Worker-Main-3/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;672061792,-366263352,-1752079043,-405291646],type:"minecraft:entity",y_offset:0.36f}}]
+[07Aug2025 21:32:36.483] [Worker-Main-2/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;176865803,-972338229,-2060744252,-623071664],type:"minecraft:entity",y_offset:0.36f}}]
