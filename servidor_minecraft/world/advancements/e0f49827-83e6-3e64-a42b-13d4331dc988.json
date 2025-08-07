@@ -1656,9 +1656,27 @@
     },
     "done": true
   },
+  "tetra:spelunking/ancient_ruins": {
+    "criteria": {
+      "regular_ruin": "2025-08-07 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_chasm": {
+    "criteria": {
+      "discover": "2025-08-07 21:36:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-08-07 21:26:15 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/brew_glistering_honey_crystal_block": {
+    "criteria": {
+      "brew_glistering_honey_crystal_block": "2025-08-07 21:39:27 +0000"
     },
     "done": true
   },
