@@ -12474,3 +12474,151 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [07Aug2025 00:34:34.249] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:farmhouse/farmhouse_path
 [07Aug2025 00:34:39.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Aug2025 00:34:39.415] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 00:34:41.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 0.3827180088237583
+[07Aug2025 00:34:41.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 0.8728668401481627
+[07Aug2025 00:34:41.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 1.363041100317787
+[07Aug2025 00:34:44.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 0.2850876660495487
+[07Aug2025 00:34:44.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 0.6615432384305677
+[07Aug2025 00:34:44.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 1.1539191640179913
+[07Aug2025 00:34:46.001] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:ancient_mines/ancient_mines_room1
+[07Aug2025 00:34:46.007] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:ancient_mines/ancient_mines_room2
+[07Aug2025 00:34:46.011] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:ancient_mines/ancient_mines_room3
+[07Aug2025 00:34:46.016] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:ancient_mines/ancient_mines_room5
+[07Aug2025 00:34:46.024] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:ancient_mines/ancient_mines_room6
+[07Aug2025 00:34:46.113] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:ancient_mines/ancient_mines_room4
+[07Aug2025 00:34:46.163] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:ancient_mines/ancient_mines_room7
+[07Aug2025 00:34:46.222] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:ancient_mines/ancient_mines_room8
+[07Aug2025 00:34:46.273] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:ancient_mines/ancient_mines_room9
+[07Aug2025 00:34:46.459] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:ancient_mines/ancient_mines_hall1
+[07Aug2025 00:34:46.512] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:ancient_mines/ancient_mines_hall9
+[07Aug2025 00:34:46.676] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:ancient_mines/ancient_mines_hall4
+[07Aug2025 00:34:46.708] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:ancient_mines/ancient_mines_hall8
+[07Aug2025 00:34:46.800] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:ancient_mines/ancient_mines_hall2
+[07Aug2025 00:34:46.944] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:ancient_mines/ancient_mines_hall3
+[07Aug2025 00:34:46.991] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:ancient_mines/ancient_mines_hall5
+[07Aug2025 00:34:47.003] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:ancient_mines/ancient_mines_hall7
+[07Aug2025 00:34:47.014] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:ancient_mines/ancient_mines_hall6
+[07Aug2025 00:34:47.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 9.917646634261018,0.0,-2.525295685914898
+[07Aug2025 00:34:47.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 10.672885617498878,0.0,-2.752400474440037
+[07Aug2025 00:34:47.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 11.428095231958423,0.0,-2.9796151122045558
+[07Aug2025 00:34:47.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 12.183289131770152,0.0,-3.2068885281069015
+[07Aug2025 00:34:47.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 12.9384746229872,0.0,-3.434193395019065
+[07Aug2025 00:34:47.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 13.693655614932936,0.0,-3.661515090739158
+[07Aug2025 00:34:47.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 14.448834199408225,0.0,-3.888845791218955
+[07Aug2025 00:34:47.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 15.20401149569409,0.0,-4.116181309966123
+[07Aug2025 00:34:47.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 15.95918810269552,0.0,-4.343519406871565
+[07Aug2025 00:34:47.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 16.714364340874567,0.0,-4.57085888329857
+[07Aug2025 00:34:47.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 17.469540381704064,0.0,-4.79819909787966
+[07Aug2025 00:34:47.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 18.22471631693577,0.0,-5.025539707432472
+[07Aug2025 00:34:47.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 18.979892195664206,0.0,-5.252880528327296
+[07Aug2025 00:34:47.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 19.73506804415888,0.0,-5.480221462306872
+[07Aug2025 00:34:47.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 20.490243876476143,-0.07683200149536162,-5.707562456795131
+[07Aug2025 00:34:47.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 20.92943303843117,-0.2274534586630068,-5.83977763002531
+[07Aug2025 00:34:47.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 21.3562115750143,-0.4489423104376016,-5.968256664680666
+[07Aug2025 00:34:47.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 21.771922315571828,-0.7384922093173572,-6.093403810858035
+[07Aug2025 00:34:47.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 22.17776279534928,-1.0,-6.215579578805773
+[07Aug2025 00:34:47.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 22.887603636271592,-1.0,-6.440285103800306
+[07Aug2025 00:34:47.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 23.603285735423242,-1.0,-6.70762909970199
+[07Aug2025 00:34:47.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 24.285303498968347,-1.0,-7.062814535323923
+[07Aug2025 00:34:47.185] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 15.77782927209546,-1.0,-5.17891847705323
+[07Aug2025 00:34:47.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 16.418186150761585,-1.0,-5.625156723664986
+[07Aug2025 00:34:47.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 17.050772779342424,0.0,-6.088377401505568
+[07Aug2025 00:35:04.987] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:toxic_ruins_11
+[07Aug2025 00:35:05.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 0.2574438326030304
+[07Aug2025 00:35:05.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 0.9893286577251956
+[07Aug2025 00:35:05.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 1.7169027836253008
+[07Aug2025 00:36:12.563] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Aug2025 00:36:12.564] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Aug2025 00:36:49.337] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[07Aug2025 00:36:52.918] [pool-8-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_red], ResourceKey[minecraft:worldgen/structure / idas:castle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / idas:fishermans_lodge], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest]] from pos BlockPos{x=1339, y=71, z=7099}
+[07Aug2025 00:36:53.585] [pool-8-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_slopes_inn/town_centers/snowy_slopes_meeting_point_1
+[07Aug2025 00:36:53.600] [pool-8-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_2
+[07Aug2025 00:36:53.613] [pool-8-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_2
+[07Aug2025 00:36:53.645] [pool-8-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/town_centers/birch_forest_meeting_point_1
+[07Aug2025 00:36:56.189] [pool-8-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_1
+[07Aug2025 00:36:56.205] [pool-8-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_1
+[07Aug2025 00:36:56.908] [Worker-Main-61/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1360, y=77, z=7008}
+[07Aug2025 00:36:56.910] [Worker-Main-61/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1337, y=65, z=7045}
+[07Aug2025 00:36:56.981] [Worker-Main-60/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1360, y=77, z=7008}
+[07Aug2025 00:36:56.983] [Worker-Main-60/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1357, y=72, z=7040}
+[07Aug2025 00:36:56.983] [Worker-Main-60/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1337, y=65, z=7045}
+[07Aug2025 00:36:57.492] [Worker-Main-44/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1360, y=77, z=7008}
+[07Aug2025 00:36:57.495] [Worker-Main-44/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1337, y=65, z=7045}
+[07Aug2025 00:36:58.501] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_0
+[07Aug2025 00:36:58.516] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[07Aug2025 00:36:58.544] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[07Aug2025 00:36:58.647] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[07Aug2025 00:36:58.673] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[07Aug2025 00:36:58.675] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[07Aug2025 00:36:58.719] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_2_middle
+[07Aug2025 00:36:58.731] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_0_top
+[07Aug2025 00:36:58.732] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_2
+[07Aug2025 00:36:58.733] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_6
+[07Aug2025 00:36:58.739] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_7
+[07Aug2025 00:36:58.744] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_5
+[07Aug2025 00:36:58.750] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_3
+[07Aug2025 00:36:58.752] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_4
+[07Aug2025 00:36:58.757] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_0
+[07Aug2025 00:36:58.759] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_1
+[07Aug2025 00:36:58.794] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_3_base
+[07Aug2025 00:36:58.830] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_2
+[07Aug2025 00:36:58.834] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_1
+[07Aug2025 00:36:58.839] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_6
+[07Aug2025 00:36:58.888] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_3
+[07Aug2025 00:36:58.957] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_7
+[07Aug2025 00:36:59.011] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_0
+[07Aug2025 00:36:59.031] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_4
+[07Aug2025 00:36:59.117] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_inner_top_0
+[07Aug2025 00:36:59.220] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_inner_part_0
+[07Aug2025 00:36:59.235] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_0
+[07Aug2025 00:36:59.257] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_6
+[07Aug2025 00:36:59.259] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_2
+[07Aug2025 00:36:59.261] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_4
+[07Aug2025 00:36:59.267] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_5
+[07Aug2025 00:36:59.270] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_1
+[07Aug2025 00:36:59.278] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_7
+[07Aug2025 00:36:59.295] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_5
+[07Aug2025 00:36:59.375] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_level_2
+[07Aug2025 00:36:59.382] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_level_1
+[07Aug2025 00:36:59.388] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_3
+[07Aug2025 00:36:59.420] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_cave_spider_0
+[07Aug2025 00:36:59.464] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_cave_spider_1
+[07Aug2025 00:36:59.465] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_skeleton_0
+[07Aug2025 00:36:59.465] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_wither_skeleton_0
+[07Aug2025 00:36:59.468] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_3
+[07Aug2025 00:36:59.470] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_7
+[07Aug2025 00:36:59.587] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_level_0
+[07Aug2025 00:36:59.590] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_8
+[07Aug2025 00:36:59.591] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_4
+[07Aug2025 00:36:59.593] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_2
+[07Aug2025 00:36:59.594] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_0
+[07Aug2025 00:36:59.595] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_5
+[07Aug2025 00:36:59.597] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_1
+[07Aug2025 00:36:59.599] [Worker-Main-41/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_6
+[07Aug2025 00:37:01.580] [Worker-Main-44/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1360, y=77, z=7008}
+[07Aug2025 00:37:01.582] [Worker-Main-44/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1337, y=65, z=7045}
+[07Aug2025 00:37:01.624] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1360, y=77, z=7008}
+[07Aug2025 00:37:01.629] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1357, y=72, z=7040}
+[07Aug2025 00:37:01.629] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1337, y=65, z=7045}
+[07Aug2025 00:37:01.631] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1346, y=58, z=7028}
+[07Aug2025 00:37:01.632] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1359, y=58, z=7028}
+[07Aug2025 00:37:01.632] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1359, y=58, z=7035}
+[07Aug2025 00:37:01.715] [Worker-Main-44/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1360, y=77, z=7008}
+[07Aug2025 00:37:01.719] [Worker-Main-44/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1337, y=65, z=7045}
+[07Aug2025 00:37:01.722] [Worker-Main-44/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1366, y=58, z=7022}
+[07Aug2025 00:37:48.975] [Worker-Main-61/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1360, y=77, z=7008}
+[07Aug2025 00:37:48.978] [Worker-Main-61/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1337, y=65, z=7045}
+[07Aug2025 00:37:49.028] [Worker-Main-44/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1360, y=77, z=7008}
+[07Aug2025 00:37:49.030] [Worker-Main-44/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1337, y=65, z=7045}
+[07Aug2025 00:37:49.032] [Worker-Main-44/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1346, y=58, z=7028}
+[07Aug2025 00:37:49.032] [Worker-Main-44/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1359, y=58, z=7028}
+[07Aug2025 00:37:49.032] [Worker-Main-44/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1353, y=58, z=7015}
+[07Aug2025 00:37:49.066] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1360, y=77, z=7008}
+[07Aug2025 00:37:49.068] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1337, y=65, z=7045}
+[07Aug2025 00:37:49.069] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1366, y=58, z=7022}
+[07Aug2025 00:38:38.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1264, y=67, z=7255} BlockPos{x=1265, y=64, z=7255}
+[07Aug2025 00:39:39.376] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 00:39:39.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 00:40:49.433] [Worker-Main-61/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[07Aug2025 00:44:39.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 00:44:39.378] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
