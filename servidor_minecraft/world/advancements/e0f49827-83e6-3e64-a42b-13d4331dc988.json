@@ -1634,9 +1634,9 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:dismantledto_bones": {
+  "ars_nouveau:wilden_explosion": {
     "criteria": {
-      "dismantledto_bones_0": "2025-08-07 20:36:07 +0000"
+      "wilden_explosion": "2025-08-07 20:12:00 +0000"
     },
     "done": true
   },
@@ -1646,9 +1646,9 @@
     },
     "done": true
   },
-  "ars_nouveau:wilden_explosion": {
+  "born_in_chaos_v1:dismantledto_bones": {
     "criteria": {
-      "wilden_explosion": "2025-08-07 20:12:00 +0000"
+      "dismantledto_bones_0": "2025-08-07 20:36:07 +0000"
     },
     "done": true
   },

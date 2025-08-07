@@ -881,3 +881,28 @@
 [07Aug2025 20:59:06.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
 [07Aug2025 20:59:32.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
 [07Aug2025 21:00:34.822] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=67, y=73, z=8048} BlockPos{x=61, y=71, z=8038}
+[07Aug2025 21:06:11.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 21:06:44.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 21:06:55.911] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Disconnected
+[07Aug2025 21:06:55.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[07Aug2025 21:07:19.338] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:62003] logged in with entity id 55272 at (220.54344077232753, 100.0, 8140.228854485747)
+[07Aug2025 21:07:19.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[07Aug2025 21:07:19.389] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[07Aug2025 21:07:19.414] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[07Aug2025 21:07:19.415] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[07Aug2025 21:07:19.415] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[07Aug2025 21:07:20.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 21:08:32.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 21:09:31.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 was kicked for floating too long!
+[07Aug2025 21:09:32.018] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Flying is not enabled on this server
+[07Aug2025 21:09:32.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 left the game
+[07Aug2025 21:10:10.956] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@14b20634[id=<null>,name=Rodjes7,properties={},legacy=false] (/10.147.18.237:53127) lost connection: Disconnected
+[07Aug2025 21:10:20.950] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Disconnected
+[07Aug2025 21:10:20.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[07Aug2025 21:10:26.615] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:53168] logged in with entity id 56967 at (54.82127223031984, 110.1361284490575, 7965.598835750345)
+[07Aug2025 21:10:26.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 joined the game
+[07Aug2025 21:10:26.645] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[07Aug2025 21:10:26.666] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[07Aug2025 21:10:26.667] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[07Aug2025 21:10:26.667] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[07Aug2025 21:13:04.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
