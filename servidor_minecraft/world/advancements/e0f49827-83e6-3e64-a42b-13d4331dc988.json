@@ -1258,6 +1258,7 @@
     "criteria": {
       "spellstone1": "2025-07-29 01:00:48 +0000",
       "spellstone4": "2025-08-03 00:25:23 +0000",
+      "spellstone3": "2025-08-07 21:52:53 +0000",
       "spellstone6": "2025-08-02 23:53:39 +0000",
       "spellstone5": "2025-08-02 05:55:37 +0000"
     },
@@ -1274,6 +1275,7 @@
       "has_item_1": "2025-07-29 01:00:48 +0000",
       "has_item_5": "2025-08-02 05:55:37 +0000",
       "has_item_6": "2025-08-02 23:53:39 +0000",
+      "has_item_3": "2025-08-07 21:52:53 +0000",
       "has_item_4": "2025-08-03 00:25:23 +0000"
     },
     "done": false
@@ -1656,9 +1658,27 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/relics/ocean_stone": {
+    "criteria": {
+      "has_items": "2025-08-07 21:52:53 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bowfor_wizards": {
+    "criteria": {
+      "bowfor_wizards_0": "2025-08-07 21:47:15 +0000"
+    },
+    "done": true
+  },
   "tetra:spelunking/ancient_ruins": {
     "criteria": {
       "regular_ruin": "2025-08-07 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/froststalker_kill": {
+    "criteria": {
+      "ex": "2025-08-07 22:08:08 +0000"
     },
     "done": true
   },
@@ -1677,6 +1697,12 @@
   "the_bumblezone:effects/brew_glistering_honey_crystal_block": {
     "criteria": {
       "brew_glistering_honey_crystal_block": "2025-08-07 21:39:27 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-08-07 22:06:52 +0000"
     },
     "done": true
   },

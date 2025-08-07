@@ -14342,3 +14342,683 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [07Aug2025 21:43:29.409] [pool-8-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/town_centers/flower_forest_meeting_point_1
 [07Aug2025 21:43:29.435] [pool-8-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_1
 [07Aug2025 21:43:32.087] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[07Aug2025 21:45:10.018] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[07Aug2025 21:45:29.535] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[07Aug2025 21:45:52.686] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[07Aug2025 21:45:52.686] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[07Aug2025 21:45:52.686] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[07Aug2025 21:45:52.686] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[07Aug2025 21:46:01.237] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[07Aug2025 21:46:15.135] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[07Aug2025 21:46:20.296] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3147, y=-27, z=4541}
+[07Aug2025 21:46:20.296] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3148, y=-27, z=4551}
+[07Aug2025 21:46:20.296] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3142, y=-27, z=4540}
+[07Aug2025 21:46:20.375] [Worker-Main-83/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3148, y=-27, z=4551}
+[07Aug2025 21:46:27.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 21:46:40.077] [Worker-Main-83/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3134, y=-27, z=4566}
+[07Aug2025 21:46:40.078] [Worker-Main-83/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3135, y=-27, z=4559}
+[07Aug2025 21:46:40.078] [Worker-Main-83/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3138, y=-14, z=4566}
+[07Aug2025 21:46:40.080] [Worker-Main-83/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3142, y=-27, z=4540}
+[07Aug2025 21:46:40.119] [Worker-Main-83/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3135, y=-27, z=4559}
+[07Aug2025 21:46:40.120] [Worker-Main-83/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3147, y=-27, z=4541}
+[07Aug2025 21:46:40.120] [Worker-Main-83/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3138, y=-14, z=4566}
+[07Aug2025 21:46:40.121] [Worker-Main-83/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3148, y=-27, z=4551}
+[07Aug2025 21:46:40.121] [Worker-Main-83/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3142, y=-27, z=4540}
+[07Aug2025 21:46:40.130] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3148, y=-27, z=4551}
+[07Aug2025 21:47:15.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has reached the goal [Bow for Wizards]
+[07Aug2025 21:48:05.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 21:48:05.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 21:48:27.202] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[07Aug2025 21:48:44.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 21:49:18.563] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end
+[07Aug2025 21:49:18.564] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/jail_cell
+[07Aug2025 21:49:24.307] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3808, y=62, z=4192}
+[07Aug2025 21:49:24.309] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3831, y=50, z=4229}
+[07Aug2025 21:49:24.310] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3802, y=43, z=4206}
+[07Aug2025 21:49:24.679] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3808, y=62, z=4192}
+[07Aug2025 21:49:24.681] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3831, y=50, z=4229}
+[07Aug2025 21:49:24.692] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3808, y=62, z=4192}
+[07Aug2025 21:49:24.694] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3831, y=50, z=4229}
+[07Aug2025 21:49:24.696] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3802, y=43, z=4206}
+[07Aug2025 21:49:25.869] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3808, y=62, z=4192}
+[07Aug2025 21:49:25.872] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3831, y=50, z=4229}
+[07Aug2025 21:49:25.873] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3822, y=43, z=4212}
+[07Aug2025 21:49:25.874] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3809, y=43, z=4206}
+[07Aug2025 21:49:25.874] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3815, y=43, z=4199}
+[07Aug2025 21:49:25.894] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3808, y=62, z=4192}
+[07Aug2025 21:49:25.899] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3811, y=57, z=4224}
+[07Aug2025 21:49:25.899] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3831, y=50, z=4229}
+[07Aug2025 21:49:25.901] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3822, y=43, z=4212}
+[07Aug2025 21:49:25.902] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3809, y=43, z=4206}
+[07Aug2025 21:49:25.902] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3815, y=43, z=4213}
+[07Aug2025 21:49:28.867] [pool-8-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / idas:bazaar], ResourceKey[minecraft:worldgen/structure / idas:farmhouse]] from pos BlockPos{x=-3819, y=70, z=4085}
+[07Aug2025 21:49:29.323] [pool-8-thread-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/town_centers/tudor_meeting_point_1
+[07Aug2025 21:49:42.439] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:49:52.512] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight_2
+[07Aug2025 21:49:52.516] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_1
+[07Aug2025 21:49:52.518] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_1
+[07Aug2025 21:49:52.520] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/study_platform
+[07Aug2025 21:49:52.521] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_jail
+[07Aug2025 21:50:04.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[07Aug2025 21:50:04.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: u<--[HERE]
+[07Aug2025 21:50:10.893] [Worker-Main-83/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4201, y=-22, z=3687}
+[07Aug2025 21:50:10.893] [Worker-Main-83/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4194, y=-22, z=3692}
+[07Aug2025 21:50:10.893] [Worker-Main-83/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4193, y=-22, z=3677}
+[07Aug2025 21:50:10.902] [Worker-Main-83/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4194, y=-22, z=3692}
+[07Aug2025 21:50:10.903] [Worker-Main-83/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4193, y=-22, z=3666}
+[07Aug2025 21:50:10.903] [Worker-Main-83/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4193, y=-22, z=3677}
+[07Aug2025 21:50:12.094] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[07Aug2025 21:50:15.375] [Worker-Main-83/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4216, y=-22, z=3692}
+[07Aug2025 21:50:15.406] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4216, y=-22, z=3692}
+[07Aug2025 21:50:15.417] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4236, y=-22, z=3691}
+[07Aug2025 21:50:15.418] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4201, y=-22, z=3687}
+[07Aug2025 21:50:15.418] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4229, y=-22, z=3686}
+[07Aug2025 21:50:15.419] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4216, y=-22, z=3692}
+[07Aug2025 21:50:15.419] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4218, y=-22, z=3686}
+[07Aug2025 21:50:15.428] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4229, y=-22, z=3686}
+[07Aug2025 21:50:15.428] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4218, y=-22, z=3686}
+[07Aug2025 21:50:16.071] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4242, y=-22, z=3572}
+[07Aug2025 21:50:16.081] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4242, y=-22, z=3572}
+[07Aug2025 21:50:19.938] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4216, y=-22, z=3692}
+[07Aug2025 21:50:20.046] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4255, y=-22, z=3640}
+[07Aug2025 21:50:20.069] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4242, y=-22, z=3667}
+[07Aug2025 21:50:20.070] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4229, y=-22, z=3686}
+[07Aug2025 21:50:20.093] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4242, y=-22, z=3686}
+[07Aug2025 21:50:20.094] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4236, y=-22, z=3691}
+[07Aug2025 21:50:20.094] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4229, y=-22, z=3686}
+[07Aug2025 21:50:20.095] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4216, y=-22, z=3692}
+[07Aug2025 21:50:20.108] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4242, y=-22, z=3686}
+[07Aug2025 21:50:20.108] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4216, y=-22, z=3692}
+[07Aug2025 21:50:20.193] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4255, y=-22, z=3640}
+[07Aug2025 21:50:20.193] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4242, y=-22, z=3628}
+[07Aug2025 21:50:20.203] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4242, y=-22, z=3628}
+[07Aug2025 21:50:20.299] [Worker-Main-83/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4242, y=-22, z=3603}
+[07Aug2025 21:50:20.299] [Worker-Main-83/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4242, y=-22, z=3594}
+[07Aug2025 21:50:20.310] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4242, y=-22, z=3572}
+[07Aug2025 21:50:20.321] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4242, y=-22, z=3594}
+[07Aug2025 21:50:20.321] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4242, y=-22, z=3572}
+[07Aug2025 21:50:28.918] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4256, y=-22, z=3664}
+[07Aug2025 21:50:28.922] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4255, y=-22, z=3640}
+[07Aug2025 21:50:28.922] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4247, y=-22, z=3661}
+[07Aug2025 21:50:28.930] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4256, y=-22, z=3664}
+[07Aug2025 21:50:28.933] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4255, y=-22, z=3640}
+[07Aug2025 21:50:28.933] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4256, y=-9, z=3623}
+[07Aug2025 21:50:28.933] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4247, y=-22, z=3622}
+[07Aug2025 21:50:28.934] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4248, y=-22, z=3639}
+[07Aug2025 21:50:28.934] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4242, y=-22, z=3628}
+[07Aug2025 21:50:28.969] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4256, y=-22, z=3664}
+[07Aug2025 21:50:28.973] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4247, y=-22, z=3661}
+[07Aug2025 21:50:28.973] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4243, y=-22, z=3696}
+[07Aug2025 21:50:28.973] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4248, y=-22, z=3678}
+[07Aug2025 21:50:28.973] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4242, y=-22, z=3667}
+[07Aug2025 21:50:29.061] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4256, y=-9, z=3623}
+[07Aug2025 21:50:29.065] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4247, y=-22, z=3622}
+[07Aug2025 21:50:29.065] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4264, y=-9, z=3608}
+[07Aug2025 21:50:29.066] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4249, y=-22, z=3621}
+[07Aug2025 21:50:29.066] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4248, y=-22, z=3639}
+[07Aug2025 21:50:29.067] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4242, y=-22, z=3628}
+[07Aug2025 21:50:29.067] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4243, y=-22, z=3621}
+[07Aug2025 21:50:29.069] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4255, y=-23, z=3611}
+[07Aug2025 21:50:29.070] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4261, y=-22, z=3620}
+[07Aug2025 21:50:29.094] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4264, y=-9, z=3608}
+[07Aug2025 21:50:29.095] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4243, y=-22, z=3621}
+[07Aug2025 21:50:29.095] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4255, y=-23, z=3611}
+[07Aug2025 21:50:29.098] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4242, y=-22, z=3603}
+[07Aug2025 21:50:29.098] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4247, y=-22, z=3586}
+[07Aug2025 21:50:29.099] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4242, y=-22, z=3594}
+[07Aug2025 21:50:29.100] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4248, y=-22, z=3604}
+[07Aug2025 21:50:29.135] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4243, y=-22, z=3696}
+[07Aug2025 21:50:29.136] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4242, y=-22, z=3686}
+[07Aug2025 21:50:29.136] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4248, y=-22, z=3697}
+[07Aug2025 21:50:29.147] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4243, y=-22, z=3696}
+[07Aug2025 21:50:29.148] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4242, y=-22, z=3686}
+[07Aug2025 21:50:29.148] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4248, y=-22, z=3697}
+[07Aug2025 21:50:29.178] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4247, y=-22, z=3586}
+[07Aug2025 21:50:29.179] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4242, y=-22, z=3594}
+[07Aug2025 21:50:29.179] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4248, y=-22, z=3604}
+[07Aug2025 21:50:29.179] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4247, y=-22, z=3568}
+[07Aug2025 21:50:29.180] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4242, y=-22, z=3572}
+[07Aug2025 21:50:29.260] [Worker-Main-83/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4247, y=-22, z=3568}
+[07Aug2025 21:50:29.261] [Worker-Main-83/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4248, y=-24, z=3583}
+[07Aug2025 21:50:29.263] [Worker-Main-83/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4242, y=-22, z=3572}
+[07Aug2025 21:50:29.281] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4248, y=-24, z=3583}
+[07Aug2025 21:50:29.283] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4247, y=-35, z=3560}
+[07Aug2025 21:50:29.284] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4241, y=-35, z=3554}
+[07Aug2025 21:50:32.519] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4256, y=-22, z=3664}
+[07Aug2025 21:50:32.523] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4256, y=-9, z=3623}
+[07Aug2025 21:50:32.523] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4284, y=-22, z=3635}
+[07Aug2025 21:50:32.585] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4256, y=-22, z=3664}
+[07Aug2025 21:50:32.590] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4284, y=-22, z=3665}
+[07Aug2025 21:50:32.601] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4256, y=-22, z=3664}
+[07Aug2025 21:50:32.617] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4256, y=-9, z=3623}
+[07Aug2025 21:50:32.617] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4284, y=-22, z=3635}
+[07Aug2025 21:50:32.618] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4264, y=-9, z=3608}
+[07Aug2025 21:50:32.619] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4249, y=-22, z=3621}
+[07Aug2025 21:50:32.619] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4265, y=-9, z=3621}
+[07Aug2025 21:50:32.620] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4261, y=-22, z=3620}
+[07Aug2025 21:50:32.628] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4264, y=-9, z=3608}
+[07Aug2025 21:50:32.628] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4265, y=-9, z=3621}
+[07Aug2025 21:50:32.629] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4257, y=-9, z=3601}
+[07Aug2025 21:50:32.629] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4271, y=-9, z=3600}
+[07Aug2025 21:50:32.629] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4248, y=-22, z=3604}
+[07Aug2025 21:50:32.670] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4248, y=-22, z=3697}
+[07Aug2025 21:50:32.684] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4271, y=-9, z=3600}
+[07Aug2025 21:50:32.685] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4248, y=-22, z=3604}
+[07Aug2025 21:50:32.707] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4248, y=-24, z=3583}
+[07Aug2025 21:50:32.777] [Worker-Main-83/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4248, y=-24, z=3583}
+[07Aug2025 21:50:33.571] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4265, y=-9, z=3621}
+[07Aug2025 21:50:33.572] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4257, y=-9, z=3601}
+[07Aug2025 21:50:33.576] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4280, y=-9, z=3583}
+[07Aug2025 21:50:33.576] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4275, y=-9, z=3590}
+[07Aug2025 21:50:33.576] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4281, y=-9, z=3600}
+[07Aug2025 21:50:33.670] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4280, y=-9, z=3583}
+[07Aug2025 21:50:33.671] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4275, y=-9, z=3590}
+[07Aug2025 21:50:33.671] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4281, y=-9, z=3600}
+[07Aug2025 21:50:33.680] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4284, y=-22, z=3635}
+[07Aug2025 21:50:33.680] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4302, y=-22, z=3627}
+[07Aug2025 21:50:33.681] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4265, y=-9, z=3621}
+[07Aug2025 21:50:33.712] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4280, y=-9, z=3583}
+[07Aug2025 21:50:33.712] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4275, y=-9, z=3576}
+[07Aug2025 21:50:33.713] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4295, y=-9, z=3575}
+[07Aug2025 21:50:33.757] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4295, y=-9, z=3575}
+[07Aug2025 21:50:36.550] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4295, y=-9, z=3575}
+[07Aug2025 21:50:36.739] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4275, y=-9, z=3576}
+[07Aug2025 21:50:36.740] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4295, y=-9, z=3575}
+[07Aug2025 21:50:36.875] [Worker-Main-83/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4281, y=-9, z=3600}
+[07Aug2025 21:50:36.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> -9600 -3200
+[07Aug2025 21:50:37.087] [Worker-Main-83/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4303, y=-22, z=3622}
+[07Aug2025 21:50:37.087] [Worker-Main-83/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4281, y=-9, z=3600}
+[07Aug2025 21:50:39.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> -9600 -3200
+[07Aug2025 21:50:46.633] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/classic/town_centers/classic_meeting_point_1/well_top
+[07Aug2025 21:50:46.641] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/rustic/town_centers/rustic_meeting_point_1
+[07Aug2025 21:50:46.654] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/town_centers/badlands_meeting_point_1
+[07Aug2025 21:50:46.667] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/grove_villager_outpost/town_centers/grove_meeting_point_1
+[07Aug2025 21:50:46.685] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/town_centers/swamp_b_meeting_point_1
+[07Aug2025 21:50:46.697] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_slopes_inn/town_centers/snowy_slopes_meeting_point_1
+[07Aug2025 21:50:46.705] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/town_centers/swedish_meeting_point_1
+[07Aug2025 21:50:46.716] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/nilotic/base_plate
+[07Aug2025 21:50:46.724] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_3
+[07Aug2025 21:50:46.750] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/iberian/town_centers/iberian_meeting_point_1
+[07Aug2025 21:50:46.776] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/town_centers/beach_meeting_point_1
+[07Aug2025 21:50:46.810] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_2
+[07Aug2025 21:50:46.836] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_1
+[07Aug2025 21:50:46.870] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/town_centers/sunflower_plains_meeting_point_1
+[07Aug2025 21:51:14.488] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_0
+[07Aug2025 21:51:14.490] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_2
+[07Aug2025 21:51:23.863] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:51:29.255] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:52:15.563] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_2
+[07Aug2025 21:53:05.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 21:53:05.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 21:53:17.316] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/tree
+[07Aug2025 21:53:17.336] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/campsite
+[07Aug2025 21:53:17.368] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/villager_cage
+[07Aug2025 21:53:17.374] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/gallows
+[07Aug2025 21:53:17.392] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tent
+[07Aug2025 21:53:17.438] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/rock_2
+[07Aug2025 21:53:17.438] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/logs
+[07Aug2025 21:53:17.441] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/iron_golem_cage
+[07Aug2025 21:53:17.441] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/shack
+[07Aug2025 21:53:17.442] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/targets
+[07Aug2025 21:53:17.442] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/hay
+[07Aug2025 21:53:17.443] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tower
+[07Aug2025 21:53:17.444] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/pumpkin
+[07Aug2025 21:53:28.832] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:54:05.552] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:54:09.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -7.261154766116306,0.0,-7.745965556599458
+[07Aug2025 21:54:09.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -7.7332863414212625,0.0,-8.24550797228494
+[07Aug2025 21:54:09.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -8.149706390840038,0.0,-8.686104382919439
+[07Aug2025 21:54:09.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -8.516988874427625,0.0,-9.07471041709914
+[07Aug2025 21:54:09.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -8.840932024952053,0.0,-9.417460939245757
+[07Aug2025 21:54:09.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -9.26327347138431,0.0,-9.861216416151365
+[07Aug2025 21:54:20.667] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:54:24.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> -9600 -3200
+[07Aug2025 21:54:37.330] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_2
+[07Aug2025 21:54:43.703] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 21:55:07.006] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/exclusives/tudor/base_plate
+[07Aug2025 21:55:07.021] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/snowy_taiga/base_plate
+[07Aug2025 21:55:07.036] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/sparse_jungle/base_plate
+[07Aug2025 21:55:07.053] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/exclusives/swedish/base_plate
+[07Aug2025 21:55:07.127] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/desert/base_plate
+[07Aug2025 21:55:07.244] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/jungle/base_plate
+[07Aug2025 21:55:07.260] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/classic/base_plate
+[07Aug2025 21:55:07.288] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/swamp/base_plate
+[07Aug2025 21:55:07.320] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/meadow/base_plate
+[07Aug2025 21:55:07.332] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/snowy_beach/base_plate
+[07Aug2025 21:55:07.367] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/wooded_badlands/base_plate
+[07Aug2025 21:55:07.378] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/flower_forest/base_plate
+[07Aug2025 21:55:09.249] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/131853, l='ServerLevel[world]', x=-5791.04, y=46.07, z=2164.60]
+[07Aug2025 21:55:09.249] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/131854, l='ServerLevel[world]', x=-5791.04, y=46.07, z=2164.60]
+[07Aug2025 21:55:09.249] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/131855, l='ServerLevel[world]', x=-5791.04, y=46.07, z=2164.60]
+[07Aug2025 21:55:09.250] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/131856, l='ServerLevel[world]', x=-5791.04, y=46.07, z=2164.60]
+[07Aug2025 21:55:09.250] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/131857, l='ServerLevel[world]', x=-5791.04, y=46.07, z=2164.60]
+[07Aug2025 21:55:17.153] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[07Aug2025 21:55:27.790] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of idas:sunken_ship/sunken_ship2
+[07Aug2025 21:56:29.332] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/streets/turn_01
+[07Aug2025 21:56:29.357] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/side/sunflower_plains_windmill_1
+[07Aug2025 21:56:29.368] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/side/sunflower_plains_farm_wheat_1
+[07Aug2025 21:56:29.372] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/sunflower_plains_scarecrow_1
+[07Aug2025 21:56:29.404] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/sunflower_plains_scarecrow_2
+[07Aug2025 21:56:29.423] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/side/sunflower_plains_farm_pumpkin_1
+[07Aug2025 21:56:29.434] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/side/sunflower_plains_farm_beetroot_1
+[07Aug2025 21:56:56.353] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_1
+[07Aug2025 21:56:56.384] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/streets/crossroad_01
+[07Aug2025 21:56:56.386] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/houses/tudor_large_house_1
+[07Aug2025 21:56:56.387] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/houses/tudor_small_house_1
+[07Aug2025 21:56:56.388] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/houses/tudor_small_house_2
+[07Aug2025 21:56:56.389] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/houses/tudor_small_house_3
+[07Aug2025 21:56:56.389] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/houses/tudor_small_house_4
+[07Aug2025 21:56:56.390] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/houses/tudor_mason_1
+[07Aug2025 21:56:56.392] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/houses/tudor_butcher_and_armorer_1
+[07Aug2025 21:56:56.393] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/houses/tudor_toolsmith_and_weaponsmith_1
+[07Aug2025 21:56:56.393] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/houses/tudor_cartographer_and_fletcher_1
+[07Aug2025 21:56:56.394] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/houses/tudor_fisher_1
+[07Aug2025 21:56:56.395] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/houses/tudor_farmer_1
+[07Aug2025 21:56:56.396] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/houses/tudor_shepherd_1
+[07Aug2025 21:56:56.397] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/houses/tudor_temple_1
+[07Aug2025 21:56:56.398] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/houses/tudor_library_1
+[07Aug2025 21:56:56.399] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/houses/tudor_leatherworker_1
+[07Aug2025 21:56:56.399] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/tudor_lamp_1
+[07Aug2025 21:56:56.400] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/tudor_table_1
+[07Aug2025 21:56:56.407] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/streets/corner_01
+[07Aug2025 21:56:56.415] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/streets/straight_01
+[07Aug2025 21:56:56.438] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/streets/straight_02
+[07Aug2025 21:56:56.474] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/streets/crossroad_02
+[07Aug2025 21:56:56.482] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/streets/corner_02
+[07Aug2025 21:56:56.482] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/terminators/terminator_02
+[07Aug2025 21:56:56.483] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/terminators/terminator_01
+[07Aug2025 21:57:14.931] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of idas:washing_camp/washing_camp
+[07Aug2025 21:57:32.865] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_3
+[07Aug2025 21:57:32.944] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_3
+[07Aug2025 21:57:32.966] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_3
+[07Aug2025 21:57:33.031] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_3
+[07Aug2025 21:57:33.056] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_0
+[07Aug2025 21:57:33.107] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_descent_0
+[07Aug2025 21:57:33.128] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_3
+[07Aug2025 21:57:33.250] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_3
+[07Aug2025 21:57:54.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -8.573222924946094,2.2432065179951906,-5.94412416911382
+[07Aug2025 21:57:54.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -9.853205349459131,2.4311555750376215,-6.841445939958248
+[07Aug2025 21:57:54.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -11.14243265328696,2.596926643349036,-7.746828430191044
+[07Aug2025 21:57:55.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -9.068092063627773,1.0560409740025705,-6.375606411878152
+[07Aug2025 21:57:55.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 11.715335255389618,-1.2225628446847452,8.246348970711097
+[07Aug2025 21:57:55.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 11.715335255389618,-1.2225628446847452,8.246348970711097
+[07Aug2025 21:57:55.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 11.715335255389618,-1.2225628446847452,8.246348970711097
+[07Aug2025 21:57:55.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 10.385698864924962,-1.1537310913751924,7.305733320906938
+[07Aug2025 21:57:55.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 9.052676763127238,-1.0930214849561821,6.362165629431729
+[07Aug2025 21:57:56.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -7.633656100664666,0.05187126174689638,-8.706462550518154
+[07Aug2025 21:58:05.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 21:58:05.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 21:58:28.562] [Worker-Main-2/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-7159, y=89, z=902}
+[07Aug2025 21:58:28.562] [Worker-Main-2/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-7160, y=89, z=902}
+[07Aug2025 21:58:28.562] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:58:28.562] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:58:28.563] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:58:28.563] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:58:28.563] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:58:28.563] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Aug2025 21:58:30.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -7.713275166677704,0.0,-7.329195073052574
+[07Aug2025 21:58:30.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -8.147980504837506,0.0,-7.7113250646192455
+[07Aug2025 21:58:49.884] [Worker-Main-83/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-2122342030,2037532892,-2054313790,1110631077],type:"minecraft:entity",y_offset:0.36f}}]
+[07Aug2025 21:59:19.704] [pool-8-thread-4/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / idas:beekeepers_house], ResourceKey[minecraft:worldgen/structure / idas:farmhouse], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / idas:bearclaw_inn], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic]] from pos BlockPos{x=-7259, y=87, z=981}
+[07Aug2025 21:59:19.719] [pool-8-thread-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_3
+[07Aug2025 21:59:20.970] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of idas:redhorn_guild/redhorn_guild
+[07Aug2025 21:59:23.526] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-7259, y=87, z=981} but found not block entity block Block{minecraft:air} at location
+[07Aug2025 21:59:23.527] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-7259, y=87, z=981}
+[07Aug2025 21:59:58.929] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:wizard_tower/yellowwizardtower1
+[07Aug2025 21:59:58.935] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:wizard_tower/yellowwizardtower2
+[07Aug2025 22:00:44.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 22:01:03.528] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:abandonedhouse/abandonedhouse2
+[07Aug2025 22:01:17.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> -9600 -3200
+[07Aug2025 22:01:23.111] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_small_house_4
+[07Aug2025 22:01:23.114] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_medium_house_1
+[07Aug2025 22:01:23.116] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_armorer_and_toolsmith_1
+[07Aug2025 22:01:23.118] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_cartographer_and_library_1
+[07Aug2025 22:01:23.119] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_shepherd_1
+[07Aug2025 22:01:23.120] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_butcher_and_leatherworker_1
+[07Aug2025 22:01:23.121] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_weaponsmith_1
+[07Aug2025 22:01:30.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -7.022482390316327,0.0,-7.305496354717775
+[07Aug2025 22:01:30.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -7.526312416761357,0.0,-7.829631308967123
+[07Aug2025 22:01:30.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -7.970690500085766,0.0,-8.291918338615005
+[07Aug2025 22:01:30.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -8.362631969577706,0.0,-8.6996554987644
+[07Aug2025 22:01:30.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -8.708324345670007,0.0,-9.059279674016238
+[07Aug2025 22:01:30.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -9.013225021382823,0.0,-9.376468196588348
+[07Aug2025 22:01:30.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -9.282147417361557,0.0,-9.65622847349698
+[07Aug2025 22:01:30.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -9.519336970614859,0.0,-9.902977037730352
+[07Aug2025 22:01:30.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -9.728538156584364,0.0,-10.120609271384183
+[07Aug2025 22:01:30.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -9.91305360260958,0.0,-10.312560901466895
+[07Aug2025 22:01:30.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -10.075796226004059,0.0,-10.481862239199813
+[07Aug2025 22:02:03.690] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_2
+[07Aug2025 22:02:03.706] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_4
+[07Aug2025 22:02:03.707] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_15
+[07Aug2025 22:02:03.707] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_14
+[07Aug2025 22:02:03.708] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_10
+[07Aug2025 22:02:03.708] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_4
+[07Aug2025 22:02:03.709] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_1
+[07Aug2025 22:02:03.710] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_13
+[07Aug2025 22:02:03.711] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_3
+[07Aug2025 22:02:03.712] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_7
+[07Aug2025 22:02:03.713] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_11
+[07Aug2025 22:02:03.713] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_12
+[07Aug2025 22:02:03.714] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_5
+[07Aug2025 22:02:03.714] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_6
+[07Aug2025 22:02:03.715] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_0
+[07Aug2025 22:02:03.715] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_9
+[07Aug2025 22:02:03.715] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_16
+[07Aug2025 22:02:03.715] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_2
+[07Aug2025 22:02:03.716] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_17
+[07Aug2025 22:02:03.716] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_8
+[07Aug2025 22:02:03.717] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_3
+[07Aug2025 22:02:03.718] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_4
+[07Aug2025 22:02:03.719] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_2
+[07Aug2025 22:02:03.720] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_5
+[07Aug2025 22:02:03.720] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_2
+[07Aug2025 22:02:03.721] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_3
+[07Aug2025 22:02:03.721] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_1
+[07Aug2025 22:02:03.722] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_0
+[07Aug2025 22:02:03.722] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_6
+[07Aug2025 22:02:03.723] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_0
+[07Aug2025 22:02:03.723] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_0
+[07Aug2025 22:02:03.724] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_terminator_0
+[07Aug2025 22:02:03.725] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_1
+[07Aug2025 22:02:03.726] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_0
+[07Aug2025 22:02:16.381] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t1
+[07Aug2025 22:02:16.529] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/bend2
+[07Aug2025 22:02:20.708] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of idas:lumber_camp/lumber_camp_birch
+[07Aug2025 22:02:24.374] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/villager_spawns/villager_normal
+[07Aug2025 22:02:24.375] [Worker-Main-32/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Aug2025 22:02:45.419] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[07Aug2025 22:03:05.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 22:03:05.935] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 22:03:11.862] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight
+[07Aug2025 22:03:11.871] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight_trapped
+[07Aug2025 22:03:47.387] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[07Aug2025 22:04:21.174] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/snowy_scriber_1
+[07Aug2025 22:04:47.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -7.290427900486975,0.0,-8.075133767748866
+[07Aug2025 22:04:47.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -8.222089617072925,0.0,-8.798066295582544
+[07Aug2025 22:04:47.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -9.221910245780236,0.0,-9.531660125678513
+[07Aug2025 22:04:47.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -10.281847034979364,0.0,-10.27465722436989
+[07Aug2025 22:04:47.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -11.343832647038653,0.0,-11.082122003156542
+[07Aug2025 22:04:47.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -12.407625320860461,0.0,-11.94644727578725
+[07Aug2025 22:04:47.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -13.345890459169823,0.0,-12.708782166247488
+[07Aug2025 22:04:47.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -14.173440311158629,0.0,-13.381161539633467
+[07Aug2025 22:04:47.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -14.903339280614091,0.0,-13.974200146959902
+[07Aug2025 22:04:47.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -15.547110171673921,0.0,-14.497260198621802
+[07Aug2025 22:04:47.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -16.11491609758741,0.0,-14.958599164187603
+[07Aug2025 22:04:47.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -16.61572092424285,0.0,-15.365500131816589
+[07Aug2025 22:04:47.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -17.057430781353105,0.0,-15.724386785265324
+[07Aug2025 22:04:47.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -17.44701887532392,0.0,-16.04092481360715
+[07Aug2025 22:04:47.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -11.35459171216462,0.0,-8.95582247040113
+[07Aug2025 22:04:48.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -11.657661640580045,0.0,-9.20206499956089
+[07Aug2025 22:04:48.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -11.924969317442446,0.0,-9.419250910279857
+[07Aug2025 22:04:48.120] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -12.160734688433877,0.0,-9.610808883533991
+[07Aug2025 22:05:15.659] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:frostmaw_spawn
+[07Aug2025 22:05:21.463] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of idas:animal_den/polar_bear_den
+[07Aug2025 22:05:27.593] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of idas:winter_wagon/winter_wagon
+[07Aug2025 22:06:00.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2225ms or 44 ticks behind
+[07Aug2025 22:06:07.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved wrongly! 0.4088016999260162
+[07Aug2025 22:06:07.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved wrongly! 1.2750700491242242
+[07Aug2025 22:06:07.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved wrongly! 2.177113502701559
+[07Aug2025 22:06:07.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved wrongly! 3.0982995013536083
+[07Aug2025 22:06:08.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved wrongly! 4.029728294213896
+[07Aug2025 22:06:52.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has completed the challenge [Rude Awakening]
+[07Aug2025 22:07:36.936] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_2
+[07Aug2025 22:07:49.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> -9600 -3200
+[07Aug2025 22:07:51.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -8.76734188203045,0.0,-5.216416881978603
+[07Aug2025 22:07:51.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -9.489852071814312,0.0,-5.692905803627809
+[07Aug2025 22:07:51.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -10.12710605920256,0.0,-6.113169032522592
+[07Aug2025 22:07:51.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -10.628317291619169,0.0,-6.534701412686218
+[07Aug2025 22:07:51.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -10.94596354974965,0.0,-6.881294704826587
+[07Aug2025 22:07:51.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -11.101705500559547,0.0,-7.161791721330474
+[07Aug2025 22:08:08.084] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 22:08:08.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 22:08:08.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has reached the goal [Ice Scream]
+[07Aug2025 22:09:00.452] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_skeleton_juggernaut_0
+[07Aug2025 22:09:20.173] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_4
+[07Aug2025 22:09:20.326] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_3
+[07Aug2025 22:09:20.352] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[07Aug2025 22:10:40.119] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/town_centers/flower_forest_meeting_point_2
+[07Aug2025 22:10:55.048] [pool-8-thread-5/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_red], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes]] from pos BlockPos{x=-9691, y=89, z=-2597}
+[07Aug2025 22:11:00.564] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_0
+[07Aug2025 22:11:00.572] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_2
+[07Aug2025 22:11:00.580] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_5
+[07Aug2025 22:11:00.610] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_4
+[07Aug2025 22:11:00.610] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_1
+[07Aug2025 22:11:00.611] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_3
+[07Aug2025 22:11:00.612] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_pillager_multishot_0
+[07Aug2025 22:11:00.619] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_pillager_normal_0
+[07Aug2025 22:11:00.620] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_vindicator_normal_0
+[07Aug2025 22:11:00.636] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_deco_0
+[07Aug2025 22:11:00.656] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_tent_2
+[07Aug2025 22:11:00.757] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_deco_2
+[07Aug2025 22:11:00.830] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_deco_4
+[07Aug2025 22:11:00.840] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_tent_0
+[07Aug2025 22:11:00.914] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_deco_5
+[07Aug2025 22:11:00.915] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_deco_1
+[07Aug2025 22:11:00.915] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_deco_3
+[07Aug2025 22:11:00.915] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_deco_6
+[07Aug2025 22:11:00.916] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_tent_1
+[07Aug2025 22:11:00.924] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_tent_3
+[07Aug2025 22:11:02.097] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/streets/crossroad_01
+[07Aug2025 22:11:02.110] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/badlands_lamp_1
+[07Aug2025 22:11:02.112] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/badlands_lamp_2
+[07Aug2025 22:11:02.112] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/badlands_lamp_3
+[07Aug2025 22:11:02.113] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/streets/crossroad_03
+[07Aug2025 22:11:02.114] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_small_house_1_l
+[07Aug2025 22:11:02.114] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_small_house_1_r
+[07Aug2025 22:11:02.115] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_small_house_2_l
+[07Aug2025 22:11:02.115] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_small_house_2_r
+[07Aug2025 22:11:02.115] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_small_house_3_l
+[07Aug2025 22:11:02.117] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_small_house_3_r
+[07Aug2025 22:11:02.117] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_small_house_4_l
+[07Aug2025 22:11:02.117] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_small_house_4_r
+[07Aug2025 22:11:02.118] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_small_house_5_l
+[07Aug2025 22:11:02.118] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_small_house_5_r
+[07Aug2025 22:11:02.119] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_small_house_6_l
+[07Aug2025 22:11:02.119] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_small_house_6_r
+[07Aug2025 22:11:02.119] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_misc_professions_1
+[07Aug2025 22:11:02.120] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_medium_house_1_l
+[07Aug2025 22:11:02.120] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_medium_house_1_r
+[07Aug2025 22:11:02.121] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_medium_house_2_l
+[07Aug2025 22:11:02.122] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_large_house_1
+[07Aug2025 22:11:02.123] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_large_house_2
+[07Aug2025 22:11:02.124] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_large_house_3
+[07Aug2025 22:11:02.125] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_large_house_4
+[07Aug2025 22:11:02.125] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_armorer_1
+[07Aug2025 22:11:02.126] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_cartographer_1
+[07Aug2025 22:11:02.126] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_library_1
+[07Aug2025 22:11:02.127] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_mason_1
+[07Aug2025 22:11:02.128] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_temple_1
+[07Aug2025 22:11:02.129] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_toolsmith_and_weaponsmith_1
+[07Aug2025 22:11:02.136] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/streets/crossroad_02
+[07Aug2025 22:11:02.143] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/streets/straight_01
+[07Aug2025 22:11:02.150] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/terminators/terminator_02
+[07Aug2025 22:11:02.150] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/terminators/terminator_01
+[07Aug2025 22:11:02.210] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/professions_misc/badlands_butcher_1
+[07Aug2025 22:11:02.210] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/professions_misc/badlands_farmer_1
+[07Aug2025 22:11:02.210] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/professions_misc/badlands_fisher_1
+[07Aug2025 22:11:02.211] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/professions_misc/badlands_fletcher_1
+[07Aug2025 22:11:02.211] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/professions_misc/badlands_leatherworker_1
+[07Aug2025 22:11:02.211] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/professions_misc/badlands_shepherd_1
+[07Aug2025 22:11:06.268] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5336ms or 106 ticks behind
+[07Aug2025 22:11:06.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 5.715830615254163,0.0,-8.23399479607042
+[07Aug2025 22:11:06.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 5.738530310378337,0.0,-8.314177039658716
+[07Aug2025 22:11:06.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 5.75855144147863,0.0,-8.384897778503273
+[07Aug2025 22:11:06.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 5.77621007910966,0.0,-8.447273470164419
+[07Aug2025 22:11:06.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 5.7917849975001445,0.0,-8.502288830209636
+[07Aug2025 22:11:06.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 5.805522075519548,0.0,-8.550812377769489
+[07Aug2025 22:11:06.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 5.817638178332345,0.0,-8.59361014671731
+[07Aug2025 22:11:06.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 5.828324581014385,0.0,-8.631357778929214
+[07Aug2025 22:11:06.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 5.8377499881789845,0.0,-8.664651190540098
+[07Aug2025 22:11:06.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 5.846063197299372,0.0,-8.694015979580854
+[07Aug2025 22:11:06.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 5.853395447742514,0.0,-8.719915723514987
+[07Aug2025 22:11:06.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 5.85986249263442,0.0,-8.742759297664634
+[07Aug2025 22:11:06.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 5.865566426227815,0.0,-8.762907330064536
+[07Aug2025 22:11:06.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 5.870597295657717,0.0,-8.780677894641485
+[07Aug2025 22:11:06.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 5.8750345224943885,0.0,-8.796351532598237
+[07Aug2025 22:11:06.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 5.878948156565457,0.0,-8.810175681276178
+[07Aug2025 22:11:06.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 5.878180548619639,0.0,-9.020583167005952
+[07Aug2025 22:11:06.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 5.949300348216639,0.0,-9.395555097608849
+[07Aug2025 22:11:06.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 6.007808578266122,0.0,-9.92449492699643
+[07Aug2025 22:11:06.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 6.0551934039740445,0.0,-10.589234443111764
+[07Aug2025 22:11:06.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 6.096986820248276,0.0,-11.175534696325485
+[07Aug2025 22:11:06.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 6.1338486134027335,0.0,-11.692651519660103
+[07Aug2025 22:11:06.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 6.166360714965776,0.0,-12.148748557841373
+[07Aug2025 22:11:06.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 6.195036388544395,0.0,-12.551026145516971
+[07Aug2025 22:11:06.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 6.220328332639838,0.0,-12.905834977847007
+[07Aug2025 22:11:06.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 6.242635827331469,0.0,-13.218776367962164
+[07Aug2025 22:11:06.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 6.262311037649852,0.0,-13.494790674043543
+[07Aug2025 22:11:06.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 6.279664573150512,0.0,-13.73823529200763
+[07Aug2025 22:11:06.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 6.294970391461902,0.0,-13.952953445051662
+[07Aug2025 22:11:06.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 6.308470123212828,0.0,-14.142334856036541
+[07Aug2025 22:11:06.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 6.320376886616941,0.0,-14.309369260525273
+[07Aug2025 22:11:06.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 6.3308786519392015,0.0,-14.456693605284272
+[07Aug2025 22:11:06.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 6.342250925552435,0.0,-14.48752638406404
+[07Aug2025 22:11:06.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 6.354390987477018,0.0,-14.415613601649511
+[07Aug2025 22:11:06.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 6.3672082386910915,0.0,-14.253079234262259
+[07Aug2025 22:11:06.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 6.3806227708591905,0.0,-14.010616628928801
+[07Aug2025 22:11:06.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 6.394564104830351,0.0,-13.69765731772668
+[07Aug2025 22:11:06.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 6.408970077989579,0.0,-13.322519911948348
+[07Aug2025 22:11:06.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 6.423785862914883,0.0,-12.892541426754178
+[07Aug2025 22:11:06.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 6.438963101816626,0.0,-12.414193109515054
+[07Aug2025 22:11:06.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 6.4544591431258596,0.0,-11.893182600412274
+[07Aug2025 22:11:06.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 6.470236368157202,0.0,-11.334544038085824
+[07Aug2025 22:11:06.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 6.486261597232442,0.0,-10.742717532815732
+[07Aug2025 22:11:06.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 6.5025055658752535,0.0,-10.12161926186991
+[07Aug2025 22:11:06.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 6.5189424628151755,0.0,-9.474703293597486
+[07Aug2025 22:11:06.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 6.535549522513975,0.0,-8.805016116283241
+[07Aug2025 22:11:06.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 6.552306665766082,0.0,-8.11524473259442
+[07Aug2025 22:11:06.915] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/streets/crossroad_01 is being run through DFU (hash 1a154bf1664db3a2b0a3fe3c41f41bdb04990779a873c9a884e243d2f8920133), this will cause launch time delays
+[07Aug2025 22:11:06.978] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/flower_forest_lamp_1 is being run through DFU (hash 026d72b603a3397b0098abf0786d59845f8510bfb2af290fb0963423e18c333a), this will cause launch time delays
+[07Aug2025 22:11:06.981] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/flower_forest_gate_1 is being run through DFU (hash 51165ef2fb4548ba030e0870b26161734b3f465bb5e5f2c95e078c14ed63ac43), this will cause launch time delays
+[07Aug2025 22:11:06.983] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/flower_forest_gate_2 is being run through DFU (hash 7d271a8ca4801903088cd950732b9fbc4b883be3da37145e7bc8f9d8f6a3eded), this will cause launch time delays
+[07Aug2025 22:11:06.984] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/houses/flower_forest_small_house_1 is being run through DFU (hash b9e31983aacfe299f5b4296c94de964f85c3f1207d45081a9bd8a3e28687e382), this will cause launch time delays
+[07Aug2025 22:11:06.987] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/houses/flower_forest_small_house_2 is being run through DFU (hash 42c6cf96414c244434e40a521ed58c71c466f3a89957c0b0dd9133f8df9d0da6), this will cause launch time delays
+[07Aug2025 22:11:06.990] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/houses/flower_forest_small_house_3 is being run through DFU (hash 96f43416774817b7cd589b5a950bc905d9b7f85e29ecf315c4b204eaff7e29ce), this will cause launch time delays
+[07Aug2025 22:11:06.997] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/houses/flower_forest_small_house_4 is being run through DFU (hash 5bd9e2579b79be7cd4d14cbac84348f5bdc41157f25533b44b9af900bfc4ba37), this will cause launch time delays
+[07Aug2025 22:11:07.000] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/houses/flower_forest_small_house_5 is being run through DFU (hash 9c73729f222849002e140509d7ca473828dc739ddcb275d2b0a93805437cf9b4), this will cause launch time delays
+[07Aug2025 22:11:07.004] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/houses/flower_forest_small_house_6 is being run through DFU (hash 100976b2d28c067e19923aa83092c326cb53cbe97fb15380855b9fce906df518), this will cause launch time delays
+[07Aug2025 22:11:07.007] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/houses/flower_forest_medium_house_1 is being run through DFU (hash 4681558d3a2f18c3b7a66234d0ccd05fec9f9db0e9cfc3a749b670aa1bdb5bb1), this will cause launch time delays
+[07Aug2025 22:11:07.013] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/houses/flower_forest_large_house_1 is being run through DFU (hash cb6cb146696eb04302d1aa07c2b3dca0d3b15e461cb7db66b2c66ef2817d808f), this will cause launch time delays
+[07Aug2025 22:11:07.025] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/houses/flower_forest_butcher_1 is being run through DFU (hash 792eaaf47641f806cc0bb6a62203d5b20cd84e8950b458501b1a1697b23b23b9), this will cause launch time delays
+[07Aug2025 22:11:07.055] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/houses/flower_forest_toolsmith_1 is being run through DFU (hash ef816112f1c209eb239a5d5bbda914ac85ec38d79ed844e5f96a9f18726d1da8), this will cause launch time delays
+[07Aug2025 22:11:07.058] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/houses/flower_forest_fletcher_1 is being run through DFU (hash 4cf9d1e54f104b6269c19cf14d553bbba614e80e4e1fba289e48b7ec1b2b378a), this will cause launch time delays
+[07Aug2025 22:11:07.061] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/houses/flower_forest_shepherd_1 is being run through DFU (hash 395677e8066665636774e654e214da7f22cecc9d903c6f53156c17cffe2b552f), this will cause launch time delays
+[07Aug2025 22:11:07.064] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/houses/flower_forest_armorer_1 is being run through DFU (hash 3a68887b9c9447bc8c66962b20138907599eb283d3b2c4b33b7877b5975a77b7), this will cause launch time delays
+[07Aug2025 22:11:07.068] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/houses/flower_forest_fisher_1 is being run through DFU (hash 1bf8073b6a3ffce71b9a142dd778de70b3084c548e5762f768a695c7dc1f1174), this will cause launch time delays
+[07Aug2025 22:11:07.072] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/houses/flower_forest_leatherworker_1 is being run through DFU (hash 48194e27def4788599b5fa1ad81d1415dc1e74d56dda7aa27bce596d62a4603a), this will cause launch time delays
+[07Aug2025 22:11:07.075] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/houses/flower_forest_cartographer_1 is being run through DFU (hash 1c790f7b0dd8c295c3ab88b396d7499ea0782ade905bef9f5c44113a488aa516), this will cause launch time delays
+[07Aug2025 22:11:07.077] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/houses/flower_forest_library_1 is being run through DFU (hash 37abd3b4cee03fd34d37b46920692bb9c6623b1fb423174ee19cef8bb6ed0b2a), this will cause launch time delays
+[07Aug2025 22:11:07.080] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/houses/flower_forest_mason_1 is being run through DFU (hash 7a5b023cbc093d0f9319f7b4b7d83bbc2ea02a7c36dfba870a7220617143855d), this will cause launch time delays
+[07Aug2025 22:11:07.082] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/houses/flower_forest_weaponsmith_1 is being run through DFU (hash 37868e53468dec1e6f5284d4b5be878ddec30e3c7dff1e2c7396e369e56b1a91), this will cause launch time delays
+[07Aug2025 22:11:07.086] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/houses/flower_forest_temple_1 is being run through DFU (hash 6d282c73c231ffbbcbf6d99b1e747b7c26851defc2d5c246379ddc2b8f5b0bc6), this will cause launch time delays
+[07Aug2025 22:11:07.089] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/houses/flower_forest_stable_1 is being run through DFU (hash d0ca75e31963b450e51e83a23019d533a172ee454a0e38c05d0b7ea47eb3e86b), this will cause launch time delays
+[07Aug2025 22:11:07.091] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/houses/flower_forest_large_farm_1 is being run through DFU (hash ad1ee5426823d975eed82971da6d17d364017b02946636b86b7cc829abdd8a5a), this will cause launch time delays
+[07Aug2025 22:11:07.092] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/houses/flower_forest_small_farm_1 is being run through DFU (hash f909488f9865202f015da10020c0f71de2a358c5f5e876691554b8a3f94b33c0), this will cause launch time delays
+[07Aug2025 22:11:07.094] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/houses/flower_forest_animal_pen_1 is being run through DFU (hash b68a1598735fcc090386e419584991dcdf4d70514d306b8dd53e6c0e9c22315d), this will cause launch time delays
+[07Aug2025 22:11:07.095] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/houses/flower_forest_animal_pen_2 is being run through DFU (hash 92b7f8283646d4a16f97d3f025cea286bee16dd7edbfbb15565ce44b4e97a715), this will cause launch time delays
+[07Aug2025 22:11:07.096] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/houses/flower_forest_animal_pen_3 is being run through DFU (hash 0db650b00c095c02262690d936794f51daf7a9356effe5b3e1c797dfed932310), this will cause launch time delays
+[07Aug2025 22:11:07.098] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/houses/flower_forest_park_1 is being run through DFU (hash f282e540ec2fbe0fab37050ea5f041272887bd77aad9f88603be1147df72ee47), this will cause launch time delays
+[07Aug2025 22:11:07.100] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/houses/flower_forest_park_2 is being run through DFU (hash 963e9cbfb714b7241137d5655528ccb1140d4f78cbf12a43c53323f89493237d), this will cause launch time delays
+[07Aug2025 22:11:07.102] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/terminators/terminator_01 is being run through DFU (hash 2d68769127220ff081c05c5d7363734aaece0e2f2e5798a13b29db22181a6ea2), this will cause launch time delays
+[07Aug2025 22:11:07.103] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/terminators/terminator_02 is being run through DFU (hash 9b7c8d36a69cf1d5a68b0e450be12cdabb9640b9d83b8d61b0bcea4fa2e032d3), this will cause launch time delays
+[07Aug2025 22:11:07.104] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/terminators/terminator_03 is being run through DFU (hash c08d3e6393bad7330bfb40e789fa854719ea18cbec584dbc7d85948c4cfa1d82), this will cause launch time delays
+[07Aug2025 22:11:07.105] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/terminators/terminator_04 is being run through DFU (hash 89b17f79bb22947197210d3dced8e6eff6910e20b1ab522f165d93872c2625cc), this will cause launch time delays
+[07Aug2025 22:11:07.106] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/flower_forest_planter_1 is being run through DFU (hash dc86e772f2aa1d612eba8e1002c096a6b514d833dacce232c2e53d84c709cc6a), this will cause launch time delays
+[07Aug2025 22:11:07.115] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/streets/corner_02 is being run through DFU (hash cb45b72fc8def5c4767c3f333493a4d0e2a5d0f0589968f024a7ed93b581050f), this will cause launch time delays
+[07Aug2025 22:11:07.125] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/streets/crossroad_02 is being run through DFU (hash 629af161ef6ac33dc37794b9377d95738d8b69e6d0a6646f7a9c4a3e6556fcba), this will cause launch time delays
+[07Aug2025 22:11:07.138] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/streets/straight_01 is being run through DFU (hash 2741bdbfbb5d270b4e1a15beaf9927049fa7417f4fd7c977d78a1057f5b24adb), this will cause launch time delays
+[07Aug2025 22:11:07.142] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/streets/straight_06 is being run through DFU (hash 6802a99ee4e44a450f0933463aa847fd2abd0859dd92ab65311de733419964ee), this will cause launch time delays
+[07Aug2025 22:11:07.148] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/streets/corner_03 is being run through DFU (hash 294949273c704e362caeeb8b368f0eee51bf5e3a5024d96e47098fa241b82f70), this will cause launch time delays
+[07Aug2025 22:11:07.150] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/streets/straight_02 is being run through DFU (hash e43f9fbc190318bdc0f51e85ad9f6b6cd97f6458101d44e2530c4bb7a7c54b37), this will cause launch time delays
+[07Aug2025 22:11:07.163] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/streets/turn_01 is being run through DFU (hash dccfc0ee9384b60f4c4bd235ed993f9feb0503c6cf12d4435a7a7ed00d9f2390), this will cause launch time delays
+[07Aug2025 22:11:07.166] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/streets/corner_01 is being run through DFU (hash 61429d351dc741244d49f8099b7d951e15759c054c48f09888db3016fef2017c), this will cause launch time delays
+[07Aug2025 22:11:07.169] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/streets/crossroad_03 is being run through DFU (hash de0f55d8ba1ebcbb9d74b2652beca8f4ca1b541193b9acd0ce81103f6b6d3582), this will cause launch time delays
+[07Aug2025 22:11:07.173] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/streets/crossroad_04 is being run through DFU (hash 6320e4c85edb3dc17b298c2b98fc97cdb678df8a39867c2a3dac8e47c3132130), this will cause launch time delays
+[07Aug2025 22:11:07.198] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/streets/straight_04 is being run through DFU (hash f4ab82fd1b08ef759af3aa5a6ce86c18748fc396c285be991f8620766575e6f2), this will cause launch time delays
+[07Aug2025 22:11:07.202] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/streets/straight_05 is being run through DFU (hash e81efaeeedf63fa30f93587898818f89f9f4de2f8f00310275edaceb5c347761), this will cause launch time delays
+[07Aug2025 22:11:07.320] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/streets/crossroad_06 is being run through DFU (hash 18c457f2d00319fd204f01b213367a92d88325857a97e79dcf6e82433d8e5cd7), this will cause launch time delays
+[07Aug2025 22:11:07.323] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/streets/straight_03 is being run through DFU (hash e1ab84b3a9cf837c30def1dd4221975e15458bc7c9b307d761b1806237a9cb55), this will cause launch time delays
+[07Aug2025 22:11:07.327] [Worker-Main-84/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/streets/crossroad_05 is being run through DFU (hash 19f7fe18bbd27aea8a0b240e509fa975e75f53aee6b1dda2bb9201ab00cfbd66), this will cause launch time delays
+[07Aug2025 22:11:59.048] [Worker-Main-84/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_0
+[07Aug2025 22:12:05.046] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/taiga_scriber_1
+[07Aug2025 22:12:05.049] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:priest_house_taiga
+[07Aug2025 22:12:44.008] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/villager_cage_half_guard_tower
+[07Aug2025 22:12:44.009] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/villager_cage_half_cage
+[07Aug2025 22:12:44.036] [Worker-Main-32/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Aug2025 22:12:44.037] [Worker-Main-32/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Aug2025 22:12:49.279] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Aug2025 22:12:49.280] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Aug2025 22:12:49.281] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_turn
+[07Aug2025 22:12:49.282] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/shelf_storage
+[07Aug2025 22:12:49.283] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage_secret
+[07Aug2025 22:13:13.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 22:13:13.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 22:13:29.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -6.416904155676093,0.0,-7.778375788307585
+[07Aug2025 22:13:29.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -7.453508850663638,0.0,-9.115216245152624
+[07Aug2025 22:13:29.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -8.47926542440291,0.0,-10.46313405332694
+[07Aug2025 22:13:29.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -9.493097662718355,0.0,-11.822358742825145
+[07Aug2025 22:13:29.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -10.493851252051172,0.0,-13.193165549248533
+[07Aug2025 22:13:29.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -11.479318581121333,0.0,-14.576455971413452
+[07Aug2025 22:13:29.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -12.449325711520942,0.0,-15.971908789189001
+[07Aug2025 22:13:29.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -13.403790928117814,0.0,-17.379170837438323
+[07Aug2025 22:13:29.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -14.343446524248066,0.0,-18.79746164168637
+[07Aug2025 22:13:29.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -15.195661567635398,0.0,-20.24526324821545
+[07Aug2025 22:13:29.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -15.969432304478687,0.0,-21.71924624948224
+[07Aug2025 22:13:29.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -16.673202738758846,0.0,-23.21641074427862
+[07Aug2025 22:13:29.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -17.3148360097166,0.0,-24.734063810971293
+[07Aug2025 22:13:29.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -17.901361847643784,0.0,-26.2698196335773
+[07Aug2025 22:13:29.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -18.33979857680606,0.0,-27.632553013144843
+[07Aug2025 22:13:29.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -18.726499771926683,0.0,-28.834483853923757
+[07Aug2025 22:13:29.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -19.067570226023236,0.0,-29.894586855490616
+[07Aug2025 22:13:29.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -19.36839436653645,0.0,-30.829597702872434
+[07Aug2025 22:13:29.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -19.63372125846945,0.0,-31.654277270263265
+[07Aug2025 22:13:29.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -19.86773957715377,0.0,-32.38164464870215
+[07Aug2025 22:13:29.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -20.074143734233076,0.0,-33.02318267648525
+[07Aug2025 22:13:29.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -20.25619220077715,0.0,-33.58901921698998
+[07Aug2025 22:13:29.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -20.407525015656574,0.0,-33.989388308008984
+[07Aug2025 22:13:29.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -15.16265130483771,0.0,-27.79049421644504
+[07Aug2025 22:13:29.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -15.263105326937875,0.0,-27.91618995334875
+[07Aug2025 22:13:29.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -15.342528618968572,0.0,-27.92834956149227
+[07Aug2025 22:13:34.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> -9600 -3200
+[07Aug2025 22:13:50.484] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9328, y=62, z=-3760}
+[07Aug2025 22:13:50.486] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9321, y=43, z=-3760}
+[07Aug2025 22:13:52.022] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9305, y=50, z=-3797}
+[07Aug2025 22:13:52.023] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9328, y=43, z=-3780}
+[07Aug2025 22:13:52.024] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9328, y=43, z=-3767}
+[07Aug2025 22:13:52.170] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9305, y=50, z=-3797}
+[07Aug2025 22:13:52.172] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9328, y=43, z=-3780}
+[07Aug2025 22:13:52.172] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9334, y=43, z=-3781}
+[07Aug2025 22:13:52.555] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9305, y=50, z=-3797}
+[07Aug2025 22:13:53.713] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9328, y=62, z=-3760}
+[07Aug2025 22:13:53.716] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9305, y=50, z=-3797}
+[07Aug2025 22:13:53.717] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9314, y=43, z=-3780}
+[07Aug2025 22:13:53.718] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9327, y=43, z=-3774}
+[07Aug2025 22:13:53.718] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9328, y=43, z=-3780}
+[07Aug2025 22:13:53.718] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9321, y=43, z=-3767}
+[07Aug2025 22:13:53.718] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9321, y=43, z=-3760}
+[07Aug2025 22:13:53.718] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9314, y=43, z=-3773}
+[07Aug2025 22:13:53.719] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9328, y=43, z=-3767}
+[07Aug2025 22:13:53.733] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9328, y=62, z=-3760}
+[07Aug2025 22:13:53.741] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9325, y=57, z=-3792}
+[07Aug2025 22:13:53.741] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9305, y=50, z=-3797}
+[07Aug2025 22:13:53.744] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9314, y=43, z=-3780}
+[07Aug2025 22:13:53.745] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9327, y=43, z=-3774}
+[07Aug2025 22:13:53.745] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9328, y=43, z=-3780}
+[07Aug2025 22:13:53.745] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9321, y=43, z=-3781}
+[07Aug2025 22:13:53.746] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9320, y=43, z=-3787}
+[07Aug2025 22:13:53.746] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9334, y=43, z=-3781}
+[07Aug2025 22:13:53.746] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9327, y=43, z=-3794}
+[07Aug2025 22:13:53.746] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9307, y=43, z=-3787}
+[07Aug2025 22:13:53.747] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9320, y=43, z=-3794}
+[07Aug2025 22:13:53.775] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9328, y=62, z=-3760}
+[07Aug2025 22:13:53.777] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9305, y=50, z=-3797}
+[07Aug2025 22:13:53.778] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9327, y=43, z=-3794}
+[07Aug2025 22:13:53.778] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9320, y=43, z=-3794}
+[07Aug2025 22:13:55.731] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9328, y=62, z=-3760}
+[07Aug2025 22:13:55.734] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9305, y=50, z=-3797}
+[07Aug2025 22:13:55.745] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9328, y=62, z=-3760}
+[07Aug2025 22:13:55.748] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9305, y=50, z=-3797}
+[07Aug2025 22:13:55.749] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9307, y=43, z=-3787}
+[07Aug2025 22:13:55.782] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9328, y=62, z=-3760}
+[07Aug2025 22:13:55.783] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9305, y=50, z=-3797}
+[07Aug2025 22:13:55.879] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9328, y=62, z=-3760}
