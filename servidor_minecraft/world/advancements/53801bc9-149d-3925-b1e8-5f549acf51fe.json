@@ -1081,6 +1081,12 @@
     },
     "done": true
   },
+  "boliviamod:advancement_discovering_new_crops": {
+    "criteria": {
+      "advancement_discovering_new_crops_0": "2025-08-07 20:12:51 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:wilden_tribute": {
     "criteria": {
       "has_wilden_tribute": "2025-08-07 20:12:38 +0000"
