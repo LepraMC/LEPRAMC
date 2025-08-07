@@ -868,3 +868,13 @@
 [07Aug2025 20:39:09.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
 [07Aug2025 20:39:40.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
 [07Aug2025 20:40:11.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 20:44:20.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rodjes7: The difficulty has been set to Hard]
+[07Aug2025 20:44:59.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [This Must be a Sign!]
+[07Aug2025 20:46:56.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 0.30975378349558014
+[07Aug2025 20:46:56.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 0.9905443770085185
+[07Aug2025 20:46:56.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 1.671334981583641
+[07Aug2025 20:46:56.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 2.352125592077755
+[07Aug2025 20:46:56.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 3.0329162057387293
+[07Aug2025 20:46:56.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 3.7137068210940924
+[07Aug2025 20:46:56.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 4.394497437356222
+[07Aug2025 20:49:53.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
