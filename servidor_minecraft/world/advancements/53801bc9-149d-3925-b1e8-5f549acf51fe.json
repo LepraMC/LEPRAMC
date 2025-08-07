@@ -1081,5 +1081,17 @@
     },
     "done": true
   },
+  "ars_nouveau:wilden_tribute": {
+    "criteria": {
+      "has_wilden_tribute": "2025-08-07 20:12:38 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:wilden_explosion": {
+    "criteria": {
+      "wilden_explosion": "2025-08-07 20:12:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
