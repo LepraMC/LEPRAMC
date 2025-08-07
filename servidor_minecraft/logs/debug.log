@@ -12108,3 +12108,10 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [07Aug2025 20:51:17.661] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:1050,EnchantmentMapping:{"minecraft:efficiency":"single/head","minecraft:silk_touch":"single/handle"},Enchantments:[{id:"minecraft:silk_touch",lvl:1s},{id:"minecraft:efficiency",lvl:3s}],"single/basic_handle_material":"basic_handle/stick","single/basic_shovel_material":"basic_shovel/diamond","single/handle":"single/basic_handle","single/head":"single/basic_shovel","single/head:arrested":0})
 [07Aug2025 20:52:49.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Aug2025 20:52:49.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 20:57:49.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 20:57:49.457] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 20:59:06.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 20:59:32.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 21:00:34.822] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=67, y=73, z=8048} BlockPos{x=61, y=71, z=8038}
+[07Aug2025 21:02:49.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 21:02:49.474] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
