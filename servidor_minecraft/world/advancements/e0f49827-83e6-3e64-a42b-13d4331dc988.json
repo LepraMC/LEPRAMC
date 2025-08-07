@@ -535,6 +535,7 @@
       "quark:forgotten": "2025-08-02 04:12:10 +0000",
       "minecraft:phantom": "2025-07-29 17:17:25 +0000",
       "minecraft:wither_skeleton": "2025-07-26 15:58:28 +0000",
+      "minecraft:husk": "2025-08-07 03:41:19 +0000",
       "minecraft:ender_dragon": "2025-08-02 04:59:31 +0000",
       "minecraft:shulker": "2025-08-02 05:19:25 +0000",
       "minecraft:piglin": "2025-07-29 04:22:09 +0000",
@@ -607,6 +608,7 @@
       "minecraft:deep_ocean": "2025-07-29 01:00:09 +0000",
       "minecraft:frozen_river": "2025-08-03 05:22:16 +0000",
       "minecraft:cherry_grove": "2025-08-03 20:27:37 +0000",
+      "minecraft:sunflower_plains": "2025-08-07 03:35:47 +0000",
       "minecraft:birch_forest": "2025-07-26 01:15:37 +0000",
       "minecraft:bamboo_jungle": "2025-07-29 17:10:42 +0000",
       "minecraft:savanna_plateau": "2025-07-26 01:53:45 +0000",
@@ -625,12 +627,14 @@
       "minecraft:lush_caves": "2025-07-26 01:19:37 +0000",
       "minecraft:deep_cold_ocean": "2025-08-03 05:04:39 +0000",
       "minecraft:frozen_ocean": "2025-08-03 05:18:41 +0000",
+      "minecraft:desert": "2025-08-07 03:44:21 +0000",
       "minecraft:deep_frozen_ocean": "2025-08-03 05:18:48 +0000",
       "minecraft:ocean": "2025-07-25 20:27:19 +0000",
       "minecraft:jungle": "2025-07-26 01:49:45 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-26 01:47:41 +0000",
       "minecraft:snowy_beach": "2025-08-03 05:31:14 +0000",
       "minecraft:windswept_savanna": "2025-07-26 01:16:48 +0000",
+      "minecraft:warm_ocean": "2025-08-07 03:43:55 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-29 00:52:14 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-25 20:26:25 +0000",
       "minecraft:meadow": "2025-07-26 01:54:03 +0000",
@@ -1545,6 +1549,12 @@
   "idas:enchantingtower": {
     "criteria": {
       "in_enchantingtower": "2025-08-07 03:20:52 +0000"
+    },
+    "done": true
+  },
+  "idas:wizardtower": {
+    "criteria": {
+      "in_wizardtower": "2025-08-07 03:33:10 +0000"
     },
     "done": true
   },
