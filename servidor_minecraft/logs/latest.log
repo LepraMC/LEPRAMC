@@ -1,3 +1,36 @@
 [07Aug2025 00:00:13.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [The Parrots and the Bats]
 [07Aug2025 00:01:51.557] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [07Aug2025 00:01:51.558] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to mdbfd529$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
+[07Aug2025 00:09:18.030] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Aug2025 00:09:18.031] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Aug2025 00:10:26.631] [pool-8-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / idas:bearclaw_inn], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach]] from pos BlockPos{x=85, y=74, z=7099}
+[07Aug2025 00:10:27.662] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=85, y=74, z=7099} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] at location
+[07Aug2025 00:10:27.663] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] but failed at location BlockPos{x=85, y=74, z=7099}
+[07Aug2025 00:10:35.734] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;250,-52,-10],type:"minecraft:block"}}]
+[07Aug2025 00:10:35.734] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;253,-52,-2],type:"minecraft:block"}}]
+[07Aug2025 00:10:45.689] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;250,-55,13],type:"minecraft:block"}}]
+[07Aug2025 00:10:45.689] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;244,-52,13],type:"minecraft:block"}}]
+[07Aug2025 00:10:45.690] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;248,-52,10],type:"minecraft:block"}}]
+[07Aug2025 00:10:45.690] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;255,-52,6],type:"minecraft:block"}}]
+[07Aug2025 00:10:45.863] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;232,-55,15],type:"minecraft:block"}}]
+[07Aug2025 00:10:45.864] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;235,-52,12],type:"minecraft:block"}}]
+[07Aug2025 00:12:41.362] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Timed out
+[07Aug2025 00:12:41.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[07Aug2025 00:12:41.407] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Aug2025 00:12:54.917] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:58486] logged in with entity id 7035 at (153.9801788330078, 22.03589701652527, 7034.0458984375)
+[07Aug2025 00:12:54.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[07Aug2025 00:12:54.955] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[07Aug2025 00:12:54.986] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[07Aug2025 00:12:54.986] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[07Aug2025 00:12:54.987] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[07Aug2025 00:15:31.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has completed the challenge [It Spreads]
+[07Aug2025 00:16:46.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand moved too quickly! 3.6051824058435784,3.220855115045346,9.115832888746809
+[07Aug2025 00:16:46.272] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Disconnected
+[07Aug2025 00:16:46.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[07Aug2025 00:17:19.942] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3a7ec134[id=<null>,name=LordZand,properties={},legacy=false] (/10.147.18.139:58515) lost connection: Disconnected
+[07Aug2025 00:17:46.617] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:58528] logged in with entity id 9132 at (92.8315531391791, -39.34421290847608, 7010.9642672496575)
+[07Aug2025 00:17:46.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[07Aug2025 00:17:46.651] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[07Aug2025 00:17:46.679] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[07Aug2025 00:17:46.679] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[07Aug2025 00:17:46.680] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
