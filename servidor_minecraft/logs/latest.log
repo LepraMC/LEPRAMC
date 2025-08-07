@@ -1,85 +1,877 @@
-[07Aug2025 00:00:13.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [The Parrots and the Bats]
-[07Aug2025 00:01:51.557] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
-[07Aug2025 00:01:51.558] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to mdbfd529$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
-[07Aug2025 00:09:18.030] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[07Aug2025 00:09:18.031] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[07Aug2025 00:10:26.631] [pool-8-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / idas:bearclaw_inn], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach]] from pos BlockPos{x=85, y=74, z=7099}
-[07Aug2025 00:10:27.662] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=85, y=74, z=7099} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] at location
-[07Aug2025 00:10:27.663] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] but failed at location BlockPos{x=85, y=74, z=7099}
-[07Aug2025 00:10:35.734] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;250,-52,-10],type:"minecraft:block"}}]
-[07Aug2025 00:10:35.734] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;253,-52,-2],type:"minecraft:block"}}]
-[07Aug2025 00:10:45.689] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;250,-55,13],type:"minecraft:block"}}]
-[07Aug2025 00:10:45.689] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;244,-52,13],type:"minecraft:block"}}]
-[07Aug2025 00:10:45.690] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;248,-52,10],type:"minecraft:block"}}]
-[07Aug2025 00:10:45.690] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;255,-52,6],type:"minecraft:block"}}]
-[07Aug2025 00:10:45.863] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;232,-55,15],type:"minecraft:block"}}]
-[07Aug2025 00:10:45.864] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;235,-52,12],type:"minecraft:block"}}]
-[07Aug2025 00:12:41.362] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Timed out
-[07Aug2025 00:12:41.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
-[07Aug2025 00:12:41.407] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[07Aug2025 00:12:54.917] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:58486] logged in with entity id 7035 at (153.9801788330078, 22.03589701652527, 7034.0458984375)
-[07Aug2025 00:12:54.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
-[07Aug2025 00:12:54.955] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
-[07Aug2025 00:12:54.986] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
-[07Aug2025 00:12:54.986] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
-[07Aug2025 00:12:54.987] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
-[07Aug2025 00:15:31.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has completed the challenge [It Spreads]
-[07Aug2025 00:16:46.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand moved too quickly! 3.6051824058435784,3.220855115045346,9.115832888746809
-[07Aug2025 00:16:46.272] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Disconnected
-[07Aug2025 00:16:46.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
-[07Aug2025 00:17:19.942] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3a7ec134[id=<null>,name=LordZand,properties={},legacy=false] (/10.147.18.139:58515) lost connection: Disconnected
-[07Aug2025 00:17:46.617] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:58528] logged in with entity id 9132 at (92.8315531391791, -39.34421290847608, 7010.9642672496575)
-[07Aug2025 00:17:46.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
-[07Aug2025 00:17:46.651] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
-[07Aug2025 00:17:46.679] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
-[07Aug2025 00:17:46.679] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
-[07Aug2025 00:17:46.680] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
-[07Aug2025 00:29:27.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Dragon Growth Hormone]
-[07Aug2025 00:34:41.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 0.3827180088237583
-[07Aug2025 00:34:41.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 0.8728668401481627
-[07Aug2025 00:34:41.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 1.363041100317787
-[07Aug2025 00:34:44.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 0.2850876660495487
-[07Aug2025 00:34:44.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 0.6615432384305677
-[07Aug2025 00:34:44.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 1.1539191640179913
-[07Aug2025 00:34:47.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 9.917646634261018,0.0,-2.525295685914898
-[07Aug2025 00:34:47.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 10.672885617498878,0.0,-2.752400474440037
-[07Aug2025 00:34:47.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 11.428095231958423,0.0,-2.9796151122045558
-[07Aug2025 00:34:47.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 12.183289131770152,0.0,-3.2068885281069015
-[07Aug2025 00:34:47.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 12.9384746229872,0.0,-3.434193395019065
-[07Aug2025 00:34:47.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 13.693655614932936,0.0,-3.661515090739158
-[07Aug2025 00:34:47.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 14.448834199408225,0.0,-3.888845791218955
-[07Aug2025 00:34:47.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 15.20401149569409,0.0,-4.116181309966123
-[07Aug2025 00:34:47.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 15.95918810269552,0.0,-4.343519406871565
-[07Aug2025 00:34:47.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 16.714364340874567,0.0,-4.57085888329857
-[07Aug2025 00:34:47.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 17.469540381704064,0.0,-4.79819909787966
-[07Aug2025 00:34:47.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 18.22471631693577,0.0,-5.025539707432472
-[07Aug2025 00:34:47.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 18.979892195664206,0.0,-5.252880528327296
-[07Aug2025 00:34:47.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 19.73506804415888,0.0,-5.480221462306872
-[07Aug2025 00:34:47.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 20.490243876476143,-0.07683200149536162,-5.707562456795131
-[07Aug2025 00:34:47.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 20.92943303843117,-0.2274534586630068,-5.83977763002531
-[07Aug2025 00:34:47.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 21.3562115750143,-0.4489423104376016,-5.968256664680666
-[07Aug2025 00:34:47.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 21.771922315571828,-0.7384922093173572,-6.093403810858035
-[07Aug2025 00:34:47.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 22.17776279534928,-1.0,-6.215579578805773
-[07Aug2025 00:34:47.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 22.887603636271592,-1.0,-6.440285103800306
-[07Aug2025 00:34:47.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 23.603285735423242,-1.0,-6.70762909970199
-[07Aug2025 00:34:47.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 24.285303498968347,-1.0,-7.062814535323923
-[07Aug2025 00:34:47.185] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 15.77782927209546,-1.0,-5.17891847705323
-[07Aug2025 00:34:47.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 16.418186150761585,-1.0,-5.625156723664986
-[07Aug2025 00:34:47.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved too quickly! 17.050772779342424,0.0,-6.088377401505568
-[07Aug2025 00:35:05.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 0.2574438326030304
-[07Aug2025 00:35:05.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 0.9893286577251956
-[07Aug2025 00:35:05.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of LordZand) moved wrongly! 1.7169027836253008
-[07Aug2025 00:36:12.563] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[07Aug2025 00:36:12.564] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[07Aug2025 00:36:52.918] [pool-8-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_red], ResourceKey[minecraft:worldgen/structure / idas:castle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / idas:fishermans_lodge], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest]] from pos BlockPos{x=1339, y=71, z=7099}
-[07Aug2025 00:38:38.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1264, y=67, z=7255} BlockPos{x=1265, y=64, z=7255}
-[07Aug2025 00:45:25.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has reached the goal [New Age Librarian]
-[07Aug2025 00:49:56.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
-[07Aug2025 00:49:56.646] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Flying is not enabled on this server
-[07Aug2025 00:49:56.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
-[07Aug2025 00:50:07.310] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:58589] logged in with entity id 22245 at (223.93430105232403, 101.3352391969829, 8142.169884519374)
-[07Aug2025 00:50:07.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
-[07Aug2025 00:50:07.336] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
-[07Aug2025 00:50:07.358] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
-[07Aug2025 00:50:07.358] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
-[07Aug2025 00:50:07.358] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[07Aug2025 03:13:48.326] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[07Aug2025 03:13:48.330] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[07Aug2025 03:13:50.295] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[07Aug2025 03:13:50.346] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/LEPRAMC/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[07Aug2025 03:13:50.723] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LEPRAMC/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[07Aug2025 03:13:50.725] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LEPRAMC/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[07Aug2025 03:13:50.726] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LEPRAMC/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[07Aug2025 03:13:50.727] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LEPRAMC/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[07Aug2025 03:13:51.059] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[07Aug2025 03:13:51.060] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: geckolib. Using Mod File: /workspaces/LEPRAMC/servidor_minecraft/mods/geckolib-forge-1.20.1-4.4.6.jar
+[07Aug2025 03:13:51.061] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 11 dependencies adding them to mods collection
+[07Aug2025 03:13:53.820] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[07Aug2025 03:13:54.034] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.aizistral.enigmaticlegacy.MixinConnector]
+[07Aug2025 03:13:54.036] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[07Aug2025 03:13:54.136] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.19.0+mc1.20.1: 83 options available, 1 override(s) found
+[07Aug2025 03:13:54.137] [main/WARN] [ModernFix/]: Option 'mixin.bugfix.buffer_builder_leak' overriden (by mods [witherstormmod]) to 'false'
+[07Aug2025 03:13:54.137] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[07Aug2025 03:13:54.166] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[07Aug2025 03:13:54.275] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 120 options available, 0 override(s) found
+[07Aug2025 03:13:54.386] [main/WARN] [mixin/]: Reference map 'immersive_paintings-common-refmap.json' for immersive_paintings.mixin.json could not be read. If this is a development environment you can ignore this message
+[07Aug2025 03:13:54.452] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[07Aug2025 03:13:55.832] [main/WARN] [mixin/]: Error loading class: tfar/davespotioneering/blockentity/AdvancedBrewingStandBlockEntity (java.lang.ClassNotFoundException: tfar.davespotioneering.blockentity.AdvancedBrewingStandBlockEntity)
+[07Aug2025 03:13:55.832] [main/WARN] [mixin/]: @Mixin target tfar.davespotioneering.blockentity.AdvancedBrewingStandBlockEntity was not found itemproductionlib.mixins.json:davespotioneering/AdvancedBrewingStandBlockEntityMixin
+[07Aug2025 03:13:55.839] [main/WARN] [mixin/]: Error loading class: fuzs/visualworkbench/world/inventory/ModCraftingMenu (java.lang.ClassNotFoundException: fuzs.visualworkbench.world.inventory.ModCraftingMenu)
+[07Aug2025 03:13:55.839] [main/WARN] [mixin/]: @Mixin target fuzs.visualworkbench.world.inventory.ModCraftingMenu was not found itemproductionlib.mixins.json:visualworkbench/ModCraftingMenuMixin
+[07Aug2025 03:13:56.056] [main/WARN] [mixin/]: Error loading class: noobanidus/mods/lootr/config/ConfigManager (java.lang.ClassNotFoundException: noobanidus.mods.lootr.config.ConfigManager)
+[07Aug2025 03:13:56.572] [main/WARN] [mixin/]: Error loading class: net/darkhax/darkutils/features/charms/CharmEffects (java.lang.ClassNotFoundException: net.darkhax.darkutils.features.charms.CharmEffects)
+[07Aug2025 03:13:56.574] [main/WARN] [mixin/]: Error loading class: com/brandon3055/csg/ModEventHandler (java.lang.ClassNotFoundException: com.brandon3055.csg.ModEventHandler)
+[07Aug2025 03:13:56.587] [main/WARN] [mixin/]: Error loading class: vazkii/quark/content/tweaks/module/AutomaticRecipeUnlockModule (java.lang.ClassNotFoundException: vazkii.quark.content.tweaks.module.AutomaticRecipeUnlockModule)
+[07Aug2025 03:13:56.851] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[07Aug2025 03:13:57.426] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (11.72 s after launch)
+[07Aug2025 03:13:57.628] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[07Aug2025 03:13:57.628] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[07Aug2025 03:13:58.403] [main/INFO] [mixin/]: Mixing MixinLivingEntity from enigmaticlegacy.mixins.json into net.minecraft.world.entity.LivingEntity
+[07Aug2025 03:13:58.739] [main/INFO] [mixin/]: Mixing MixinPlayer from enigmaticlegacy.mixins.json into net.minecraft.world.entity.player.Player
+[07Aug2025 03:13:58.944] [main/INFO] [mixin/]: Mixing MixinMobEffect from enigmaticlegacy.mixins.json into net.minecraft.world.effect.MobEffect
+[07Aug2025 03:13:59.981] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2550 milliseconds
+[07Aug2025 03:14:00.170] [main/WARN] [mixin/]: Method overwrite conflict for setBlockState in the_bumblezone-common.mixins.json:blocks.FallingBlockEntityAccessor, previously written by com.github.alexmodguy.alexscaves.mixin.FallingBlockEntityMixin. Skipping method.
+[07Aug2025 03:14:00.535] [main/INFO] [mixin/]: Mixing MixinItemStack from enigmaticlegacy.mixins.json into net.minecraft.world.item.ItemStack
+[07Aug2025 03:14:00.576] [main/INFO] [mixin/]: Mixing AccessorAbstractArrowEntity from enigmaticlegacy.mixins.json into net.minecraft.world.entity.projectile.AbstractArrow
+[07Aug2025 03:14:00.684] [main/INFO] [mixin/]: Mixing MixinEnchantmentContainer from enigmaticlegacy.mixins.json into net.minecraft.world.inventory.EnchantmentMenu
+[07Aug2025 03:14:00.685] [main/INFO] [mixin/]: Renaming synthetic method lambda$onEnchantedItem$0(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/inventory/EnchantmentMenu;ILnet/minecraft/world/entity/player/Player;ILnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;)V to md8879f5$lambda$onEnchantedItem$0$0 in enigmaticlegacy.mixins.json:MixinEnchantmentContainer
+[07Aug2025 03:14:00.813] [main/WARN] [mixin/]: @Final field f_31427_:[I in mixins.epicfight.json:MixinWitherBoss should be final
+[07Aug2025 03:14:00.813] [main/WARN] [mixin/]: @Final field f_31428_:[I in mixins.epicfight.json:MixinWitherBoss should be final
+[07Aug2025 03:14:01.538] [main/INFO] [mixin/]: Mixing MixinEnderEyeItem from enigmaticlegacy.mixins.json into net.minecraft.world.item.EnderEyeItem
+[07Aug2025 03:14:01.591] [main/INFO] [mixin/]: Mixing MixinCrossbowItem from enigmaticlegacy.mixins.json into net.minecraft.world.item.CrossbowItem
+[07Aug2025 03:14:01.951] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on witherstormmod.mixins.json:MixinSwellGoal::handler$bgi000$canUseInvoke exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[07Aug2025 03:14:02.184] [main/INFO] [mixin/]: Mixing MixinEnderDragon from enigmaticlegacy.mixins.json into net.minecraft.world.entity.boss.enderdragon.EnderDragon
+[07Aug2025 03:14:02.184] [main/INFO] [mixin/]: Renaming synthetic method lambda$onTickDeath$0(Lnet/minecraft/server/level/ServerPlayer;)V to md8879f5$lambda$onTickDeath$0$0 in enigmaticlegacy.mixins.json:MixinEnderDragon
+[07Aug2025 03:14:02.385] [main/INFO] [mixin/]: Mixing MixinShulker from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.Shulker
+[07Aug2025 03:14:02.535] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[07Aug2025 03:14:02.536] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[07Aug2025 03:14:02.536] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[07Aug2025 03:14:02.536] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[07Aug2025 03:14:02.693] [main/INFO] [mixin/]: Mixing MixinVillagerEntity from enigmaticlegacy.mixins.json into net.minecraft.world.entity.npc.Villager
+[07Aug2025 03:14:02.694] [main/INFO] [mixin/]: Mixing MixinVillager from enigmaticlegacy.mixins.json into net.minecraft.world.entity.npc.Villager
+[07Aug2025 03:14:02.880] [main/INFO] [mixin/]: Mixing MixinBindingCurseEnchantment from enigmaticlegacy.mixins.json into net.minecraft.world.item.enchantment.BindingCurseEnchantment
+[07Aug2025 03:14:03.728] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[07Aug2025 03:14:04.120] [modloading-worker-0/INFO] [Easy NPC/]: Initializing Easy NPC (Forge) ...
+[07Aug2025 03:14:04.122] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Debug Manager ...
+[07Aug2025 03:14:04.126] [modloading-worker-0/WARN] [Easy NPC/]: [Debug Manager] Detected debug log level for Easy NPC with ALL!
+[07Aug2025 03:14:04.127] [modloading-worker-0/WARN] [Easy NPC/]: [Debug Manager] Adjusting log level for Easy NPC from ALL to INFO, for performance reasons!
+[07Aug2025 03:14:04.128] [modloading-worker-0/INFO] [Easy NPC/]: [Debug Manager] Add new logger config for Easy NPC with level INFO ...
+[07Aug2025 03:14:04.129] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Constants ...
+[07Aug2025 03:14:04.130] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Configuration ...
+[07Aug2025 03:14:04.132] [modloading-worker-0/INFO] [Easy NPC/]: [Config] Updated configuration path to /workspaces/LEPRAMC/servidor_minecraft/config/easy_npc
+[07Aug2025 03:14:04.132] [modloading-worker-0/INFO] [Easy NPC/]: [Config] Registering common configuration ...
+[07Aug2025 03:14:04.138] [modloading-worker-0/INFO] [Easy NPC/]: [Config] Render Entity Type Support Configuration
+
+ Please note that this configuration file only includes confirmed entity types.
+ If an entity type is not listed here, it doesn't mean it's automatically supported or unsupported!
+ is up to date: {minecraft:giant=true, dannys_expansion:mundane_slime=false, botania:pool_minecart=false, botania:ender_air=false, minecraft:end_crystal=false, minecraft:experience_bottle=false, minecraft:glow_squid=true, simple_mobs:rumble=false, minecraft:trader_llama=true, orcz:decaystrikecustom=false, simple_mobs:staff_usage=false, minecraft:horse=true, the_bumblezone:purple_spike_entity=false, minecraft:llama=true, minecraft:husk=true, minecraft:cave_spider=true, minecraft:enderman=true, minecraft:dolphin=true, frostiful:freezing_wind=false, minecraft:shulker_bullet=false, simple_mobs:projecttest=false, minecraft:donkey=true, minecraft:area_effect_cloud=false, minecraft:ghast=false, frostiful:packed_snowball=false, twigs:pebble=false, handcrafted:fancy_painting=false, moretotems:summoned_zombie=false, minecraft:piglin_brute=true, minecraft:creeper=true, minecraft:glow_item_frame=false, minecraft:bee=true, botania:mana_storm=false, minecraft:illusioner=true, minecraft:player=false, minecraft:wither_skull=false, create:stationary_contraption=false, minecraft:mooshroom=true, smallships:galley=false, minecraft:eye_of_ender=false, minecraft:villager=true, ad_astra:tier_1_rocket=false, botania:magic_landmine=false, minecraft:stray=true, smallships:cog=false, minecraft:falling_block=false, minecraft:drowned=true, minecraft:axolotl=true, botania:flame_ring=false, botania:doppleganger=false, botania:ender_air_bottle=false, minecraft:tnt=false, ae2:tiny_tnt_primed=false, botania:magic_missile=false, create:crafting_blueprint=false, create:contraption=false, minecraft:strider=true, smallships:brigg=false, minecraft:guardian=true, minecraft:parrot=true, minecraft:arrow=false, lootr:lootr_minecart=false, the_bumblezone:pollen_puff=false, minecraft:chest_minecart=false, minecraft:wither=true, minecraft:ender_pearl=false, create:super_glue=false, handcrafted:seat=false, minecraft:wandering_trader=true, simple_mobs:dragon_smoke=false, minecraft:wither_skeleton=true, botania:thorn_chakram=false, minecraft:iron_golem=true, botania:pixie=false, dummmmmmy:target_dummy=false, minecraft:elder_guardian=true, graveyard:skull=false, minecraft:mule=true, the_bumblezone:bee_stinger=false, the_bumblezone:thrown_stinger_spear=false, minecraft:armor_stand=false, minecraft:vindicator=true, aquamirae:pillagers_patrol=false, botania:mana_burst=false, minecraft:evoker=true, minecraft:slime=false, botania:babylon_weapon=false, minecraft:leash_knot=false, minecraft:pufferfish=true, terraform:boat=false, swampier_swamps:swamp_gas=false, ad_astra:tier_3_rocket=false, minecraft:experience_orb=false, minecraft:fox=true, botania:thrown_item=false, the_bumblezone:cosmic_crystal_entity=false, graveyard:ghouling=false, botania:player_mover=false, minecraft:silverfish=true, minecraft:endermite=true, minecraft:chicken=true, minecraft:firework_rocket=false, minecraft:zombie=true, minecraft:spawner_minecart=false, the_bumblezone:sentry_watcher=false, botania:spark=false, botania:falling_star=false, minecraft:hoglin=true, minecraft:boat=false, minecraft:trident=false, friendsandfoes:player_illusion=false, minecraft:polar_bear=true, minecraft:phantom=false, ad_astra:tier_4_rocket=false, minecraft:zombified_piglin=true, minecraft:witch=true, ad_astra:tier_2_rocket=false, minecraft:pig=true, minecraft:turtle=true, minecraft:sheep=true, moretotems:summoned_bee=false, minecraft:ender_dragon=false, minecraft:goat=true, minecraft:item_frame=false, create:carriage_contraption=false, minecraft:vex=true, minecraft:minecart=false, minecraft:item=false, minecraft:cod=true, minecraft:dragon_fireball=false, minecraft:skeleton=true, ad_astra:space_painting=false, create:seat=false, simple_mobs:staff_interact=false, minecraft:ravager=true, minecraft:squid=true, minecraft:skeleton_horse=true, minecraft:cow=true, minecraft:potion=false, ad_astra:lander=false, minecraft:salmon=true, minecraft:snow_golem=true, minecraft:shulker=true, minecraft:hopper_minecart=false, friendsandfoes:ice_chunk=false, the_bumblezone:honey_crystal_shard=false, simple_mobs:lightning_spear=false, minecraft:rabbit=true, minecraft:painting=false, minecraft:pillager=true, the_bumblezone:electric_ring_entity=false, minecraft:zoglin=true, minecraft:lightning_bolt=false, frostiful:frost_spell=false, minecraft:fishing_bobber=false, minecraft:tnt_minecart=false, simple_mobs:ground_spike=false, minecraft:command_block_minecart=false, minecraft:bat=false, the_bumblezone:dirt_pellet=false, minecraft:fireball=false, minecraft:furnace_minecart=false, minecraft:llama_spit=false, minecraft:evoker_fangs=false, minecraft:piglin=true, minecraft:snowball=false, minecraft:spectral_arrow=false, orcz:wither_strikeringcustom=false, simple_mobs:elemental_chain=false, minecraft:blaze=true, ad_astra:ice_spit=false, techreborn:nuke=false, minecraft:egg=false, minecraft:zombie_horse=true, minecraft:magma_cube=false, frostiful:thrown_icicle=false, minecraft:small_fireball=false, minecraft:spider=true, ad_astra:tier_1_rover=false, minecraft:marker=false, majruszsdifficulty:cursed_armor=false, farmersdelight:rotten_tomato=false, minecraft:text_display=false, minecraft:cat=true, armourers_workshop:mannequin=false, create:gantry_contraption=false, minecraft:tropical_fish=true, botania:corporea_spark=false, minecraft:ocelot=true, minecraft:wolf=true, minecraft:panda=true, minecraft:zombie_villager=true}
+[07Aug2025 03:14:04.145] [modloading-worker-0/INFO] [Easy NPC/]: [Config] Registering server configuration ...
+[07Aug2025 03:14:04.147] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Entity Data Serializers ...
+[07Aug2025 03:14:04.176] [modloading-worker-0/INFO] [mixin/]: Mixing MixinForgeHooks from enigmaticlegacy.mixins.json into net.minecraftforge.common.ForgeHooks
+[07Aug2025 03:14:04.231] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer ActionEventSet with id 28
+[07Aug2025 03:14:04.232] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer CustomAttributes with id 29
+[07Aug2025 03:14:04.232] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer DialogDataSet with id 30
+[07Aug2025 03:14:04.233] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer DisplayAttributeSet with id 31
+[07Aug2025 03:14:04.233] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer EntityAttributes with id 32
+[07Aug2025 03:14:04.233] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer MerchantOffers with id 33
+[07Aug2025 03:14:04.234] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer ModelPose with id 34
+[07Aug2025 03:14:04.234] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer ObjectiveDataSet with id 35
+[07Aug2025 03:14:04.235] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer CustomPosition with id 36
+[07Aug2025 03:14:04.235] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer Profession with id 37
+[07Aug2025 03:14:04.235] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer RenderDataSet with id 38
+[07Aug2025 03:14:04.236] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer CustomRotation with id 39
+[07Aug2025 03:14:04.236] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer CustomScale with id 40
+[07Aug2025 03:14:04.238] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer SkinDataEntry with id 41
+[07Aug2025 03:14:04.238] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer SoundDataSet with id 42
+[07Aug2025 03:14:04.242] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer HashSet:UUID with id 43
+[07Aug2025 03:14:04.242] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer HashSet:String with id 44
+[07Aug2025 03:14:04.242] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer TradingDataSet with id 45
+[07Aug2025 03:14:04.243] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer UUID with id 46
+[07Aug2025 03:14:04.243] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Compatibility Handler ...
+[07Aug2025 03:14:04.254] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Compat Handler ...
+[07Aug2025 03:14:04.258] [modloading-worker-0/INFO] [Easy NPC/]: [Compat Manager] Epic Fight mod with id 'epicfight' loaded: true
+[07Aug2025 03:14:04.261] [modloading-worker-0/INFO] [Easy NPC/]: [Compat Manager] Cobblemon mod with id 'cobblemon' loaded: false
+[07Aug2025 03:14:04.262] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Command Argument Types ...
+[07Aug2025 03:14:04.263] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Entity Types ...
+[07Aug2025 03:14:04.273] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Blocks ...
+[07Aug2025 03:14:04.277] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Blocks Entity Types ...
+[07Aug2025 03:14:04.279] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Items ...
+[07Aug2025 03:14:04.290] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Menu Types ...
+[07Aug2025 03:14:04.305] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Menu Handler ...
+[07Aug2025 03:14:04.311] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Network Handler ...
+[07Aug2025 03:14:04.313] [modloading-worker-0/INFO] [Easy NPC/]: Registering server network handler for Server -> Client messages.
+[07Aug2025 03:14:04.316] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Client Network Message Handler ...
+[07Aug2025 03:14:04.377] [modloading-worker-0/INFO] [mixin/]: Mixing MixinPlayerList from enigmaticlegacy.mixins.json into net.minecraft.server.players.PlayerList
+[07Aug2025 03:14:04.678] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[07Aug2025 03:14:04.679] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[07Aug2025 03:14:04.682] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[07Aug2025 03:14:04.683] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[07Aug2025 03:14:04.686] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[07Aug2025 03:14:04.687] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[07Aug2025 03:14:04.688] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[07Aug2025 03:14:04.691] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[07Aug2025 03:14:04.960] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[07Aug2025 03:14:04.960] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[07Aug2025 03:14:05.514] [modloading-worker-0/INFO] [mixin/]: Mixing MixinEnterBlockTrigger from enigmaticlegacy.mixins.json into net.minecraft.advancements.critereon.EnterBlockTrigger
+[07Aug2025 03:14:05.519] [modloading-worker-0/INFO] [mixin/]: Mixing MixinInventoryChangeTrigger from enigmaticlegacy.mixins.json into net.minecraft.advancements.critereon.InventoryChangeTrigger
+[07Aug2025 03:14:05.538] [modloading-worker-0/INFO] [mixin/]: Mixing MixinSummonedEntityTrigger from enigmaticlegacy.mixins.json into net.minecraft.advancements.critereon.SummonedEntityTrigger
+[07Aug2025 03:14:06.019] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.87.
+[07Aug2025 03:14:06.024] [modloading-worker-0/INFO] [mixin/]: Mixing MixinEnchantmentHelper from enigmaticlegacy.mixins.json into net.minecraft.world.item.enchantment.EnchantmentHelper
+[07Aug2025 03:14:07.018] [modloading-worker-0/INFO] [quark-zeta/]: Discovered 164 modules to load.
+[07Aug2025 03:14:07.018] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Abacus...
+[07Aug2025 03:14:07.027] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Adjustable Chat...
+[07Aug2025 03:14:07.027] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ambient Discs...
+[07Aug2025 03:14:07.028] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Tomes...
+[07Aug2025 03:14:07.039] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Wood...
+[07Aug2025 03:14:07.057] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Armed Armor Stands...
+[07Aug2025 03:14:07.059] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Auto Walk Keybind...
+[07Aug2025 03:14:07.059] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Recipe Unlock...
+[07Aug2025 03:14:07.060] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Tool Restock...
+[07Aug2025 03:14:07.067] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Azalea Wood...
+[07Aug2025 03:14:07.068] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Back Button Keybind...
+[07Aug2025 03:14:07.070] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Backpack...
+[07Aug2025 03:14:07.090] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Beacon Redirection...
+[07Aug2025 03:14:07.091] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Better Elytra Rocket...
+[07Aug2025 03:14:07.091] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Big Stone Clusters...
+[07Aug2025 03:14:07.107] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Blossom Trees...
+[07Aug2025 03:14:07.108] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Bottled Cloud...
+[07Aug2025 03:14:07.111] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Buckets Show Inhabitants...
+[07Aug2025 03:14:07.111] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Camera...
+[07Aug2025 03:14:07.112] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Campfires Boost Elytra...
+[07Aug2025 03:14:07.113] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Celebratory Lamps...
+[07Aug2025 03:14:07.113] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chains Connect Blocks...
+[07Aug2025 03:14:07.113] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chest Searching...
+[07Aug2025 03:14:07.114] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chorus Vegetation...
+[07Aug2025 03:14:07.122] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chute...
+[07Aug2025 03:14:07.126] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Climate Control Remover...
+[07Aug2025 03:14:07.126] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Color Runes...
+[07Aug2025 03:14:07.132] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compasses Work Everywhere...
+[07Aug2025 03:14:07.134] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compressed Blocks...
+[07Aug2025 03:14:07.136] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Coral On Cactus...
+[07Aug2025 03:14:07.137] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Corundum...
+[07Aug2025 03:14:07.173] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crabs...
+[07Aug2025 03:14:07.176] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[07Aug2025 03:14:07.176] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crafter...
+[07Aug2025 03:14:07.182] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[07Aug2025 03:14:07.182] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crate...
+[07Aug2025 03:14:07.184] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Diamond Repair...
+[07Aug2025 03:14:07.184] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dispensers Place Blocks...
+[07Aug2025 03:14:07.188] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Double Door Opening...
+[07Aug2025 03:14:07.188] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dragon Scales...
+[07Aug2025 03:14:07.188] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Duskbound Blocks...
+[07Aug2025 03:14:07.189] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dyeable Item Frames...
+[07Aug2025 03:14:07.191] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Easy Transfering...
+[07Aug2025 03:14:07.191] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Elytra Indicator...
+[07Aug2025 03:14:07.192] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Emotes...
+[07Aug2025 03:14:07.193] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantment Predicates...
+[07Aug2025 03:14:07.193] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantments Begone...
+[07Aug2025 03:14:07.195] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ender Watcher...
+[07Aug2025 03:14:07.196] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Endermosh Music Disc...
+[07Aug2025 03:14:07.197] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enhanced Ladders...
+[07Aug2025 03:14:07.205] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Expanded Item Interactions...
+[07Aug2025 03:14:07.210] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[07Aug2025 03:14:07.210] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Fairy Rings...
+[07Aug2025 03:14:07.211] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Fallen Logs...
+[07Aug2025 03:14:07.213] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Feeding Trough...
+[07Aug2025 03:14:07.215] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[07Aug2025 03:14:07.215] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Forgotten...
+[07Aug2025 03:14:07.262] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Foxhound...
+[07Aug2025 03:14:07.267] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Framed Glass...
+[07Aug2025 03:14:07.267] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Game Nerfs...
+[07Aug2025 03:14:07.269] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Item Frame...
+[07Aug2025 03:14:07.272] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[07Aug2025 03:14:07.276] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Shard...
+[07Aug2025 03:14:07.278] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glimmering Weald...
+[07Aug2025 03:14:07.307] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Bars...
+[07Aug2025 03:14:07.309] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Tools Have Fortune...
+[07Aug2025 03:14:07.310] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grab Chickens...
+[07Aug2025 03:14:07.314] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grate...
+[07Aug2025 03:14:07.319] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gravisand...
+[07Aug2025 03:14:07.322] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Greener Grass...
+[07Aug2025 03:14:07.330] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hedges...
+[07Aug2025 03:14:07.332] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hoe Harvesting...
+[07Aug2025 03:14:07.337] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hollow Logs...
+[07Aug2025 03:14:07.337] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Horses Swim...
+[07Aug2025 03:14:07.338] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hotbar Changer...
+[07Aug2025 03:14:07.338] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Sponges...
+[07Aug2025 03:14:07.340] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Tooltips...
+[07Aug2025 03:14:07.341] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Industrial Palette...
+[07Aug2025 03:14:07.342] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Inventory Sorting...
+[07Aug2025 03:14:07.342] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Iron Rod...
+[07Aug2025 03:14:07.357] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Item Sharing...
+[07Aug2025 03:14:07.359] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Japanese Palette...
+[07Aug2025 03:14:07.364] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Leaf Carpet...
+[07Aug2025 03:14:07.367] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Lock Rotation...
+[07Aug2025 03:14:07.368] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Long Range Pick Block...
+[07Aug2025 03:14:07.369] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Magma Keeps Concrete Powder...
+[07Aug2025 03:14:07.369] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Magnets...
+[07Aug2025 03:14:07.375] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[07Aug2025 03:14:07.376] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Map Washing...
+[07Aug2025 03:14:07.379] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Matrix Enchanting...
+[07Aug2025 03:14:07.394] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[07Aug2025 03:14:07.395] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Metal Buttons...
+[07Aug2025 03:14:07.397] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Microcrafting Helper...
+[07Aug2025 03:14:07.398] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Midori...
+[07Aug2025 03:14:07.398] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Monster Box...
+[07Aug2025 03:14:07.400] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Banner Layers...
+[07Aug2025 03:14:07.404] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Brick Types...
+[07Aug2025 03:14:07.406] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Mud Blocks...
+[07Aug2025 03:14:07.409] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Note Block Sounds...
+[07Aug2025 03:14:07.410] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Potted Plants...
+[07Aug2025 03:14:07.410] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[07Aug2025 03:14:07.411] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Villagers...
+[07Aug2025 03:14:07.412] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Narrator Readout...
+[07Aug2025 03:14:07.416] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Brick Fence Gate...
+[07Aug2025 03:14:07.418] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Obsidian Spikes...
+[07Aug2025 03:14:07.419] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module New Stone Types...
+[07Aug2025 03:14:07.425] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No Durability On Cosmetics...
+[07Aug2025 03:14:07.431] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No More Lava Pockets...
+[07Aug2025 03:14:07.431] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Obsidian Plate...
+[07Aug2025 03:14:07.431] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Overlay Shader...
+[07Aug2025 03:14:07.433] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Parrot Eggs...
+[07Aug2025 03:14:07.433] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[07Aug2025 03:14:07.433] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pat The Dogs...
+[07Aug2025 03:14:07.437] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pathfinder Maps...
+[07Aug2025 03:14:07.438] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Permafrost...
+[07Aug2025 03:14:07.440] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Petals On Water...
+[07Aug2025 03:14:07.442] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pickarang...
+[07Aug2025 03:14:07.445] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pig Litters...
+[07Aug2025 03:14:07.448] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pipes...
+[07Aug2025 03:14:07.453] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pistons Move Tile Entities...
+[07Aug2025 03:14:07.454] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Poison Potato Usage...
+[07Aug2025 03:14:07.455] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Quick Armor Swapping...
+[07Aug2025 03:14:07.456] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rainbow Lamps...
+[07Aug2025 03:14:07.457] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Raw Metal Bricks...
+[07Aug2025 03:14:07.457] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Reacharound Placing...
+[07Aug2025 03:14:07.459] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Redstone Randomizer...
+[07Aug2025 03:14:07.462] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Renewable Spore Blossoms...
+[07Aug2025 03:14:07.463] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Replace Scaffolding...
+[07Aug2025 03:14:07.465] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rope...
+[07Aug2025 03:14:07.469] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Safer Creatures...
+[07Aug2025 03:14:07.469] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Seed Pouch...
+[07Aug2025 03:14:07.476] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shear Vines...
+[07Aug2025 03:14:07.482] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shiba...
+[07Aug2025 03:14:07.483] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[07Aug2025 03:14:07.483] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shingles...
+[07Aug2025 03:14:07.483] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shulker Packing...
+[07Aug2025 03:14:07.484] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Simple Harvest...
+[07Aug2025 03:14:07.485] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Skull Pikes...
+[07Aug2025 03:14:07.487] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[07Aug2025 03:14:07.488] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slabs To Blocks...
+[07Aug2025 03:14:07.488] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slime In A Bucket...
+[07Aug2025 03:14:07.490] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slimes To Magma Cubes...
+[07Aug2025 03:14:07.490] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Snow Golem Player Heads...
+[07Aug2025 03:14:07.491] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Candles...
+[07Aug2025 03:14:07.491] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Sandstone...
+[07Aug2025 03:14:07.491] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spawner Replacer...
+[07Aug2025 03:14:07.492] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spiral Spires...
+[07Aug2025 03:14:07.494] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stonelings...
+[07Aug2025 03:14:07.495] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[07Aug2025 03:14:07.495] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stools...
+[07Aug2025 03:14:07.496] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[07Aug2025 03:14:07.496] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Sturdy Stone...
+[07Aug2025 03:14:07.497] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Thatch...
+[07Aug2025 03:14:07.498] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Tiny Potato...
+[07Aug2025 03:14:07.498] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Torch Arrow...
+[07Aug2025 03:14:07.501] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Toretoise...
+[07Aug2025 03:14:07.501] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[07Aug2025 03:14:07.502] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Totem Of Holding...
+[07Aug2025 03:14:07.504] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Trowel...
+[07Aug2025 03:14:07.505] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Usage Ticker...
+[07Aug2025 03:14:07.505] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Uses For Curses...
+[07Aug2025 03:14:07.506] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Utility Recipes...
+[07Aug2025 03:14:07.507] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Animal Textures...
+[07Aug2025 03:14:07.507] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Bookshelves...
+[07Aug2025 03:14:07.508] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Chests...
+[07Aug2025 03:14:07.524] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Furnaces...
+[07Aug2025 03:14:07.532] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Ladders...
+[07Aug2025 03:14:07.533] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Selector...
+[07Aug2025 03:14:07.535] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Planks...
+[07Aug2025 03:14:07.536] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Slabs...
+[07Aug2025 03:14:07.553] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vexes Die With Their Masters...
+[07Aug2025 03:14:07.556] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villager Rerolling Rework...
+[07Aug2025 03:14:07.557] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villagers Follow Emeralds...
+[07Aug2025 03:14:07.558] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wooden Posts...
+[07Aug2025 03:14:07.560] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wool Shuts Up Minecarts...
+[07Aug2025 03:14:07.562] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wraith...
+[07Aug2025 03:14:07.564] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[07Aug2025 03:14:07.566] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Zombie Villagers On Normal...
+[07Aug2025 03:14:07.567] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Stone Variants...
+[07Aug2025 03:14:07.568] [modloading-worker-0/INFO] [quark-zeta/]: Constructed 164 modules.
+[07Aug2025 03:14:07.673] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/LEPRAMC/servidor_minecraft/config/quark-common.toml is not correct. Correcting
+[07Aug2025 03:14:07.720] [modloading-worker-0/INFO] [Enigmatic Legacy/INFO]: Constructing mod instance...
+[07Aug2025 03:14:08.035] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[07Aug2025 03:14:08.108] [modloading-worker-0/INFO] [Enigmatic Legacy/INFO]: Mod instance constructed successfully.
+[07Aug2025 03:14:08.307] [modloading-worker-0/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch
+[07Aug2025 03:14:11.367] [main/INFO] [Moonlight/]: Initialized block sets in 25ms
+[07Aug2025 03:14:12.845] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[07Aug2025 03:14:12.846] [main/INFO] [ModernFix/]: Instantiating Mojang DFU
+[07Aug2025 03:14:13.908] [main/INFO] [Easy NPC/]: - Registering Synched Attack Data for EasyNPCBaseEntity.
+[07Aug2025 03:14:13.908] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttackData
+[07Aug2025 03:14:13.908] [main/INFO] [Easy NPC/]: - Registering Synched Attribute Data for EasyNPCBaseEntity.
+[07Aug2025 03:14:13.909] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[07Aug2025 03:14:13.909] [main/INFO] [Easy NPC/]: - Registering Synched Custom Attribute Data for EasyNPCBaseEntity.
+[07Aug2025 03:14:13.909] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.CustomAttributeData
+[07Aug2025 03:14:13.909] [main/INFO] [Easy NPC/]: - Registering Synched Display Attribute Data for EasyNPCBaseEntity.
+[07Aug2025 03:14:13.909] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.DisplayAttributeData
+[07Aug2025 03:14:13.909] [main/INFO] [Easy NPC/]: - Registering Synched Navigation Data for EasyNPCBaseEntity.
+[07Aug2025 03:14:13.909] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.NavigationData
+[07Aug2025 03:14:13.910] [main/INFO] [Easy NPC/]: - Registering Synched Owner Data for EasyNPCBaseEntity.
+[07Aug2025 03:14:13.910] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.OwnerData
+[07Aug2025 03:14:13.910] [main/INFO] [Easy NPC/]: - Registering Synched Profession Data for EasyNPCBaseEntity.
+[07Aug2025 03:14:13.910] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ProfessionData
+[07Aug2025 03:14:13.910] [main/INFO] [Easy NPC/]: - Registering Synched Render Data for EasyNPCBaseEntity.
+[07Aug2025 03:14:13.910] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.RenderData
+[07Aug2025 03:14:13.911] [main/INFO] [Easy NPC/]: - Registering Synched Skin Data for EasyNPCBaseEntity.
+[07Aug2025 03:14:13.911] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.SkinData
+[07Aug2025 03:14:13.911] [main/INFO] [Easy NPC/]: - Registering Synched Sound Data for EasyNPCBaseEntity.
+[07Aug2025 03:14:13.911] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.SoundData
+[07Aug2025 03:14:13.911] [main/INFO] [Easy NPC/]: - Registering Synched Trading Data for EasyNPCBaseEntity.
+[07Aug2025 03:14:13.911] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[07Aug2025 03:14:13.912] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[07Aug2025 03:14:13.912] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[07Aug2025 03:14:13.912] [main/INFO] [Easy NPC/]: - Registering Synched Variant Data for EasyNPCBaseEntity.
+[07Aug2025 03:14:13.912] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.VariantData
+[07Aug2025 03:14:13.912] [main/INFO] [Easy NPC/]: - Registering Synched Model Data for EasyNPCBaseModelEntity.
+[07Aug2025 03:14:13.913] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[07Aug2025 03:14:13.913] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[07Aug2025 03:14:13.913] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[07Aug2025 03:14:13.913] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[07Aug2025 03:14:13.913] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[07Aug2025 03:14:13.913] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[07Aug2025 03:14:13.913] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[07Aug2025 03:14:13.914] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[07Aug2025 03:14:13.914] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[07Aug2025 03:14:13.914] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[07Aug2025 03:14:13.914] [main/INFO] [Easy NPC/]: - Registering Synched Model Position Data for EasyNPCBaseModelEntity.
+[07Aug2025 03:14:13.914] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[07Aug2025 03:14:13.914] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[07Aug2025 03:14:13.915] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[07Aug2025 03:14:13.915] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[07Aug2025 03:14:13.915] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[07Aug2025 03:14:13.915] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[07Aug2025 03:14:13.915] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[07Aug2025 03:14:13.915] [main/INFO] [Easy NPC/]: - Registering Synched Model Rotation Data for EasyNPCBaseModelEntity.
+[07Aug2025 03:14:13.916] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[07Aug2025 03:14:13.916] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[07Aug2025 03:14:13.916] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[07Aug2025 03:14:13.916] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[07Aug2025 03:14:13.916] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[07Aug2025 03:14:13.916] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[07Aug2025 03:14:13.917] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[07Aug2025 03:14:13.917] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[07Aug2025 03:14:13.917] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[07Aug2025 03:14:13.917] [main/INFO] [Easy NPC/]: - Registering Synched Model Visibility Data for EasyNPCBaseModelEntity.
+[07Aug2025 03:14:13.917] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[07Aug2025 03:14:13.917] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[07Aug2025 03:14:13.918] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[07Aug2025 03:14:13.918] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[07Aug2025 03:14:13.918] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[07Aug2025 03:14:13.918] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[07Aug2025 03:14:13.918] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[07Aug2025 03:14:13.918] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[07Aug2025 03:14:13.919] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[07Aug2025 03:14:13.919] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[07Aug2025 03:14:13.919] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[07Aug2025 03:14:13.919] [main/INFO] [Easy NPC/]: - Registering Synched Scale Data for EasyNPCBaseModelEntity.
+[07Aug2025 03:14:13.919] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ScaleData
+[07Aug2025 03:14:13.919] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ScaleData
+[07Aug2025 03:14:13.920] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ScaleData
+[07Aug2025 03:14:14.030] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[07Aug2025 03:14:14.030] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[07Aug2025 03:14:14.030] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[07Aug2025 03:14:14.031] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[07Aug2025 03:14:14.031] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[07Aug2025 03:14:14.031] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[07Aug2025 03:14:14.031] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[07Aug2025 03:14:14.031] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[07Aug2025 03:14:14.031] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[07Aug2025 03:14:14.409] [main/INFO] [zeta/]: 'zeta' is enabling Zeta's piston structure resolver.
+[07Aug2025 03:14:14.720] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Starting version check at https://updates.blamejared.com/get?n=attributefix&gv=1.20.1
+[07Aug2025 03:14:14.820] [modloading-worker-0/INFO] [Enigmatic Legacy/INFO]: Initializing common setup phase...
+[07Aug2025 03:14:14.821] [modloading-worker-0/INFO] [Enigmatic Legacy/INFO]: Registering packets...
+[07Aug2025 03:14:14.856] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[07Aug2025 03:14:14.862] [modloading-worker-0/INFO] [Enigmatic Legacy/INFO]: Registering triggers...
+[07Aug2025 03:14:14.871] [modloading-worker-0/INFO] [Enigmatic Legacy/INFO]: Registering stats...
+[07Aug2025 03:14:14.872] [modloading-worker-0/INFO] [Enigmatic Legacy/INFO]: Common setup phase finished successfully.
+[07Aug2025 03:14:14.908] [main/INFO] [Easy NPC/]: 🗣 Register Easy NPC Network Handler for net.minecraftforge.network.simple.SimpleChannel@17318bbf with version 23
+[07Aug2025 03:14:14.910] [main/INFO] [Easy NPC/]: 🗣 Register Easy NPC Network Handler ...
+[07Aug2025 03:14:14.910] [main/INFO] [Easy NPC/]: Registering network messages for BOTH side ...
+[07Aug2025 03:14:14.911] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering client network message ExportClientPresetMessage with easy_npc:preset_export_client (0)
+[07Aug2025 03:14:14.912] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering client network message OpenMenuCallbackMessage with easy_npc:open_menu_callback_message (1)
+[07Aug2025 03:14:14.913] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering client network message SyncDataMessage with easy_npc:sync_data (2)
+[07Aug2025 03:14:14.913] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message AddOrUpdateObjectiveMessage with easy_npc:add_objective (3)
+[07Aug2025 03:14:14.914] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeActionEventMessage with easy_npc:change_action_event (4)
+[07Aug2025 03:14:14.916] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeAdvancedTradingMessage with easy_npc:change_advanced_trading (5)
+[07Aug2025 03:14:14.917] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeBasicTradingMessage with easy_npc:change_basic_trading (6)
+[07Aug2025 03:14:14.918] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeCombatAttributeMessage with easy_npc:change_combat_attribute (7)
+[07Aug2025 03:14:14.919] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeDisplayAttributeMessage with easy_npc:change_display_attribute (8)
+[07Aug2025 03:14:14.920] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeEntityAttributeMessage with easy_npc:change_entity_attribute (9)
+[07Aug2025 03:14:14.921] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeEntityBaseAttributeMessage with easy_npc:change_entity_base_attribute (10)
+[07Aug2025 03:14:14.922] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeEnvironmentalAttributeMessage with easy_npc:change_environmental_attribute (11)
+[07Aug2025 03:14:14.923] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeInteractionAttributeMessage with easy_npc:change_interaction_attribute (12)
+[07Aug2025 03:14:14.924] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeModelEquipmentVisibilityMessage with easy_npc:change_model_equipment_visibility (13)
+[07Aug2025 03:14:14.924] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeModelLockRotationMessage with easy_npc:change_model_lock_rotation (14)
+[07Aug2025 03:14:14.925] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeModelPoseMessage with easy_npc:change_model_pose (15)
+[07Aug2025 03:14:14.926] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeModelPositionMessage with easy_npc:change_model_position (16)
+[07Aug2025 03:14:14.927] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeModelRotationMessage with easy_npc:change_model_rotation (17)
+[07Aug2025 03:14:14.927] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeModelVisibilityMessage with easy_npc:change_model_visibility (18)
+[07Aug2025 03:14:14.929] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeMovementAttributeMessage with easy_npc:change_movement_attribute (19)
+[07Aug2025 03:14:14.930] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeNameMessage with easy_npc:change_name (20)
+[07Aug2025 03:14:14.931] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangePoseMessage with easy_npc:change_pose (21)
+[07Aug2025 03:14:14.932] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangePositionMessage with easy_npc:change_position (22)
+[07Aug2025 03:14:14.933] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeProfessionMessage with easy_npc:change_profession (23)
+[07Aug2025 03:14:14.934] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeRendererMessage with easy_npc:change_renderer (24)
+[07Aug2025 03:14:14.935] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeScaleMessage with easy_npc:change_scale (25)
+[07Aug2025 03:14:14.936] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeSkinMessage with easy_npc:change_skin (26)
+[07Aug2025 03:14:14.937] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeSpawnerSettingMessage with easy_npc:change_spawner_settings (27)
+[07Aug2025 03:14:14.938] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeTradingTypeMessage with easy_npc:change_trading_type (28)
+[07Aug2025 03:14:14.939] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ExecuteActionEventMessage with easy_npc:trigger_action_event (29)
+[07Aug2025 03:14:14.940] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ExecuteDialogButtonActionMessage with easy_npc:dialog_button_action (30)
+[07Aug2025 03:14:14.941] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ExportPresetMessage with easy_npc:export_preset (31)
+[07Aug2025 03:14:14.942] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ExportWorldPresetMessage with easy_npc:export_world_preset (32)
+[07Aug2025 03:14:14.944] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ImportPresetMessage with easy_npc:import_preset (33)
+[07Aug2025 03:14:14.945] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message OpenActionDataEditorMessage with easy_npc:open_action_data_editor (34)
+[07Aug2025 03:14:14.946] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message OpenActionDataEntryEditorMessage with easy_npc:open_action_data_entry_editor (35)
+[07Aug2025 03:14:14.948] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message OpenConfigurationMessage with easy_npc:open_configuration_screen (36)
+[07Aug2025 03:14:14.949] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message OpenDialogButtonEditorMessage with easy_npc:open_dialog_button_editor (37)
+[07Aug2025 03:14:14.950] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message OpenDialogEditorMessage with easy_npc:open_dialog_editor (38)
+[07Aug2025 03:14:14.951] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message OpenMenuMessage with easy_npc:open_menu_message (39)
+[07Aug2025 03:14:14.952] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message OpenDialogTextEditorMessage with easy_npc:open_dialog_text_editor (40)
+[07Aug2025 03:14:14.953] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message RemoveDialogButtonMessage with easy_npc:remove_dialog_button (41)
+[07Aug2025 03:14:14.954] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message RemoveDialogMessage with easy_npc:remove_dialog (42)
+[07Aug2025 03:14:14.955] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message RemoveNPCMessage with easy_npc:remove_npc (43)
+[07Aug2025 03:14:14.956] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message RemoveObjectiveMessage with easy_npc:remove_objective (44)
+[07Aug2025 03:14:14.956] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message RequestDataSyncMessage with easy_npc:request_data_sync (45)
+[07Aug2025 03:14:14.957] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message RespawnNPCMessage with easy_npc:respawn_npc (46)
+[07Aug2025 03:14:14.958] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message SaveDialogButtonMessage with easy_npc:save_dialog_button (47)
+[07Aug2025 03:14:14.959] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message SaveDialogMessage with easy_npc:save_dialog (48)
+[07Aug2025 03:14:14.960] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message SaveDialogSetMessage with easy_npc:save_dialog_set (49)
+[07Aug2025 03:14:15.003] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
+[07Aug2025 03:14:15.003] [main/INFO] [ribbits/]: Registering Ribbit professions...
+[07Aug2025 03:14:15.003] [main/INFO] [ribbits/]: Registering Ribbit instruments...
+[07Aug2025 03:14:15.005] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
+[07Aug2025 03:14:15.073] [main/INFO] [Moonlight/]: Initialized color sets in 55ms
+[07Aug2025 03:14:15.219] [main/INFO] [Supplementaries/]: Finished mod setup in: [37, 2, 0, 0, 0, 0, 7, 5, 0] ms
+[07Aug2025 03:14:15.234] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Found status: BETA Current: 21.0.4 Target: 21.0.4
+[07Aug2025 03:14:15.234] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[07Aug2025 03:14:15.427] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[07Aug2025 03:14:15.427] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[07Aug2025 03:14:15.446] [modloading-worker-0/INFO] [Enigmatic Legacy/INFO]: Sending messages to Curios API...
+[07Aug2025 03:14:15.457] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.12.9 Target: null
+[07Aug2025 03:14:15.457] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[07Aug2025 03:14:15.544] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[07Aug2025 03:14:15.602] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.10-7 Target: null
+[07Aug2025 03:14:15.602] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[07Aug2025 03:14:15.650] [modloading-worker-0/INFO] [Enigmatic Legacy/INFO]: Initializing load completion phase...
+[07Aug2025 03:14:15.650] [modloading-worker-0/INFO] [Enigmatic Legacy/INFO]: Registering brewing recipes...
+[07Aug2025 03:14:15.652] [modloading-worker-0/INFO] [AttributeFix/]: Loaded values for 72 compatible attributes.
+[07Aug2025 03:14:15.658] [modloading-worker-0/INFO] [AttributeFix/]: Loaded 72 values from config.
+[07Aug2025 03:14:15.670] [modloading-worker-0/INFO] [AttributeFix/]: Saving config file. 72 entries.
+[07Aug2025 03:14:15.670] [modloading-worker-0/INFO] [AttributeFix/]: Applying changes for 72 attributes.
+[07Aug2025 03:14:15.699] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.12 Target: 1.10.0.1
+[07Aug2025 03:14:15.699] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
+[07Aug2025 03:14:15.708] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-2.8.17 Target: null
+[07Aug2025 03:14:15.708] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Starting version check at https://raw.githubusercontent.com/nonamecrackers2/cwsm-update-info/main/update_checker.json
+[07Aug2025 03:14:15.719] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Found status: OUTDATED Current: 4.1 Target: 4.2.1
+[07Aug2025 03:14:15.782] [modloading-worker-0/INFO] [Enigmatic Legacy/INFO]: Successfully fetched the list of devoted believers from Enigmatic Legacy's repository.
+[07Aug2025 03:14:15.783] [modloading-worker-0/INFO] [Enigmatic Legacy/INFO]: Successfully backed up the list of devoted believers.
+[07Aug2025 03:14:15.783] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: ObsidianFlight, UUID: 0cf25168-1b5a-4ac9-90eb-45bb20b0afab
+[07Aug2025 03:14:15.783] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: Alexsist, UUID: b77d12d4-627f-47d3-965a-74e4f41854cc
+[07Aug2025 03:14:15.784] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: Volsarex, UUID: e9907457-0251-42de-86b7-32289c19a6c4
+[07Aug2025 03:14:15.784] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: Tar, UUID: 64d64b70-fde8-467e-ad70-271d5ddf26f6
+[07Aug2025 03:14:15.784] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: Strgnv, UUID: 93f46b5e-3f96-4bde-9de9-96e7210441f9
+[07Aug2025 03:14:15.784] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: SoulRacer65, UUID: a9ca1491-c6b2-4502-a585-94336fb07e75
+[07Aug2025 03:14:15.784] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: legitch, UUID: 64906813-adac-4aa9-8ac9-f25dbb677102
+[07Aug2025 03:14:15.784] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: TheOutlander, UUID: 9c22cd32-4dff-42b9-946c-69548781f894
+[07Aug2025 03:14:15.784] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: Crobee, UUID: ed207d6d-0bec-4e0b-9674-d8455f017441
+[07Aug2025 03:14:15.784] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: Exlor, UUID: d45f7a78-513c-43ed-b2f7-6447a92ddaf2
+[07Aug2025 03:14:15.784] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: IaruEmbyr, UUID: 97b38aa9-8c8b-4b50-8b69-f71db9a5c2d3
+[07Aug2025 03:14:15.784] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: HunterPhantom, UUID: b818e7a3-997e-4456-a7f0-dc7c97c42892
+[07Aug2025 03:14:15.784] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: Azure, UUID: 4aeb4bcc-e4b3-4851-9c1f-13d41ad7f37c
+[07Aug2025 03:14:15.785] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: PixelVoxel, UUID: f9e9d0d6-eb43-46db-ae6e-b0950668c06d
+[07Aug2025 03:14:15.785] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: Izures, UUID: 4c2145c9-be1a-4ae4-bb9f-0003bd221a98
+[07Aug2025 03:14:15.785] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: 0thLaw, UUID: a4ef9810-6c0b-45a6-9895-6bbebc70e001
+[07Aug2025 03:14:15.785] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: Nexus, UUID: 08e81c68-0a2f-4625-882b-ddcf3c86e351
+[07Aug2025 03:14:15.785] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: Fetrex, UUID: d7d73994-0fa5-4690-a8dd-4dc850563f4e
+[07Aug2025 03:14:15.785] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: MasterGentar, UUID: 86a110be-dc85-4d2c-82d3-3669cb61db8f
+[07Aug2025 03:14:15.785] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: Dimagic, UUID: 34128f78-ad16-4ef3-a647-bb13f0aea775
+[07Aug2025 03:14:15.785] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: probablyastar, UUID: 8f0f3658-5644-4f21-b5ea-324153338d87
+[07Aug2025 03:14:15.785] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: Toastr125, UUID: 5cd5f647-d3bb-412e-b60c-0aaae21bcddd
+[07Aug2025 03:14:15.785] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: YesPyro, UUID: 82a617a0-56fe-4ead-82d4-9d968ca7c777
+[07Aug2025 03:14:15.785] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: Amadhe, UUID: 8bdb26a8-7687-49e5-829b-f298cfc10508
+[07Aug2025 03:14:15.786] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: Hyperion, UUID: 143e257c-b945-4700-85d2-ebcf63c1811f
+[07Aug2025 03:14:15.786] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: prism182, UUID: f9048245-89cb-456c-aa2b-cc8e9d8b8c76
+[07Aug2025 03:14:15.786] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: Celeste-ialGamer, UUID: 4822d847-93c1-4efd-bd9f-b2d56ba1608d
+[07Aug2025 03:14:15.786] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: Snow_guy864335, UUID: a4fa93e5-c243-4b7b-b69a-6943152a5d2d
+[07Aug2025 03:14:15.786] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: Dvyant, UUID: f75e74cb-d289-459f-8d28-ea3668541e32
+[07Aug2025 03:14:15.786] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: Naoro, UUID: 7a195143-a6cd-4efb-8e57-deac4b7636d7
+[07Aug2025 03:14:15.786] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: millie, UUID: f4fac73a-0ada-4e50-bbed-61b06f1a4d18
+[07Aug2025 03:14:15.786] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: NinjaFox, UUID: 834a2387-6dec-4d57-8bd3-72be2a54ed54
+[07Aug2025 03:14:15.786] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: ProstoChel, UUID: 1fd0b74a-536b-4a65-a849-5c607c950396
+[07Aug2025 03:14:15.786] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: (Ne)TyMVS, UUID: ac159e63-a757-4f7d-8c2c-73469a715ff3
+[07Aug2025 03:14:15.786] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: TheMuffinMan, UUID: 20f48143-1e09-4c89-9c85-085b70c76953
+[07Aug2025 03:14:15.787] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: solmortis, UUID: f6dbd5e9-701c-4c76-8a48-0ba4b687c76d
+[07Aug2025 03:14:15.787] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: Eternal_Banisher, UUID: 387aa6d4-f388-400f-b9c5-1514f238ceae
+[07Aug2025 03:14:15.787] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: AbsorbingSafe11, UUID: 343ad979-87b7-4dfa-88b8-3f3fdc2e00ab
+[07Aug2025 03:14:15.787] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: Stygian, UUID: f6c7001f-4ce8-43f7-b4a1-a9d9d5fadb93
+[07Aug2025 03:14:15.787] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: PikachuGabe0, UUID: ca7b21a6-76a5-4ea6-af48-b90f66e4f2b1
+[07Aug2025 03:14:15.787] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: Purifier, UUID: 58c97c29-2c25-4320-a1d2-8e5651de506b
+[07Aug2025 03:14:15.787] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: Sam/Barker, UUID: 0179c9aa-12c8-423c-bf96-d53c9ed479dd
+[07Aug2025 03:14:15.787] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: Ciege, UUID: 48b866bf-a574-4a10-b7bd-2d83d056452d
+[07Aug2025 03:14:15.787] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: Solbaify, UUID: 5679a7e1-29f4-4bdc-bd60-5f642d95ad68
+[07Aug2025 03:14:15.787] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: Samola345, UUID: b657c54f-3174-4434-bed8-14d7be8634b3
+[07Aug2025 03:14:15.787] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: Ozzi, UUID: 7d52df8b-963d-45c2-9c8a-aa7f20ae0659
+[07Aug2025 03:14:15.787] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: Arix, UUID: c13feccd-e582-4ae1-aee7-35e8acf7e9e1
+[07Aug2025 03:14:15.787] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: Nechronom, UUID: 84b933b8-9688-4021-a039-eed55c985548
+[07Aug2025 03:14:15.788] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: Thauma, UUID: facc8bc4-a623-47dc-af89-ba979ac159b5
+[07Aug2025 03:14:15.788] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: GrekvarZikurah, UUID: f251c109-8214-4882-b0b4-332441843a50
+[07Aug2025 03:14:15.788] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: Sebaty5, UUID: c6dd33f1-e851-40b4-840d-6af5ebe4ea3b
+[07Aug2025 03:14:15.788] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: MarceDev, UUID: 24b26788-1ce6-44a6-a4df-45202850a9ef
+[07Aug2025 03:14:15.788] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: Xathanon, UUID: 806dc0b8-7d90-4776-b870-37fda466a13f
+[07Aug2025 03:14:15.788] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: Jusey1, UUID: 5f311b1c-8557-42cc-9c33-3605ea8f524f
+[07Aug2025 03:14:15.788] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: swagfredbear27, UUID: c98b3962-3ea9-47f8-820d-134ce2691af0
+[07Aug2025 03:14:15.788] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: CrazyHamburger, UUID: 57282a53-522e-4f8c-9f44-19d2068668d7
+[07Aug2025 03:14:15.788] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: UwUent, UUID: 43124493-b135-4467-8460-f04e7e845b63
+[07Aug2025 03:14:15.788] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: angelman, UUID: 85efda35-7bc1-48c5-a392-f3c23047212f
+[07Aug2025 03:14:15.789] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: Madis0, UUID: 581a3f25-db2c-4e52-9823-62e9e4730daa
+[07Aug2025 03:14:15.789] [modloading-worker-0/INFO] [Enigmatic Legacy/]: Believer: Destiny, UUID: 38edb8bc-816f-47b7-95d9-f67af6017f2f
+[07Aug2025 03:14:15.789] [modloading-worker-0/INFO] [Enigmatic Legacy/INFO]: Load completion phase finished successfully
+[07Aug2025 03:14:16.534] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[07Aug2025 03:14:17.081] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/LEPRAMC/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23235!/assets/.mcassetsroot' uses unexpected schema
+[07Aug2025 03:14:17.082] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/LEPRAMC/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23235!/data/.mcassetsroot' uses unexpected schema
+[07Aug2025 03:14:17.159] [main/INFO] [net.minecraft.server.packs.repository.FolderRepositorySource/]: Found non-pack entry './world/datapacks/Terralith_1.20.x_v2.5.4.jar', ignoring
+[07Aug2025 03:14:17.294] [main/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 90 ms
+[07Aug2025 03:14:19.876] [main/INFO] [mixin/]: Mixing AccessorAdvancementCommands from enigmaticlegacy.mixins.json into net.minecraft.server.commands.AdvancementCommands
+[07Aug2025 03:14:19.876] [main/INFO] [mixin/]: Renaming @Accessor method getAdvancementSuggestions()Lcom/mojang/brigadier/suggestion/SuggestionProvider; to getAdvancementSuggestions_$md$8879f5$0 in enigmaticlegacy.mixins.json:AccessorAdvancementCommands
+[07Aug2025 03:14:20.131] [main/INFO] [Easy NPC/]: 🗣 Register Easy NPC /easy_npc commands for Easy NPC ...
+[07Aug2025 03:14:20.288] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[07Aug2025 03:14:21.010] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag integrated_api:collections/any_taiga as it is missing following references: #repurposed_structures:collections/taigas (from integrated_api-1.5.1+1.20.1-forge.jar)
+[07Aug2025 03:14:21.011] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag idas:has_structure/byg_redwood_biomes as it is missing following references: byg:redwood_thicket (from idas_forge-1.10.1+1.20.1.jar)
+[07Aug2025 03:14:21.011] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag idas:has_structure/bopmohogany_biomes as it is missing following references: biomesoplenty:rainforest (from idas_forge-1.10.1+1.20.1.jar)
+[07Aug2025 03:14:21.012] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag idas:has_structure/bygmohogany_biomes as it is missing following references: byg:tropical_rainforest (from idas_forge-1.10.1+1.20.1.jar)
+[07Aug2025 03:14:21.013] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag idas:has_structure/bopredwood_biomes as it is missing following references: biomesoplenty:redwood_forest (from idas_forge-1.10.1+1.20.1.jar)
+[07Aug2025 03:14:21.014] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag idas:collections/idasany_taiga as it is missing following references: #repurposed_structures:collections/taigas (from idas_forge-1.10.1+1.20.1.jar)
+[07Aug2025 03:14:21.922] [Worker-Main-2/INFO] [epicfight/]: Register animations from epicfight
+[07Aug2025 03:14:21.969] [Worker-Main-2/INFO] [epicfight/]: Register animations from wom
+[07Aug2025 03:14:23.773] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:boliviamod:entities/angry_achale}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 03:14:23.773] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:stupid_weapon_deluxe:entities/chkn_rover}.pools[0].entries[0].condition[0]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 03:14:23.773] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:stupid_weapon_deluxe:entities/chkn_engineer}.pools[0].entries[1].condition[0]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 03:14:23.773] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:boliviamod:entities/qati_qati_2}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 03:14:23.774] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:boliviamod:entities/angry_bee_queen}.pools[2].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 03:14:23.774] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:boliviamod:entities/yararina}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 03:14:23.774] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:stupid_weapon_deluxe:entities/chkn_rover}.pools[0].entries[1].condition[0]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 03:14:23.774] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:stupid_weapon_deluxe:entities/chkn_trooper}.pools[0].entries[0].condition[0]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 03:14:23.774] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:stupid_weapon_deluxe:entities/chkn_trooper}.pools[0].entries[3].condition[0]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 03:14:23.774] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:stupid_weapon_deluxe:entities/chkn_trooper}.pools[0].entries[1].condition[0]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 03:14:23.774] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:stupid_weapon_deluxe:entities/chkn_trooper}.pools[0].entries[2].condition[0]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 03:14:23.774] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:stupid_weapon_deluxe:entities/chkn_engineer}.pools[0].entries[3].condition[0]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 03:14:23.774] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:boliviamod:entities/qati_qati_1}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 03:14:23.774] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:boliviamod:entities/achale}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 03:14:23.775] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:stupid_weapon_deluxe:entities/chkn_engineer}.pools[0].entries[2].condition[0]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 03:14:23.775] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:boliviamod:entities/qati_qati_2}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 03:14:23.775] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:boliviamod:entities/angry_yararina}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 03:14:23.775] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:boliviamod:entities/angry_bee_queen}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 03:14:23.775] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:stupid_weapon_deluxe:entities/chkn_rover}.pools[0].entries[2].condition[0]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 03:14:23.775] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:boliviamod:entities/acalica}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 03:14:23.775] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:stupid_weapon_deluxe:entities/chkn_engineer}.pools[0].entries[0].condition[0]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 03:14:23.775] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:boliviamod:entities/condemned}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 03:14:23.775] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:boliviamod:entities/qati_qati_1}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 03:14:23.813] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[07Aug2025 03:14:23.814] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[07Aug2025 03:14:23.825] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[07Aug2025 03:14:23.832] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[07Aug2025 03:14:23.842] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[07Aug2025 03:14:23.843] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[07Aug2025 03:14:23.844] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[07Aug2025 03:14:23.851] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[07Aug2025 03:14:23.851] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[07Aug2025 03:14:23.856] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[07Aug2025 03:14:23.857] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[07Aug2025 03:14:23.867] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[07Aug2025 03:14:23.868] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[07Aug2025 03:14:23.870] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[07Aug2025 03:14:23.881] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:bk: com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
+[07Aug2025 03:14:23.882] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[07Aug2025 03:14:23.882] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[07Aug2025 03:14:23.892] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet: com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingot'
+[07Aug2025 03:14:23.905] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[07Aug2025 03:14:23.909] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[07Aug2025 03:14:23.910] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[07Aug2025 03:14:23.910] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[07Aug2025 03:14:23.912] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[07Aug2025 03:14:23.921] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[07Aug2025 03:14:23.924] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[07Aug2025 03:14:23.926] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[07Aug2025 03:14:23.927] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[07Aug2025 03:14:23.927] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[07Aug2025 03:14:23.932] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[07Aug2025 03:14:23.932] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[07Aug2025 03:14:23.939] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[07Aug2025 03:14:23.942] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:pb: com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
+[07Aug2025 03:14:23.943] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[07Aug2025 03:14:23.943] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[07Aug2025 03:14:23.951] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[07Aug2025 03:14:23.953] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[07Aug2025 03:14:23.957] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[07Aug2025 03:14:23.958] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[07Aug2025 03:14:23.958] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[07Aug2025 03:14:23.959] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[07Aug2025 03:14:23.959] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[07Aug2025 03:14:23.966] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[07Aug2025 03:14:23.966] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[07Aug2025 03:14:23.969] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[07Aug2025 03:14:23.975] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[07Aug2025 03:14:23.979] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[07Aug2025 03:14:23.983] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[07Aug2025 03:14:23.986] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[07Aug2025 03:14:23.993] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[07Aug2025 03:14:23.993] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[07Aug2025 03:14:23.994] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[07Aug2025 03:14:23.994] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[07Aug2025 03:14:23.995] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[07Aug2025 03:14:23.995] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[07Aug2025 03:14:23.996] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[07Aug2025 03:14:23.997] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[07Aug2025 03:14:24.008] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[07Aug2025 03:14:24.012] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[07Aug2025 03:14:24.013] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[07Aug2025 03:14:24.017] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[07Aug2025 03:14:24.019] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[07Aug2025 03:14:24.023] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe supplementaries:slice_map: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
+[07Aug2025 03:14:24.024] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[07Aug2025 03:14:24.024] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[07Aug2025 03:14:24.025] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[07Aug2025 03:14:24.026] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe boliviamod:planchita_recipe: com.google.gson.JsonSyntaxException: Unknown item 'argentinas_delight:chorizoitem'
+[07Aug2025 03:14:24.029] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[07Aug2025 03:14:24.029] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[07Aug2025 03:14:24.032] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[07Aug2025 03:14:24.036] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[07Aug2025 03:14:24.046] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[07Aug2025 03:14:24.046] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[07Aug2025 03:14:24.053] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[07Aug2025 03:14:24.054] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[07Aug2025 03:14:24.058] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[07Aug2025 03:14:24.065] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[07Aug2025 03:14:24.066] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[07Aug2025 03:14:24.066] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[07Aug2025 03:14:24.066] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[07Aug2025 03:14:24.069] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:b: com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
+[07Aug2025 03:14:24.070] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[07Aug2025 03:14:24.071] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[07Aug2025 03:14:24.072] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[07Aug2025 03:14:24.073] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[07Aug2025 03:14:24.074] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[07Aug2025 03:14:24.074] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[07Aug2025 03:14:24.076] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[07Aug2025 03:14:24.077] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[07Aug2025 03:14:24.078] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[07Aug2025 03:14:24.079] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[07Aug2025 03:14:24.081] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[07Aug2025 03:14:24.085] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[07Aug2025 03:14:24.093] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[07Aug2025 03:14:24.094] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[07Aug2025 03:14:24.095] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[07Aug2025 03:14:24.095] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[07Aug2025 03:14:24.105] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:nca: com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
+[07Aug2025 03:14:24.105] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:ncc: com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
+[07Aug2025 03:14:24.105] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[07Aug2025 03:14:24.106] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[07Aug2025 03:14:24.109] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[07Aug2025 03:14:24.110] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[07Aug2025 03:14:24.112] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[07Aug2025 03:14:24.118] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[07Aug2025 03:14:24.119] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[07Aug2025 03:14:24.120] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[07Aug2025 03:14:24.121] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[07Aug2025 03:14:24.121] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[07Aug2025 03:14:24.122] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[07Aug2025 03:14:24.122] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[07Aug2025 03:14:24.123] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[07Aug2025 03:14:24.125] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[07Aug2025 03:14:24.126] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[07Aug2025 03:14:24.130] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[07Aug2025 03:14:24.130] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[07Aug2025 03:14:24.131] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[07Aug2025 03:14:24.131] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[07Aug2025 03:14:24.133] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[07Aug2025 03:14:24.134] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[07Aug2025 03:14:24.136] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[07Aug2025 03:14:24.138] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[07Aug2025 03:14:24.139] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[07Aug2025 03:14:24.139] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[07Aug2025 03:14:24.139] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[07Aug2025 03:14:24.151] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[07Aug2025 03:14:24.152] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[07Aug2025 03:14:24.152] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[07Aug2025 03:14:24.152] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[07Aug2025 03:14:24.157] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[07Aug2025 03:14:24.158] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[07Aug2025 03:14:24.170] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[07Aug2025 03:14:24.173] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[07Aug2025 03:14:24.173] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[07Aug2025 03:14:24.174] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[07Aug2025 03:14:24.175] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[07Aug2025 03:14:24.176] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[07Aug2025 03:14:24.177] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[07Aug2025 03:14:24.177] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[07Aug2025 03:14:24.182] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[07Aug2025 03:14:24.184] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[07Aug2025 03:14:24.185] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[07Aug2025 03:14:24.194] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[07Aug2025 03:14:24.196] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[07Aug2025 03:14:24.197] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[07Aug2025 03:14:24.198] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[07Aug2025 03:14:24.198] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[07Aug2025 03:14:24.199] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[07Aug2025 03:14:24.200] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[07Aug2025 03:14:24.203] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[07Aug2025 03:14:24.204] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[07Aug2025 03:14:24.205] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[07Aug2025 03:14:24.211] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[07Aug2025 03:14:24.214] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[07Aug2025 03:14:24.216] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[07Aug2025 03:14:24.218] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[07Aug2025 03:14:24.227] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 43 recipes
+[07Aug2025 03:14:24.506] [main/INFO] [quark/]: [Automatic Recipe Unlock] Removed 3980 recipe advancements
+[07Aug2025 03:14:24.520] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1186 advancements
+[07Aug2025 03:14:24.725] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 15 curio slots
+[07Aug2025 03:14:24.736] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[07Aug2025 03:14:24.738] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_on with 2 patches
+[07Aug2025 03:14:24.738] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_a_mob with 3 patches
+[07Aug2025 03:14:24.739] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/bred_all_animals with 3 patches
+[07Aug2025 03:14:24.739] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_all_mobs with 3 patches
+[07Aug2025 03:14:24.739] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/balanced_diet with 3 patches
+[07Aug2025 03:14:24.740] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/plant_seed with 1 patches
+[07Aug2025 03:14:24.740] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_effects with 2 patches
+[07Aug2025 03:14:24.740] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_off with 2 patches
+[07Aug2025 03:14:24.740] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/adventuring_time with 1 patches
+[07Aug2025 03:14:24.741] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_potions with 1 patches
+[07Aug2025 03:14:24.747] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
+[07Aug2025 03:14:24.794] [main/INFO] [se.mickelus.mutil.data.DataStore/]: Loaded   1 tiers
+[07Aug2025 03:14:24.795] [main/INFO] [se.mickelus.mutil.data.DataStore/]: Loaded   8 tweaks
+[07Aug2025 03:14:24.798] [main/INFO] [se.mickelus.mutil.data.MergingDataStore/]: Loaded  83 materials
+[07Aug2025 03:14:24.808] [main/INFO] [se.mickelus.mutil.data.DataStore/]: Loaded 126 improvements
+[07Aug2025 03:14:24.867] [main/INFO] [se.mickelus.mutil.data.MergingDataStore/]: Loaded  78 modules
+[07Aug2025 03:14:24.978] [main/INFO] [se.mickelus.mutil.data.DataStore/]: Loaded   0 enchantments
+[07Aug2025 03:14:24.979] [main/INFO] [se.mickelus.mutil.data.DataStore/]: Loaded  21 synergies
+[07Aug2025 03:14:24.981] [main/INFO] [se.mickelus.mutil.data.DataStore/]: Loaded  10 replacements
+[07Aug2025 03:14:24.989] [main/INFO] [se.mickelus.mutil.data.MergingDataStore/]: Loaded 342 schematics
+[07Aug2025 03:14:25.050] [main/INFO] [se.mickelus.mutil.data.MergingDataStore/]: Loaded  18 crafting_effects
+[07Aug2025 03:14:25.056] [main/INFO] [se.mickelus.mutil.data.DataStore/]: Loaded  35 repairs
+[07Aug2025 03:14:25.059] [main/INFO] [se.mickelus.mutil.data.DataStore/]: Loaded   2 actions
+[07Aug2025 03:14:25.060] [main/INFO] [se.mickelus.mutil.data.DataStore/]: Loaded   0 destabilization
+[07Aug2025 03:14:25.061] [main/INFO] [se.mickelus.mutil.data.DataStore/]: Loaded   0 unlocks
+[07Aug2025 03:14:25.061] [main/INFO] [se.mickelus.mutil.data.DataStore/]: Loaded   0 archetypes
+[07Aug2025 03:14:25.118] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: idas:has_structure/bopmahogany_biomes, idas:has_structure/bopredwood_biomes, idas:has_structure/bygmahogany_biomes, idas:has_structure/bygredwood_biomes, minecraft:is_plains
+[07Aug2025 03:14:25.225] [main/INFO] [Moonlight/]: Applied 7 data villager trades
+[07Aug2025 03:14:25.245] [main/INFO] [Supplementaries/]: Finished additional setup in 13 ms
+[07Aug2025 03:14:25.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[07Aug2025 03:14:25.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[07Aug2025 03:14:25.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[07Aug2025 03:14:25.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[07Aug2025 03:14:25.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[07Aug2025 03:14:25.781] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[07Aug2025 03:14:25.863] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07Aug2025 03:14:25.864] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[07Aug2025 03:14:25.864] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07Aug2025 03:14:25.864] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[07Aug2025 03:14:26.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[07Aug2025 03:14:26.248] [Server thread/INFO] [mixin/]: Mixing MixinPhantomSpawner from enigmaticlegacy.mixins.json into net.minecraft.world.level.levelgen.PhantomSpawner
+[07Aug2025 03:14:28.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[07Aug2025 03:14:29.658] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Aug2025 03:14:29.699] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Aug2025 03:14:29.769] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Aug2025 03:14:29.792] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Aug2025 03:14:30.103] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Aug2025 03:14:30.882] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2780 ms
+[07Aug2025 03:14:30.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.007s)! For help, type "help"
+[07Aug2025 03:14:30.995] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[07Aug2025 03:14:30.996] [Server thread/INFO] [net.stardustlabs.incendium.Incendium/]: Thanks for choosing Incendium!
+[07Aug2025 03:14:31.030] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[07Aug2025 03:14:31.030] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[07Aug2025 03:14:31.031] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[07Aug2025 03:14:31.051] [Server thread/WARN] [ModernFix/]: Dedicated server took 45.344 seconds to load
+[07Aug2025 03:15:08.359] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[07Aug2025 03:15:08.487] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:64762] logged in with entity id 169 at (213.64826746955, 102.875, 8152.325935337036)
+[07Aug2025 03:15:08.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 joined the game
+[07Aug2025 03:15:08.740] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[07Aug2025 03:15:08.816] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[07Aug2025 03:15:08.816] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[07Aug2025 03:15:08.818] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[07Aug2025 03:15:08.957] [Server thread/INFO] [Enigmatic Legacy/INFO]: Blue Skies detected: false
+[07Aug2025 03:16:05.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved too quickly! -4.750314280698461,-13.182002701620036,-11.325605011507832
+[07Aug2025 03:16:15.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -0.702490682697146,5.986677510268677,-8.874369800850218
+[07Aug2025 03:16:15.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -0.8295047762850061,7.094745712944871,-10.309336899392292
+[07Aug2025 03:16:15.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -0.9616258607242401,8.224953995212474,-11.735098363220459
+[07Aug2025 03:16:15.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 0.9734952818361648,-6.837031211598045,8.464543243858316
+[07Aug2025 03:16:15.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 0.9734952818361648,-6.837031211598045,8.464543243858316
+[07Aug2025 03:16:15.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 0.9734952818361648,-6.837031211598045,8.464543243858316
+[07Aug2025 03:18:19.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved too quickly! -7.561731283080363,14.674049859551545,13.849008814781882
+[07Aug2025 03:18:33.400] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[07Aug2025 03:18:33.400] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to md8879f5$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
+[07Aug2025 03:20:52.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Enchanting Tower]
+[07Aug2025 03:22:08.260] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[07Aug2025 03:22:08.260] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[07Aug2025 03:23:04.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 11.056800739031587,0.0,0.6644277138620964
+[07Aug2025 03:23:04.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 12.899931970581974,0.0,0.770051464862263
+[07Aug2025 03:23:04.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 14.743130576715657,0.0,0.8746314119634917
+[07Aug2025 03:23:04.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 16.586388607231697,0.0,0.9782907240260101
+[07Aug2025 03:23:04.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 18.429699050053046,0.0,1.0811380359846225
+[07Aug2025 03:23:04.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 20.273055720527736,0.0,1.1832691638519464
+[07Aug2025 03:23:04.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 22.116453163792585,0.0,1.2847686173499824
+[07Aug2025 03:23:04.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 23.959886568658362,0.0,1.3857109340551688
+[07Aug2025 03:23:04.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 25.80335169165619,0.0,1.4861618561080832
+[07Aug2025 03:23:04.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 27.64684479004643,0.0,1.5861793680778646
+[07Aug2025 03:23:04.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 29.490362562732912,0.0,1.6858146123540791
+[07Aug2025 03:23:04.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 31.333902098148542,0.0,1.7851126965251751
+[07Aug2025 03:23:04.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 33.17746082829137,0.0,1.8841134054837312
+[07Aug2025 03:23:04.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 35.02103648818354,0.0,1.9828518295053073
+[07Aug2025 03:23:04.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 36.84886130416385,0.0,2.1632060638876283
+[07Aug2025 03:23:04.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 29.449047979916372,0.0,1.8579249312806496
+[07Aug2025 03:23:04.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 31.25072759206728,0.0,2.173755208063085
+[07Aug2025 03:23:04.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 33.05736586989053,0.0,2.463737310905344
+[07Aug2025 03:24:02.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 10.68005233063127,0.0,2.0014979619081714
+[07Aug2025 03:24:02.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 12.459245500575207,0.0,2.4423486699297428
+[07Aug2025 03:24:02.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 14.236576857111004,0.0,2.9094084103835485
+[07Aug2025 03:24:02.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 16.00890669385649,0.0,3.4079958620941397
+[07Aug2025 03:24:02.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 17.772934458899954,0.0,3.9430628162144785
+[07Aug2025 03:24:02.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 19.525172513303005,0.0,4.51919807257309
+[07Aug2025 03:24:02.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 21.264144240509268,0.0,5.136788757459726
+[07Aug2025 03:24:02.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 22.98853955901268,0.0,5.795878229975642
+[07Aug2025 03:24:02.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 24.698402777428782,0.0,6.494317178086021
+[07Aug2025 03:24:02.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 26.393871128199635,0.0,7.229969879581404
+[07Aug2025 03:24:02.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 28.07576656871356,0.0,7.9998071685995455
+[07Aug2025 03:24:02.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 29.7430375309591,0.0,8.803789740907632
+[07Aug2025 03:24:02.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 31.393050130698384,0.0,9.644071865894148
+[07Aug2025 03:24:02.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 33.02034082487785,0.0,10.526060171239806
+[07Aug2025 03:24:02.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 34.62383159035653,0.0,11.449302014102614
+[07Aug2025 03:24:02.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 36.204831142218836,0.0,12.410647482058266
+[07Aug2025 03:24:02.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 37.76545662169542,0.0,13.406206769788696
+[07Aug2025 03:24:02.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 39.30788548245391,0.0,14.432197400479708
+[07Aug2025 03:24:02.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 40.83410884053069,0.0,15.485203410607028
+[07Aug2025 03:24:02.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 42.34603894524207,0.0,16.562036985397754
+[07Aug2025 03:24:02.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 43.8453624004851,0.0,17.659886472220933
+[07Aug2025 03:24:02.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 45.333566790897294,0.0,18.776271993457158
+[07Aug2025 03:24:02.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 46.81173681737732,0.0,19.909260457981873
+[07Aug2025 03:24:02.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 39.38023128265331,0.0,19.47174459503276
+[07Aug2025 03:24:02.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 40.84102546205645,0.0,20.633093720701254
+[07Aug2025 03:24:02.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 42.294335293766835,0.0,21.806500467097976
+[07Aug2025 03:24:02.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 43.740815027018016,0.0,22.99079480326418
+[07Aug2025 03:24:02.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 45.181184672701875,0.0,24.184786683909806
+[07Aug2025 03:25:12.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -0.22241441593860145,0.0,-10.92449817016859
+[07Aug2025 03:25:12.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -0.7192392944293715,0.0,-12.55038280430199
+[07Aug2025 03:25:13.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 3.9090769961981096,0.0,9.296666624784848
+[07Aug2025 03:25:13.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 3.9090769961981096,0.0,9.296666624784848
+[07Aug2025 03:25:36.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 03:27:08.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 03:28:06.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 03:28:20.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 03:30:03.044] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved too quickly! -16.52581639095706,1.7848287200080506,-16.512513604658125
+[07Aug2025 03:32:57.378] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityBlueJay['Blue Jay'/18679, l='ServerLevel[world]', x=915.83, y=72.13, z=8707.47]
+[07Aug2025 03:33:10.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Wizard Tower]
