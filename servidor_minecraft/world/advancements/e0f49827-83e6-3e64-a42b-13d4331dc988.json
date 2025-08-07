@@ -1605,5 +1605,11 @@
     },
     "done": true
   },
+  "enigmaticlegacy:main/lore_inscriber": {
+    "criteria": {
+      "etherium": "2025-08-07 05:13:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
