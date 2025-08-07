@@ -1633,11 +1633,11 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "born_in_chaos_v1:dismantledto_bones": {
     "criteria": {
-      "requirement": "2025-08-07 20:22:49 +0000"
+      "dismantledto_bones_0": "2025-08-07 20:36:07 +0000"
     },
-    "done": false
+    "done": true
   },
   "ars_nouveau:wilden_tribute": {
     "criteria": {

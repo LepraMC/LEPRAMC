@@ -1081,9 +1081,9 @@
     },
     "done": true
   },
-  "boliviamod:advancement_discovering_new_crops": {
+  "ars_nouveau:wilden_explosion": {
     "criteria": {
-      "advancement_discovering_new_crops_0": "2025-08-07 20:12:51 +0000"
+      "wilden_explosion": "2025-08-07 20:12:00 +0000"
     },
     "done": true
   },
@@ -1093,9 +1093,27 @@
     },
     "done": true
   },
-  "ars_nouveau:wilden_explosion": {
+  "boliviamod:advancement_discovering_new_crops": {
     "criteria": {
-      "wilden_explosion": "2025-08-07 20:12:00 +0000"
+      "advancement_discovering_new_crops_0": "2025-08-07 20:12:51 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/brewing/twisted_potion": {
+    "criteria": {
+      "has_recall_potion": "2025-08-07 20:36:05 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2025-08-07 20:29:56 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/recall_potion": {
+    "criteria": {
+      "spellstone": "2025-08-07 20:36:05 +0000"
     },
     "done": true
   },

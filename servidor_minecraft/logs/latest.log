@@ -844,3 +844,27 @@
 [07Aug2025 20:21:09.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
 [07Aug2025 20:21:26.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
 [07Aug2025 20:22:31.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 20:23:14.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 20:23:29.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 20:26:46.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[07Aug2025 20:26:46.361] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Flying is not enabled on this server
+[07Aug2025 20:26:46.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[07Aug2025 20:26:46.444] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Aug2025 20:27:04.625] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:52762] logged in with entity id 30135 at (234.74307250976562, 102.88200068473816, 8151.4130859375)
+[07Aug2025 20:27:04.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[07Aug2025 20:27:04.706] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[07Aug2025 20:27:04.727] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[07Aug2025 20:27:04.728] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[07Aug2025 20:27:04.729] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[07Aug2025 20:27:17.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 20:29:56.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Suit Up]
+[07Aug2025 20:33:10.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 20:33:20.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 20:33:55.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 20:34:21.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 20:36:05.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has reached the goal [Gotta Get Out of Here]
+[07Aug2025 20:36:07.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has reached the goal [Senior Summoner]
+[07Aug2025 20:36:17.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 20:39:09.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 20:39:40.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 20:40:11.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
