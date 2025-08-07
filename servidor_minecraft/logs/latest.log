@@ -1594,3 +1594,269 @@
 [07Aug2025 05:35:49.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 0.08767301372017755,0.0,12.477661628327041
 [07Aug2025 05:36:04.907] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
 [07Aug2025 05:36:04.907] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[07Aug2025 05:37:25.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 05:40:26.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 05:40:44.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 05:42:47.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 05:54:11.482] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10980ms or 219 ticks behind
+[07Aug2025 05:55:31.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 05:55:56.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 05:56:06.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 05:56:09.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 05:56:19.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Withering Heights]
+[07Aug2025 05:56:31.623] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "java.util.function.Supplier.get()" because the return value of "java.util.HashMap.get(Object)" is null
+	Index: 21
+	Listeners:
+		0: HIGHEST
+		1: ASM: com.aizistral.enigmaticlegacy.handlers.EnigmaticEventHandler@2005f135 onPlayerHurt(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		2: NORMAL
+		3: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@aaec928 onLivingHurt(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		4: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@54ec6e6b onTakeDamage(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		5: ASM: se.mickelus.tetra.effect.ItemEffectHandler@6faae206 onLivingHurt(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		6: ASM: class yesman.epicfight.events.EntityEvents hurtEvent(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		7: ASM: class vectorwing.farmersdelight.common.item.enchantment.BackstabbingEnchantment$BackstabbingEvent onKnifeBackstab(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		8: ASM: class net.mcreator.boliviamod.procedures.YararinaPoisonProcedureProcedure onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		9: ASM: com.github.L_Ender.cataclysm.event.ServerEventHandler@33d720a2 onLivingDamage(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		10: ASM: class net.geforcemods.securitycraft.SCEventHandler onDamageTaken(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		11: ASM: class com.hollingsworth.arsnouveau.common.potions.GravityEffect entityHurt(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		12: ASM: class com.hollingsworth.arsnouveau.common.potions.BounceEffect onFlyWallDamage(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		13: ASM: class com.hollingsworth.arsnouveau.common.event.ReactiveEvents livingHitEvent(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		14: ASM: class com.hollingsworth.arsnouveau.common.event.FamiliarEvents livingHurtEvent(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		15: ASM: class com.hollingsworth.arsnouveau.common.event.EventHandler entityHurt(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		16: ASM: class com.hollingsworth.arsnouveau.common.event.EventHandler livingHurtEvent(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		17: ASM: class com.hollingsworth.arsnouveau.common.camera.CameraEvents onDamageTaken(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		18: ASM: class net.mehvahdjukaar.supplementaries.common.events.forge.ServerEventsForge onLivingDeath(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		19: ASM: class io.redspace.ironsspellbooks.effect.EchoingStrikesEffect createEcho(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		20: ASM: class net.mcreator.ancientgolems.procedures.ObeliskIsHurtProcedure onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		21: ASM: com.aizistral.enigmaticlegacy.handlers.EnigmaticEventHandler@2005f135 onEntityHurt(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		22: ASM: com.aizistral.etherium.core.EtheriumEventHandler@58804dbe onEntityHurt(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		23: ASM: air onEntityHurt(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		24: ASM: team.creative.playerrevive.server.ReviveEventServer@239f15de playerDamage(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		25: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@554e272b onEntityDamage(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		26: LOW
+		27: ASM: com.aizistral.enigmaticlegacy.handlers.EnigmaticEventHandler@2005f135 endEntityHurt(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		28: LOWEST
+		29: ASM: com.aizistral.enigmaticlegacy.handlers.EnigmaticEventHandler@2005f135 onLivingHurtFinal(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		30: net.minecraftforge.eventbus.EventBus$$Lambda$1490/0x000077f080647c58@a2a4d50
+java.lang.NullPointerException: Cannot invoke "java.util.function.Supplier.get()" because the return value of "java.util.HashMap.get(Object)" is null
+	at TRANSFORMER/enigmaticlegacy@2.30.1/com.aizistral.enigmaticlegacy.handlers.EnigmaticEventHandler.onEntityHurt(EnigmaticEventHandler.java:2184)
+	at TRANSFORMER/enigmaticlegacy@2.30.1/com.aizistral.enigmaticlegacy.handlers.__EnigmaticEventHandler_onEntityHurt_LivingHurtEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onLivingHurt(ForgeHooks.java:292)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_6475_(Player.java:906)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_6469_(LivingEntity.java:1112)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_6469_(Player.java:840)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_6469_(ServerPlayer.java:695)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.gameasset.Animations.lambda$build$44(Animations.java:1574)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.gameasset.Animations.lambda$build$45(Animations.java:1571)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.api.animation.property.AnimationEvent.executeIfRightSide(AnimationEvent.java:20)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.api.animation.property.AnimationEvent$TimeStampedEvent.executeIfRightSide(AnimationEvent.java:43)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.api.animation.types.StaticAnimation.lambda$tick$6(StaticAnimation.java:286)
+	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.api.animation.types.StaticAnimation.tick(StaticAnimation.java:278)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.api.animation.types.MainFrameAnimation.tick(MainFrameAnimation.java:47)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.api.animation.types.ActionAnimation.tick(ActionAnimation.java:94)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.api.animation.ServerAnimator.tick(ServerAnimator.java:65)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch.tick(LivingEntityPatch.java:149)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch.tick(WitherPatch.java:144)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.events.EntityEvents.updateEvent(EntityEvents.java:103)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.events.__EntityEvents_updateEvent_LivingTickEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onLivingTick(ForgeHooks.java:264)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2258)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.Mob.m_8119_(Mob.java:337)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:693)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.Level.m_46653_(Level.java:479)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:343)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:323)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[07Aug2025 05:56:31.641] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "java.util.function.Supplier.get()" because the return value of "java.util.HashMap.get(Object)" is null
+	Index: 3
+	Listeners:
+		0: NORMAL
+		1: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@aaec928 onLivingTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		2: ASM: class reascer.wom.events.WOMLivingEntityEvents onUpdateEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		3: ASM: class yesman.epicfight.events.EntityEvents updateEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		4: ASM: com.github.alexthe666.citadel.server.CitadelEvents@4b3bd81f onEntityUpdateDebug(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		5: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@501bca82 onLivingUpdateEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		6: net.minecraftforge.eventbus.EventBus$$Lambda$1490/0x000077f080647c58@384db62c
+		7: net.minecraftforge.eventbus.EventBus$$Lambda$1490/0x000077f080647c58@3a107d73
+		8: ASM: class net.mcreator.stupidweapondeluxe.init.EntityAnimationFactory onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		9: ASM: class com.github.alexthe666.iceandfire.entity.props.CapabilityHandler tickData(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		10: ASM: com.github.alexmodguy.alexscaves.server.event.CommonEvents@409e0902 livingTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		11: ASM: class net.mcreator.rpgstylemoreweapons.init.EntityAnimationFactory onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		12: ASM: class net.mcreator.boliviamod.init.EntityAnimationFactory onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		13: ASM: com.github.L_Ender.cataclysm.event.ServerEventHandler@33d720a2 onLivingUpdateEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		14: ASM: class net.mcreator.borninchaosv.init.EntityAnimationFactory onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		15: net.minecraftforge.eventbus.EventBus$$Lambda$1490/0x000077f080647c58@334837b
+		16: net.minecraftforge.eventbus.EventBus$$Lambda$1490/0x000077f080647c58@4a151459
+		17: net.minecraftforge.eventbus.EventBus$$Lambda$1490/0x000077f080647c58@1f3c37e1
+		18: net.minecraftforge.eventbus.EventBus$$Lambda$1490/0x000077f080647c58@26fe3a90
+		19: net.minecraftforge.eventbus.EventBus$$Lambda$1490/0x000077f080647c58@1765a6f
+		20: net.minecraftforge.eventbus.EventBus$$Lambda$1490/0x000077f080647c58@632331c4
+		21: net.minecraftforge.eventbus.EventBus$$Lambda$1490/0x000077f080647c58@1dde917e
+		22: ASM: class io.redspace.ironsspellbooks.player.ServerPlayerEvents onLivingTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		23: ASM: class io.redspace.ironsspellbooks.effect.guiding_bolt.GuidingBoltManager livingTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		24: ASM: class net.mcreator.ancientgolems.procedures.TheprimalicePathProcedure onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		25: ASM: class net.mcreator.ancientgolems.procedures.PrimordialiceItemInHandTickProcedure onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		26: ASM: class net.mcreator.ancientgolems.procedures.LavapiglinOnEntityTickUpdateProcedure onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		27: ASM: class net.mcreator.ancientgolems.procedures.IrongolemslowrideProcedure onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		28: ASM: class net.mcreator.ancientgolems.procedures.GolemofthemoltenforgeOnEntityTickUpdateProcedure onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		29: ASM: class net.mcreator.ancientgolems.procedures.EnderguardianpathProcedure onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		30: ASM: class net.mcreator.ancientgolems.init.EntityAnimationFactory onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		31: ASM: com.aizistral.enigmaticlegacy.handlers.EnigmaticEventHandler@2005f135 onPlayerTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		32: ASM: class com.simibubi.create.foundation.events.CommonEvents onUpdateLivingEntity(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		33: net.minecraftforge.eventbus.EventBus$$Lambda$1490/0x000077f080647c58@4aa312ef
+		34: ASM: class com.simibubi.create.content.equipment.extendoGrip.ExtendoGripItem holdingExtendoGripIncreasesRange(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		35: ASM: class com.simibubi.create.content.equipment.armor.DivingHelmetItem breatheUnderwater(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		36: ASM: class com.simibubi.create.content.equipment.armor.DivingBootsItem accellerateDescentUnderwater(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		37: ASM: top.theillusivec4.curios.common.event.CuriosEventHandler@13e7a1b3 tick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		38: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@554e272b onEntityUpdate(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+java.lang.NullPointerException: Cannot invoke "java.util.function.Supplier.get()" because the return value of "java.util.HashMap.get(Object)" is null
+	at TRANSFORMER/enigmaticlegacy@2.30.1/com.aizistral.enigmaticlegacy.handlers.EnigmaticEventHandler.onEntityHurt(EnigmaticEventHandler.java:2184)
+	at TRANSFORMER/enigmaticlegacy@2.30.1/com.aizistral.enigmaticlegacy.handlers.__EnigmaticEventHandler_onEntityHurt_LivingHurtEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onLivingHurt(ForgeHooks.java:292)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_6475_(Player.java:906)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_6469_(LivingEntity.java:1112)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_6469_(Player.java:840)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_6469_(ServerPlayer.java:695)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.gameasset.Animations.lambda$build$44(Animations.java:1574)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.gameasset.Animations.lambda$build$45(Animations.java:1571)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.api.animation.property.AnimationEvent.executeIfRightSide(AnimationEvent.java:20)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.api.animation.property.AnimationEvent$TimeStampedEvent.executeIfRightSide(AnimationEvent.java:43)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.api.animation.types.StaticAnimation.lambda$tick$6(StaticAnimation.java:286)
+	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.api.animation.types.StaticAnimation.tick(StaticAnimation.java:278)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.api.animation.types.MainFrameAnimation.tick(MainFrameAnimation.java:47)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.api.animation.types.ActionAnimation.tick(ActionAnimation.java:94)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.api.animation.ServerAnimator.tick(ServerAnimator.java:65)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch.tick(LivingEntityPatch.java:149)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch.tick(WitherPatch.java:144)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.events.EntityEvents.updateEvent(EntityEvents.java:103)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.events.__EntityEvents_updateEvent_LivingTickEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onLivingTick(ForgeHooks.java:264)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2258)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.Mob.m_8119_(Mob.java:337)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:693)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.Level.m_46653_(Level.java:479)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:343)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:323)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[07Aug2025 05:56:31.675] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Encountered an unexpected exception
+net.minecraft.ReportedException: Ticking entity
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:897) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "java.util.function.Supplier.get()" because the return value of "java.util.HashMap.get(Object)" is null
+	at com.aizistral.enigmaticlegacy.handlers.EnigmaticEventHandler.onEntityHurt(EnigmaticEventHandler.java:2184) ~[EnigmaticLegacy-2.30.1.jar%23192!/:2.30.1]
+	at com.aizistral.enigmaticlegacy.handlers.__EnigmaticEventHandler_onEntityHurt_LivingHurtEvent.invoke(.dynamic) ~[EnigmaticLegacy-2.30.1.jar%23192!/:2.30.1]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingHurt(ForgeHooks.java:292) ~[forge-1.20.1-47.3.7-universal.jar%23240!/:?]
+	at net.minecraft.world.entity.player.Player.m_6475_(Player.java:906) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6469_(LivingEntity.java:1112) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.world.entity.player.Player.m_6469_(Player.java:840) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_6469_(ServerPlayer.java:695) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at yesman.epicfight.gameasset.Animations.lambda$build$44(Animations.java:1574) ~[epicfight-forge-20.8.7-1.20.1.jar%23193!/:20.8.7]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at yesman.epicfight.gameasset.Animations.lambda$build$45(Animations.java:1571) ~[epicfight-forge-20.8.7-1.20.1.jar%23193!/:20.8.7]
+	at yesman.epicfight.api.animation.property.AnimationEvent.executeIfRightSide(AnimationEvent.java:20) ~[epicfight-forge-20.8.7-1.20.1.jar%23193!/:20.8.7]
+	at yesman.epicfight.api.animation.property.AnimationEvent$TimeStampedEvent.executeIfRightSide(AnimationEvent.java:43) ~[epicfight-forge-20.8.7-1.20.1.jar%23193!/:20.8.7]
+	at yesman.epicfight.api.animation.types.StaticAnimation.lambda$tick$6(StaticAnimation.java:286) ~[epicfight-forge-20.8.7-1.20.1.jar%23193!/:20.8.7]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at yesman.epicfight.api.animation.types.StaticAnimation.tick(StaticAnimation.java:278) ~[epicfight-forge-20.8.7-1.20.1.jar%23193!/:20.8.7]
+	at yesman.epicfight.api.animation.types.MainFrameAnimation.tick(MainFrameAnimation.java:47) ~[epicfight-forge-20.8.7-1.20.1.jar%23193!/:20.8.7]
+	at yesman.epicfight.api.animation.types.ActionAnimation.tick(ActionAnimation.java:94) ~[epicfight-forge-20.8.7-1.20.1.jar%23193!/:20.8.7]
+	at yesman.epicfight.api.animation.ServerAnimator.tick(ServerAnimator.java:65) ~[epicfight-forge-20.8.7-1.20.1.jar%23193!/:20.8.7]
+	at yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch.tick(LivingEntityPatch.java:149) ~[epicfight-forge-20.8.7-1.20.1.jar%23193!/:20.8.7]
+	at yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch.tick(WitherPatch.java:144) ~[epicfight-forge-20.8.7-1.20.1.jar%23193!/:20.8.7]
+	at yesman.epicfight.events.EntityEvents.updateEvent(EntityEvents.java:103) ~[epicfight-forge-20.8.7-1.20.1.jar%23193!/:20.8.7]
+	at yesman.epicfight.events.__EntityEvents_updateEvent_LivingTickEvent.invoke(.dynamic) ~[epicfight-forge-20.8.7-1.20.1.jar%23193!/:20.8.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingTick(ForgeHooks.java:264) ~[forge-1.20.1-47.3.7-universal.jar%23240!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2258) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.world.entity.Mob.m_8119_(Mob.java:337) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:693) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.world.level.Level.m_46653_(Level.java:479) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	... 5 more
+[07Aug2025 05:56:31.702] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class yesman/epicfight/api/client/animation/property/JointMaskEntry for invalid dist DEDICATED_SERVER
+[07Aug2025 05:56:31.702] [Server thread/ERROR] [net.minecraftforge.logging.CrashReportAnalyser/]: Failed to append suspected mod(s) to crash report!
+java.lang.RuntimeException: Attempted to load class yesman/epicfight/api/client/animation/property/JointMaskEntry for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.Class.getDeclaredMethods0(Native Method) ~[?:?]
+	at java.lang.Class.privateGetDeclaredMethods(Class.java:3402) ~[?:?]
+	at java.lang.Class.getDeclaredMethods(Class.java:2504) ~[?:?]
+	at net.minecraftforge.logging.CrashReportAnalyser.findMixinMerged(CrashReportAnalyser.java:188) ~[forge-1.20.1-47.3.7-universal.jar%23240!/:?]
+	at net.minecraftforge.logging.CrashReportAnalyser.getMixinInfo(CrashReportAnalyser.java:211) ~[forge-1.20.1-47.3.7-universal.jar%23240!/:?]
+	at net.minecraftforge.logging.CrashReportAnalyser.identifyByMixins(CrashReportAnalyser.java:147) ~[forge-1.20.1-47.3.7-universal.jar%23240!/:?]
+	at net.minecraftforge.logging.CrashReportAnalyser.scanStacktrace(CrashReportAnalyser.java:116) ~[forge-1.20.1-47.3.7-universal.jar%23240!/:?]
+	at net.minecraftforge.logging.CrashReportAnalyser.scanThrowable(CrashReportAnalyser.java:102) ~[forge-1.20.1-47.3.7-universal.jar%23240!/:?]
+	at net.minecraftforge.logging.CrashReportAnalyser.analyseCrashReport(CrashReportAnalyser.java:55) ~[forge-1.20.1-47.3.7-universal.jar%23240!/:?]
+	at net.minecraftforge.logging.CrashReportAnalyser.appendSuspectedMods(CrashReportAnalyser.java:39) ~[forge-1.20.1-47.3.7-universal.jar%23240!/:?]
+	at net.minecraft.CrashReport.m_127519_(CrashReport.java:60) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.CrashReport.m_127526_(CrashReport.java:114) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.CrashReport.m_127512_(CrashReport.java:135) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:678) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[07Aug2025 05:56:31.710] [Server thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID ea6bb31d-6570-4ef0-b8a6-9971060bcf4e
+[07Aug2025 05:56:31.711] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: This crash report has been saved to: /workspaces/LEPRAMC/servidor_minecraft/./crash-reports/crash-2025-08-07_05.56.31-server.txt
+[07Aug2025 05:56:31.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Aug2025 05:56:31.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Aug2025 05:56:31.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Aug2025 05:56:32.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Aug2025 05:56:32.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
+[07Aug2025 05:56:32.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Aug2025 05:56:32.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[07Aug2025 05:56:32.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Aug2025 05:56:33.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Aug2025 05:56:33.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[07Aug2025 05:56:33.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Aug2025 05:56:33.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[07Aug2025 05:56:33.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Aug2025 05:56:33.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

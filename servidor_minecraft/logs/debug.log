@@ -14512,3 +14512,439 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [07Aug2025 05:35:49.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 0.08767301372017755,0.0,12.477661628327041
 [07Aug2025 05:36:04.907] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
 [07Aug2025 05:36:04.907] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[07Aug2025 05:37:25.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 05:39:59.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 05:39:59.205] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 05:40:26.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 05:40:44.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 05:42:47.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 05:44:59.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 05:44:59.205] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 05:49:59.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 05:49:59.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 05:54:00.771] [Worker-Main-152/DEBUG] [ModernFix/]: Using cached upgraded version of idas:animal_den/foxhound_den
+[07Aug2025 05:54:00.843] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/start1
+[07Aug2025 05:54:00.889] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:the_lab
+[07Aug2025 05:54:00.919] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_kitchen
+[07Aug2025 05:54:01.009] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:arena
+[07Aug2025 05:54:01.036] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower1
+[07Aug2025 05:54:01.040] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/towncenter4
+[07Aug2025 05:54:01.594] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:soulblacksmith2
+[07Aug2025 05:54:01.625] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:soulblacksmith
+[07Aug2025 05:54:05.480] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of idas:ancient_portal/nether_ancient_portal1
+[07Aug2025 05:54:05.593] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of idas:ancient_portal/nether_ancient_portal2
+[07Aug2025 05:54:05.637] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l1
+[07Aug2025 05:54:06.123] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:sanctum/top
+[07Aug2025 05:54:06.233] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor
+[07Aug2025 05:54:06.261] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/origin
+[07Aug2025 05:54:06.265] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_1
+[07Aug2025 05:54:06.273] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_2
+[07Aug2025 05:54:06.275] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_3
+[07Aug2025 05:54:06.275] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_1
+[07Aug2025 05:54:06.278] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_5
+[07Aug2025 05:54:06.279] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_7
+[07Aug2025 05:54:06.280] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/piglin_camp
+[07Aug2025 05:54:06.280] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_3
+[07Aug2025 05:54:06.282] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_3
+[07Aug2025 05:54:06.282] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_2
+[07Aug2025 05:54:06.282] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_5
+[07Aug2025 05:54:06.283] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_2
+[07Aug2025 05:54:06.283] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/banner_2
+[07Aug2025 05:54:06.284] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/skull_pile
+[07Aug2025 05:54:06.284] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/banner
+[07Aug2025 05:54:06.285] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_3
+[07Aug2025 05:54:06.286] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_4
+[07Aug2025 05:54:06.286] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_4
+[07Aug2025 05:54:06.287] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/fossil
+[07Aug2025 05:54:06.288] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_2
+[07Aug2025 05:54:06.288] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_1
+[07Aug2025 05:54:06.289] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_6
+[07Aug2025 05:54:06.289] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_1
+[07Aug2025 05:54:06.290] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_1
+[07Aug2025 05:54:06.290] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_2
+[07Aug2025 05:54:11.482] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10980ms or 219 ticks behind
+[07Aug2025 05:54:15.606] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 05:54:15.606] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 05:54:15.606] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 05:54:15.606] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 05:54:15.606] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 05:54:15.606] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 05:54:15.606] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 05:54:15.606] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 05:54:15.614] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 05:54:15.615] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 05:54:15.615] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 05:54:15.615] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 05:54:15.615] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 05:54:15.615] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 05:54:15.615] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 05:54:15.615] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 05:54:33.578] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road9
+[07Aug2025 05:54:33.579] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road4
+[07Aug2025 05:54:33.581] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road6
+[07Aug2025 05:54:33.582] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_worker1
+[07Aug2025 05:54:33.584] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small1
+[07Aug2025 05:54:33.585] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road7
+[07Aug2025 05:54:33.587] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/stilt1
+[07Aug2025 05:54:33.588] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small4
+[07Aug2025 05:54:33.588] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road8
+[07Aug2025 05:54:33.590] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_lumberjack2
+[07Aug2025 05:54:33.591] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small6
+[07Aug2025 05:54:33.593] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road10
+[07Aug2025 05:54:33.594] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small5
+[07Aug2025 05:54:33.594] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road11
+[07Aug2025 05:54:33.595] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_lumberjack1
+[07Aug2025 05:54:33.597] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large4
+[07Aug2025 05:54:33.599] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter5
+[07Aug2025 05:54:33.600] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter2
+[07Aug2025 05:54:33.601] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter3
+[07Aug2025 05:54:33.602] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_miner1
+[07Aug2025 05:54:33.603] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large5
+[07Aug2025 05:54:33.604] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road3
+[07Aug2025 05:54:33.606] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large2
+[07Aug2025 05:54:33.608] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden3
+[07Aug2025 05:54:33.608] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_armored
+[07Aug2025 05:54:33.610] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden2
+[07Aug2025 05:54:33.611] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden1
+[07Aug2025 05:54:33.612] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road2
+[07Aug2025 05:54:33.612] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter4
+[07Aug2025 05:54:33.614] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small2
+[07Aug2025 05:54:33.614] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_alchemist1
+[07Aug2025 05:54:36.691] [Worker-Main-3/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena1 is being run through DFU (hash 1639040beee09f9270c31ac18907488c49bd397a20e3cf2e438ddeeeb2a4b5dc), this will cause launch time delays
+[07Aug2025 05:54:36.879] [Worker-Main-3/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena2 is being run through DFU (hash 3619c39a998b48ce06040cb5b2cd343bf9ebb514c9578b21882ce044438e23c0), this will cause launch time delays
+[07Aug2025 05:54:37.093] [Worker-Main-3/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena3 is being run through DFU (hash 86c0909e2efdb6293e471f96d6a14904efe4cb59b0c7d84784c34ba3ae92ce61), this will cause launch time delays
+[07Aug2025 05:54:37.228] [Worker-Main-3/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena4 is being run through DFU (hash 19fb2fa64aba37fa7dce14e6f4d54e3546f3efb7b8bb2e4fe7f6973f9aebc221), this will cause launch time delays
+[07Aug2025 05:54:37.471] [Worker-Main-3/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena5 is being run through DFU (hash 8fcc215c44a596a3ba2d8c554756d778b07bbbe23d17eccf3248d6e29a726b99), this will cause launch time delays
+[07Aug2025 05:54:37.591] [Worker-Main-3/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena6 is being run through DFU (hash 9384404d650a6664a7cb9870face813a55ea722abd34dd69732d681c50690141), this will cause launch time delays
+[07Aug2025 05:54:37.730] [Worker-Main-3/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena7 is being run through DFU (hash 9870666c6e554ecb0ab1c818a2fe78f966bfcfbb665a5dae552e96f4ec572290), this will cause launch time delays
+[07Aug2025 05:54:37.828] [Worker-Main-3/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena8 is being run through DFU (hash 1ef7866efb08c91acd64618129097e5b9b7ab7232a4984a255eb435ee18b0cda), this will cause launch time delays
+[07Aug2025 05:55:10.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 05:55:10.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 05:55:23.655] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 05:55:23.655] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 05:55:23.655] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 05:55:23.655] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 05:55:23.655] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 05:55:23.655] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 05:55:23.655] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 05:55:23.655] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Aug2025 05:55:31.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 05:55:31.422] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/starter2
+[07Aug2025 05:55:31.448] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_hv
+[07Aug2025 05:55:31.449] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_t_vh
+[07Aug2025 05:55:31.450] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_elbow
+[07Aug2025 05:55:31.451] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_4way
+[07Aug2025 05:55:31.452] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_t
+[07Aug2025 05:55:31.453] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_long
+[07Aug2025 05:55:31.453] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_t_hv
+[07Aug2025 05:55:31.454] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_s
+[07Aug2025 05:55:31.455] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_vh
+[07Aug2025 05:55:31.456] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_end
+[07Aug2025 05:55:31.457] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_v
+[07Aug2025 05:55:31.457] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_v_tall
+[07Aug2025 05:55:31.458] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_v_end
+[07Aug2025 05:55:31.460] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/starter1
+[07Aug2025 05:55:31.461] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_h
+[07Aug2025 05:55:31.463] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_vh
+[07Aug2025 05:55:31.465] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_hv
+[07Aug2025 05:55:31.472] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_v
+[07Aug2025 05:55:33.987] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower3
+[07Aug2025 05:55:56.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 05:56:06.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 05:56:09.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[07Aug2025 05:56:19.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Withering Heights]
+[07Aug2025 05:56:31.623] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "java.util.function.Supplier.get()" because the return value of "java.util.HashMap.get(Object)" is null
+	Index: 21
+	Listeners:
+		0: HIGHEST
+		1: ASM: com.aizistral.enigmaticlegacy.handlers.EnigmaticEventHandler@2005f135 onPlayerHurt(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		2: NORMAL
+		3: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@aaec928 onLivingHurt(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		4: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@54ec6e6b onTakeDamage(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		5: ASM: se.mickelus.tetra.effect.ItemEffectHandler@6faae206 onLivingHurt(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		6: ASM: class yesman.epicfight.events.EntityEvents hurtEvent(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		7: ASM: class vectorwing.farmersdelight.common.item.enchantment.BackstabbingEnchantment$BackstabbingEvent onKnifeBackstab(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		8: ASM: class net.mcreator.boliviamod.procedures.YararinaPoisonProcedureProcedure onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		9: ASM: com.github.L_Ender.cataclysm.event.ServerEventHandler@33d720a2 onLivingDamage(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		10: ASM: class net.geforcemods.securitycraft.SCEventHandler onDamageTaken(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		11: ASM: class com.hollingsworth.arsnouveau.common.potions.GravityEffect entityHurt(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		12: ASM: class com.hollingsworth.arsnouveau.common.potions.BounceEffect onFlyWallDamage(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		13: ASM: class com.hollingsworth.arsnouveau.common.event.ReactiveEvents livingHitEvent(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		14: ASM: class com.hollingsworth.arsnouveau.common.event.FamiliarEvents livingHurtEvent(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		15: ASM: class com.hollingsworth.arsnouveau.common.event.EventHandler entityHurt(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		16: ASM: class com.hollingsworth.arsnouveau.common.event.EventHandler livingHurtEvent(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		17: ASM: class com.hollingsworth.arsnouveau.common.camera.CameraEvents onDamageTaken(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		18: ASM: class net.mehvahdjukaar.supplementaries.common.events.forge.ServerEventsForge onLivingDeath(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		19: ASM: class io.redspace.ironsspellbooks.effect.EchoingStrikesEffect createEcho(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		20: ASM: class net.mcreator.ancientgolems.procedures.ObeliskIsHurtProcedure onEntityAttacked(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		21: ASM: com.aizistral.enigmaticlegacy.handlers.EnigmaticEventHandler@2005f135 onEntityHurt(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		22: ASM: com.aizistral.etherium.core.EtheriumEventHandler@58804dbe onEntityHurt(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		23: ASM: air onEntityHurt(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		24: ASM: team.creative.playerrevive.server.ReviveEventServer@239f15de playerDamage(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		25: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@554e272b onEntityDamage(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		26: LOW
+		27: ASM: com.aizistral.enigmaticlegacy.handlers.EnigmaticEventHandler@2005f135 endEntityHurt(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		28: LOWEST
+		29: ASM: com.aizistral.enigmaticlegacy.handlers.EnigmaticEventHandler@2005f135 onLivingHurtFinal(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		30: net.minecraftforge.eventbus.EventBus$$Lambda$1490/0x000077f080647c58@a2a4d50
+java.lang.NullPointerException: Cannot invoke "java.util.function.Supplier.get()" because the return value of "java.util.HashMap.get(Object)" is null
+	at TRANSFORMER/enigmaticlegacy@2.30.1/com.aizistral.enigmaticlegacy.handlers.EnigmaticEventHandler.onEntityHurt(EnigmaticEventHandler.java:2184)
+	at TRANSFORMER/enigmaticlegacy@2.30.1/com.aizistral.enigmaticlegacy.handlers.__EnigmaticEventHandler_onEntityHurt_LivingHurtEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onLivingHurt(ForgeHooks.java:292)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_6475_(Player.java:906)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_6469_(LivingEntity.java:1112)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_6469_(Player.java:840)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_6469_(ServerPlayer.java:695)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.gameasset.Animations.lambda$build$44(Animations.java:1574)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.gameasset.Animations.lambda$build$45(Animations.java:1571)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.api.animation.property.AnimationEvent.executeIfRightSide(AnimationEvent.java:20)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.api.animation.property.AnimationEvent$TimeStampedEvent.executeIfRightSide(AnimationEvent.java:43)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.api.animation.types.StaticAnimation.lambda$tick$6(StaticAnimation.java:286)
+	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.api.animation.types.StaticAnimation.tick(StaticAnimation.java:278)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.api.animation.types.MainFrameAnimation.tick(MainFrameAnimation.java:47)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.api.animation.types.ActionAnimation.tick(ActionAnimation.java:94)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.api.animation.ServerAnimator.tick(ServerAnimator.java:65)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch.tick(LivingEntityPatch.java:149)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch.tick(WitherPatch.java:144)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.events.EntityEvents.updateEvent(EntityEvents.java:103)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.events.__EntityEvents_updateEvent_LivingTickEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onLivingTick(ForgeHooks.java:264)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2258)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.Mob.m_8119_(Mob.java:337)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:693)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.Level.m_46653_(Level.java:479)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:343)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:323)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[07Aug2025 05:56:31.641] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "java.util.function.Supplier.get()" because the return value of "java.util.HashMap.get(Object)" is null
+	Index: 3
+	Listeners:
+		0: NORMAL
+		1: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@aaec928 onLivingTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		2: ASM: class reascer.wom.events.WOMLivingEntityEvents onUpdateEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		3: ASM: class yesman.epicfight.events.EntityEvents updateEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		4: ASM: com.github.alexthe666.citadel.server.CitadelEvents@4b3bd81f onEntityUpdateDebug(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		5: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@501bca82 onLivingUpdateEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		6: net.minecraftforge.eventbus.EventBus$$Lambda$1490/0x000077f080647c58@384db62c
+		7: net.minecraftforge.eventbus.EventBus$$Lambda$1490/0x000077f080647c58@3a107d73
+		8: ASM: class net.mcreator.stupidweapondeluxe.init.EntityAnimationFactory onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		9: ASM: class com.github.alexthe666.iceandfire.entity.props.CapabilityHandler tickData(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		10: ASM: com.github.alexmodguy.alexscaves.server.event.CommonEvents@409e0902 livingTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		11: ASM: class net.mcreator.rpgstylemoreweapons.init.EntityAnimationFactory onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		12: ASM: class net.mcreator.boliviamod.init.EntityAnimationFactory onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		13: ASM: com.github.L_Ender.cataclysm.event.ServerEventHandler@33d720a2 onLivingUpdateEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		14: ASM: class net.mcreator.borninchaosv.init.EntityAnimationFactory onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		15: net.minecraftforge.eventbus.EventBus$$Lambda$1490/0x000077f080647c58@334837b
+		16: net.minecraftforge.eventbus.EventBus$$Lambda$1490/0x000077f080647c58@4a151459
+		17: net.minecraftforge.eventbus.EventBus$$Lambda$1490/0x000077f080647c58@1f3c37e1
+		18: net.minecraftforge.eventbus.EventBus$$Lambda$1490/0x000077f080647c58@26fe3a90
+		19: net.minecraftforge.eventbus.EventBus$$Lambda$1490/0x000077f080647c58@1765a6f
+		20: net.minecraftforge.eventbus.EventBus$$Lambda$1490/0x000077f080647c58@632331c4
+		21: net.minecraftforge.eventbus.EventBus$$Lambda$1490/0x000077f080647c58@1dde917e
+		22: ASM: class io.redspace.ironsspellbooks.player.ServerPlayerEvents onLivingTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		23: ASM: class io.redspace.ironsspellbooks.effect.guiding_bolt.GuidingBoltManager livingTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		24: ASM: class net.mcreator.ancientgolems.procedures.TheprimalicePathProcedure onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		25: ASM: class net.mcreator.ancientgolems.procedures.PrimordialiceItemInHandTickProcedure onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		26: ASM: class net.mcreator.ancientgolems.procedures.LavapiglinOnEntityTickUpdateProcedure onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		27: ASM: class net.mcreator.ancientgolems.procedures.IrongolemslowrideProcedure onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		28: ASM: class net.mcreator.ancientgolems.procedures.GolemofthemoltenforgeOnEntityTickUpdateProcedure onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		29: ASM: class net.mcreator.ancientgolems.procedures.EnderguardianpathProcedure onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		30: ASM: class net.mcreator.ancientgolems.init.EntityAnimationFactory onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		31: ASM: com.aizistral.enigmaticlegacy.handlers.EnigmaticEventHandler@2005f135 onPlayerTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		32: ASM: class com.simibubi.create.foundation.events.CommonEvents onUpdateLivingEntity(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		33: net.minecraftforge.eventbus.EventBus$$Lambda$1490/0x000077f080647c58@4aa312ef
+		34: ASM: class com.simibubi.create.content.equipment.extendoGrip.ExtendoGripItem holdingExtendoGripIncreasesRange(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		35: ASM: class com.simibubi.create.content.equipment.armor.DivingHelmetItem breatheUnderwater(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		36: ASM: class com.simibubi.create.content.equipment.armor.DivingBootsItem accellerateDescentUnderwater(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		37: ASM: top.theillusivec4.curios.common.event.CuriosEventHandler@13e7a1b3 tick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		38: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@554e272b onEntityUpdate(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+java.lang.NullPointerException: Cannot invoke "java.util.function.Supplier.get()" because the return value of "java.util.HashMap.get(Object)" is null
+	at TRANSFORMER/enigmaticlegacy@2.30.1/com.aizistral.enigmaticlegacy.handlers.EnigmaticEventHandler.onEntityHurt(EnigmaticEventHandler.java:2184)
+	at TRANSFORMER/enigmaticlegacy@2.30.1/com.aizistral.enigmaticlegacy.handlers.__EnigmaticEventHandler_onEntityHurt_LivingHurtEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onLivingHurt(ForgeHooks.java:292)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_6475_(Player.java:906)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_6469_(LivingEntity.java:1112)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_6469_(Player.java:840)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_6469_(ServerPlayer.java:695)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.gameasset.Animations.lambda$build$44(Animations.java:1574)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.gameasset.Animations.lambda$build$45(Animations.java:1571)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.api.animation.property.AnimationEvent.executeIfRightSide(AnimationEvent.java:20)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.api.animation.property.AnimationEvent$TimeStampedEvent.executeIfRightSide(AnimationEvent.java:43)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.api.animation.types.StaticAnimation.lambda$tick$6(StaticAnimation.java:286)
+	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.api.animation.types.StaticAnimation.tick(StaticAnimation.java:278)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.api.animation.types.MainFrameAnimation.tick(MainFrameAnimation.java:47)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.api.animation.types.ActionAnimation.tick(ActionAnimation.java:94)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.api.animation.ServerAnimator.tick(ServerAnimator.java:65)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch.tick(LivingEntityPatch.java:149)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch.tick(WitherPatch.java:144)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.events.EntityEvents.updateEvent(EntityEvents.java:103)
+	at TRANSFORMER/epicfight@20.8.7/yesman.epicfight.events.__EntityEvents_updateEvent_LivingTickEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onLivingTick(ForgeHooks.java:264)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2258)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.Mob.m_8119_(Mob.java:337)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:693)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.Level.m_46653_(Level.java:479)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:343)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:323)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[07Aug2025 05:56:31.644] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[07Aug2025 05:56:31.644] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[07Aug2025 05:56:31.644] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[07Aug2025 05:56:31.644] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[07Aug2025 05:56:31.644] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cpu_capacity
+[07Aug2025 05:56:31.644] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[07Aug2025 05:56:31.644] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[07Aug2025 05:56:31.644] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[07Aug2025 05:56:31.644] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[07Aug2025 05:56:31.644] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cpu_capacity
+[07Aug2025 05:56:31.645] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[07Aug2025 05:56:31.645] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[07Aug2025 05:56:31.645] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[07Aug2025 05:56:31.645] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[07Aug2025 05:56:31.645] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cpu_capacity
+[07Aug2025 05:56:31.645] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[07Aug2025 05:56:31.645] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[07Aug2025 05:56:31.645] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[07Aug2025 05:56:31.645] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[07Aug2025 05:56:31.645] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cpu_capacity
+[07Aug2025 05:56:31.645] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[07Aug2025 05:56:31.657] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/self/auxv
+[07Aug2025 05:56:31.658] [Server thread/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@1989e8c6
+[07Aug2025 05:56:31.658] [Server thread/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528
+[07Aug2025 05:56:31.670] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[07Aug2025 05:56:31.670] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[07Aug2025 05:56:31.675] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Encountered an unexpected exception
+net.minecraft.ReportedException: Ticking entity
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:897) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "java.util.function.Supplier.get()" because the return value of "java.util.HashMap.get(Object)" is null
+	at com.aizistral.enigmaticlegacy.handlers.EnigmaticEventHandler.onEntityHurt(EnigmaticEventHandler.java:2184) ~[EnigmaticLegacy-2.30.1.jar%23192!/:2.30.1]
+	at com.aizistral.enigmaticlegacy.handlers.__EnigmaticEventHandler_onEntityHurt_LivingHurtEvent.invoke(.dynamic) ~[EnigmaticLegacy-2.30.1.jar%23192!/:2.30.1]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingHurt(ForgeHooks.java:292) ~[forge-1.20.1-47.3.7-universal.jar%23240!/:?]
+	at net.minecraft.world.entity.player.Player.m_6475_(Player.java:906) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6469_(LivingEntity.java:1112) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.world.entity.player.Player.m_6469_(Player.java:840) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_6469_(ServerPlayer.java:695) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at yesman.epicfight.gameasset.Animations.lambda$build$44(Animations.java:1574) ~[epicfight-forge-20.8.7-1.20.1.jar%23193!/:20.8.7]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at yesman.epicfight.gameasset.Animations.lambda$build$45(Animations.java:1571) ~[epicfight-forge-20.8.7-1.20.1.jar%23193!/:20.8.7]
+	at yesman.epicfight.api.animation.property.AnimationEvent.executeIfRightSide(AnimationEvent.java:20) ~[epicfight-forge-20.8.7-1.20.1.jar%23193!/:20.8.7]
+	at yesman.epicfight.api.animation.property.AnimationEvent$TimeStampedEvent.executeIfRightSide(AnimationEvent.java:43) ~[epicfight-forge-20.8.7-1.20.1.jar%23193!/:20.8.7]
+	at yesman.epicfight.api.animation.types.StaticAnimation.lambda$tick$6(StaticAnimation.java:286) ~[epicfight-forge-20.8.7-1.20.1.jar%23193!/:20.8.7]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at yesman.epicfight.api.animation.types.StaticAnimation.tick(StaticAnimation.java:278) ~[epicfight-forge-20.8.7-1.20.1.jar%23193!/:20.8.7]
+	at yesman.epicfight.api.animation.types.MainFrameAnimation.tick(MainFrameAnimation.java:47) ~[epicfight-forge-20.8.7-1.20.1.jar%23193!/:20.8.7]
+	at yesman.epicfight.api.animation.types.ActionAnimation.tick(ActionAnimation.java:94) ~[epicfight-forge-20.8.7-1.20.1.jar%23193!/:20.8.7]
+	at yesman.epicfight.api.animation.ServerAnimator.tick(ServerAnimator.java:65) ~[epicfight-forge-20.8.7-1.20.1.jar%23193!/:20.8.7]
+	at yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch.tick(LivingEntityPatch.java:149) ~[epicfight-forge-20.8.7-1.20.1.jar%23193!/:20.8.7]
+	at yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch.tick(WitherPatch.java:144) ~[epicfight-forge-20.8.7-1.20.1.jar%23193!/:20.8.7]
+	at yesman.epicfight.events.EntityEvents.updateEvent(EntityEvents.java:103) ~[epicfight-forge-20.8.7-1.20.1.jar%23193!/:20.8.7]
+	at yesman.epicfight.events.__EntityEvents_updateEvent_LivingTickEvent.invoke(.dynamic) ~[epicfight-forge-20.8.7-1.20.1.jar%23193!/:20.8.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingTick(ForgeHooks.java:264) ~[forge-1.20.1-47.3.7-universal.jar%23240!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2258) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.world.entity.Mob.m_8119_(Mob.java:337) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:693) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.world.level.Level.m_46653_(Level.java:479) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	... 5 more
+[07Aug2025 05:56:31.702] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class yesman/epicfight/api/client/animation/property/JointMaskEntry for invalid dist DEDICATED_SERVER
+[07Aug2025 05:56:31.702] [Server thread/ERROR] [net.minecraftforge.logging.CrashReportAnalyser/]: Failed to append suspected mod(s) to crash report!
+java.lang.RuntimeException: Attempted to load class yesman/epicfight/api/client/animation/property/JointMaskEntry for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.Class.getDeclaredMethods0(Native Method) ~[?:?]
+	at java.lang.Class.privateGetDeclaredMethods(Class.java:3402) ~[?:?]
+	at java.lang.Class.getDeclaredMethods(Class.java:2504) ~[?:?]
+	at net.minecraftforge.logging.CrashReportAnalyser.findMixinMerged(CrashReportAnalyser.java:188) ~[forge-1.20.1-47.3.7-universal.jar%23240!/:?]
+	at net.minecraftforge.logging.CrashReportAnalyser.getMixinInfo(CrashReportAnalyser.java:211) ~[forge-1.20.1-47.3.7-universal.jar%23240!/:?]
+	at net.minecraftforge.logging.CrashReportAnalyser.identifyByMixins(CrashReportAnalyser.java:147) ~[forge-1.20.1-47.3.7-universal.jar%23240!/:?]
+	at net.minecraftforge.logging.CrashReportAnalyser.scanStacktrace(CrashReportAnalyser.java:116) ~[forge-1.20.1-47.3.7-universal.jar%23240!/:?]
+	at net.minecraftforge.logging.CrashReportAnalyser.scanThrowable(CrashReportAnalyser.java:102) ~[forge-1.20.1-47.3.7-universal.jar%23240!/:?]
+	at net.minecraftforge.logging.CrashReportAnalyser.analyseCrashReport(CrashReportAnalyser.java:55) ~[forge-1.20.1-47.3.7-universal.jar%23240!/:?]
+	at net.minecraftforge.logging.CrashReportAnalyser.appendSuspectedMods(CrashReportAnalyser.java:39) ~[forge-1.20.1-47.3.7-universal.jar%23240!/:?]
+	at net.minecraft.CrashReport.m_127519_(CrashReport.java:60) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.CrashReport.m_127526_(CrashReport.java:114) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.CrashReport.m_127512_(CrashReport.java:135) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:678) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[07Aug2025 05:56:31.710] [Server thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID ea6bb31d-6570-4ef0-b8a6-9971060bcf4e
+[07Aug2025 05:56:31.711] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: This crash report has been saved to: /workspaces/LEPRAMC/servidor_minecraft/./crash-reports/crash-2025-08-07_05.56.31-server.txt
+[07Aug2025 05:56:31.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Aug2025 05:56:31.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Aug2025 05:56:31.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Aug2025 05:56:32.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Aug2025 05:56:32.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
+[07Aug2025 05:56:32.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Aug2025 05:56:32.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[07Aug2025 05:56:32.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Aug2025 05:56:32.957] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 05:56:32.972] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 05:56:33.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Aug2025 05:56:33.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[07Aug2025 05:56:33.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Aug2025 05:56:33.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[07Aug2025 05:56:33.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Aug2025 05:56:33.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07Aug2025 05:56:33.016] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[07Aug2025 05:56:33.016] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[07Aug2025 05:56:34.998] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for witherstormmod:bowels
+[07Aug2025 05:56:34.998] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for witherstormmod:bowels
+[07Aug2025 05:56:34.999] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[07Aug2025 05:56:34.999] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[07Aug2025 05:56:34.999] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for the_bumblezone:the_bumblezone
+[07Aug2025 05:56:34.999] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for the_bumblezone:the_bumblezone
+[07Aug2025 05:56:35.000] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[07Aug2025 05:56:35.000] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[07Aug2025 05:56:35.033] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
