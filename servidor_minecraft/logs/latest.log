@@ -880,3 +880,14 @@
 [09Aug2025 03:11:22.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 1.4397755601653444
 [09Aug2025 03:11:22.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 2.4547821762798776
 [09Aug2025 03:12:23.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Sweet Dreams]
+[09Aug2025 03:20:35.821] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[09Aug2025 03:20:35.821] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[09Aug2025 03:20:35.822] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[09Aug2025 03:20:35.822] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[09Aug2025 03:21:10.669] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[09Aug2025 03:22:18.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Advancement Mineral Wealth]
+[09Aug2025 03:22:38.419] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[09Aug2025 03:22:38.420] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[09Aug2025 03:23:09.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Discovering New Crops]
+[09Aug2025 03:25:32.070] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[09Aug2025 03:25:32.071] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
