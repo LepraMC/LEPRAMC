@@ -11704,3 +11704,15 @@ Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
 [09Aug2025 01:16:00.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [It All Looks Delicious]
 [09Aug2025 01:16:46.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Aug2025 01:16:46.866] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Aug2025 01:18:23.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Best Friends Forever]
+[09Aug2025 01:18:40.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Dragon Growth Hormone]
+[09Aug2025 01:19:53.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Suit Up]
+[09Aug2025 01:20:39.782] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[09Aug2025 01:20:40.284] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: The_Watcher_Entity['The Watcher'/5281, l='ServerLevel[world]', x=114.55, y=-25.00, z=4195.60]
+[09Aug2025 01:20:51.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Guns and Roses]
+[09Aug2025 01:21:46.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Aug2025 01:21:46.873] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Aug2025 01:22:49.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Monster Hunter]
+[09Aug2025 01:23:39.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Limit Breaker]
+[09Aug2025 01:26:46.833] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Aug2025 01:26:46.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
