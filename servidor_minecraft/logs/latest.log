@@ -901,3 +901,6 @@
 [09Aug2025 03:33:14.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
 [09Aug2025 03:34:16.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Bonfire Lit]
 [09Aug2025 03:36:29.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has reached the goal [Dinner's Served!]
+[09Aug2025 03:38:26.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Hunt and Gather]
+[09Aug2025 03:39:13.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Crops of the Wild]
+[09Aug2025 03:40:07.819] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
