@@ -732,6 +732,12 @@
     },
     "done": true
   },
+  "create:chute": {
+    "criteria": {
+      "0": "2025-08-09 03:48:09 +0000"
+    },
+    "done": true
+  },
   "boliviamod:advancement_mineral_wealth": {
     "criteria": {
       "advancement_mineral_wealth_0": "2025-08-09 03:22:18 +0000"
@@ -756,11 +762,27 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-08-09 03:51:48 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "iron_knife": "2025-08-09 03:38:26 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "cabbage": "2025-08-09 03:53:51 +0000",
+      "onion": "2025-08-09 03:51:13 +0000",
+      "tomato": "2025-08-09 03:51:20 +0000",
+      "wheat": "2025-08-09 03:51:48 +0000",
+      "carrot": "2025-08-09 03:52:37 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
