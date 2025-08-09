@@ -11716,3 +11716,32 @@ Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
 [09Aug2025 01:23:39.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Limit Breaker]
 [09Aug2025 01:26:46.833] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Aug2025 01:26:46.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Aug2025 01:31:46.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Aug2025 01:31:46.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Aug2025 01:34:28.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Diamonds!]
+[09Aug2025 01:34:34.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Into Fire]
+[09Aug2025 01:35:12.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Hidden in the Depths]
+[09Aug2025 01:36:21.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [The Heart and the Flame]
+[09Aug2025 01:36:33.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Another Brick in the Wall]
+[09Aug2025 01:36:46.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Aug2025 01:36:46.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Aug2025 01:37:39.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Amateur Archaeologist]
+[09Aug2025 01:41:46.830] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Aug2025 01:41:46.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Aug2025 01:43:46.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has completed the challenge [Charm Collector]
+[09Aug2025 01:46:46.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Aug2025 01:46:46.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Aug2025 01:48:38.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Enlightenment]
+[09Aug2025 01:50:22.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has reached the goal [Quaint Scribe]
+[09Aug2025 01:51:46.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Aug2025 01:51:46.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Aug2025 01:52:49.880] [integratedapi-1-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of idas:castle/castle1
+[09Aug2025 01:52:50.049] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of idas:witches_treestump/witches_treestump
+[09Aug2025 01:52:51.838] [integratedapi-1-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of idas:castle/castle2
+[09Aug2025 01:52:52.073] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of idas:farmhouse/farmhouse
+[09Aug2025 01:52:52.096] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of idas:farmhouse/farmhouse_path
+[09Aug2025 01:52:58.718] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of idas:abandonedhouse/abandonedhouse
+[09Aug2025 01:56:46.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Aug2025 01:56:46.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Aug2025 01:57:59.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has completed the challenge [Soul Eater]
+[09Aug2025 01:58:05.278] [Server thread/DEBUG] [mixin/]: Mixing gameplay.CooldownInstanceAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
