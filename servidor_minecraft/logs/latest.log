@@ -935,3 +935,9 @@
 [09Aug2025 04:24:06.323] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
 [09Aug2025 04:24:53.070] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
 [09Aug2025 04:24:53.070] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[09Aug2025 04:28:51.470] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[09Aug2025 04:29:37.469] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[09Aug2025 04:34:06.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Eye of The Storm]
+[09Aug2025 04:34:20.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has completed the challenge [Destroyer of Chads]
+[09Aug2025 04:34:28.947] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALANBRE lost connection: Disconnected
+[09Aug2025 04:34:28.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE left the game
