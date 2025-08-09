@@ -807,3 +807,76 @@
 [09Aug2025 03:00:02.751] [Server thread/INFO] [Enigmatic Legacy/INFO]: Blue Skies detected: false
 [09Aug2025 03:01:02.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Acquire Hardware]
 [09Aug2025 03:05:11.521] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[09Aug2025 03:06:09.697] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[09Aug2025 03:06:09.697] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to mdc01473$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
+[09Aug2025 03:08:10.177] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: MimicEntity['Mimic'/1511, l='ServerLevel[world]', x=283.50, y=25.00, z=3657.50]
+[09Aug2025 03:08:17.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved too quickly! -9.034627931726732,0.0,7.569308158252625
+[09Aug2025 03:08:17.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved too quickly! -10.667371814381852,0.0,8.82266090620351
+[09Aug2025 03:08:17.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved too quickly! -12.325605023680168,0.0,10.074367809635532
+[09Aug2025 03:08:17.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved too quickly! -14.006319819077817,0.0,11.324623078201512
+[09Aug2025 03:08:17.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved too quickly! -15.706863373415104,0.0,12.573598004815722
+[09Aug2025 03:08:17.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved too quickly! -17.424895893137148,0.0,13.821443669828568
+[09Aug2025 03:08:17.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved too quickly! -19.158353680328503,0.0,15.068293326108687
+[09Aug2025 03:08:17.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved too quickly! -20.90071039994541,0.0,16.321051241731766
+[09Aug2025 03:08:17.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved too quickly! -22.638254127786638,0.0,17.595291486957194
+[09Aug2025 03:08:17.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved too quickly! -24.345178017755416,0.0,18.915540456948293
+[09Aug2025 03:08:17.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved too quickly! -25.989896579712763,0.0,20.302710353577368
+[09Aug2025 03:08:17.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved too quickly! -27.556956933690515,0.0,21.761622510598954
+[09Aug2025 03:08:17.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved too quickly! -29.053033468949764,0.0,23.285025994608986
+[09Aug2025 03:08:17.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved too quickly! -30.48650227609926,0.0,24.865310829022746
+[09Aug2025 03:08:17.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved too quickly! -31.864751067055977,0.0,26.495765014492463
+[09Aug2025 03:08:17.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved too quickly! -25.763512291344682,0.0,21.85637919416149
+[09Aug2025 03:08:17.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved too quickly! -27.050100052142568,0.0,23.570110689513513
+[09Aug2025 03:08:17.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved too quickly! -28.298799760217207,0.0,25.31826482993074
+[09Aug2025 03:09:00.060] [pool-8-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / idas:bazaar], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest]] from pos BlockPos{x=-571, y=72, z=3707}
+[09Aug2025 03:10:13.570] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[09Aug2025 03:10:33.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 1.0
+[09Aug2025 03:10:33.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.2648061257648351
+[09Aug2025 03:10:33.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.6146277418472437
+[09Aug2025 03:10:34.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.2562417070516858
+[09Aug2025 03:10:34.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.7968740331175468
+[09Aug2025 03:10:34.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 1.0
+[09Aug2025 03:10:42.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.5628537496641002
+[09Aug2025 03:10:42.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.38060286420295597
+[09Aug2025 03:10:42.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 1.0081606211938379
+[09Aug2025 03:10:42.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 1.6367221075663565
+[09Aug2025 03:10:42.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.568614886748037
+[09Aug2025 03:10:42.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.5688540565697622
+[09Aug2025 03:10:42.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.5689820315733414
+[09Aug2025 03:10:42.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.5690505084457982
+[09Aug2025 03:10:42.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.5690871490551217
+[09Aug2025 03:10:42.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.5691067547145394
+[09Aug2025 03:10:42.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.5691172453120998
+[09Aug2025 03:10:42.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.26092046132112046
+[09Aug2025 03:10:43.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.6046962773002633
+[09Aug2025 03:10:43.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.5881604892692849
+[09Aug2025 03:10:43.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.6457893278134179
+[09Aug2025 03:10:43.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.6101485612916804
+[09Aug2025 03:10:43.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.5910778977263362
+[09Aug2025 03:10:43.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.6473503749120937
+[09Aug2025 03:10:43.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.6109838464703898
+[09Aug2025 03:10:43.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.591524842171566
+[09Aug2025 03:10:43.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.6475895259736717
+[09Aug2025 03:10:43.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.6111118114354213
+[09Aug2025 03:10:46.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved too quickly! -6.81151217509273,0.5752243926899894,-7.48991780194001
+[09Aug2025 03:10:46.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved too quickly! -7.9338863888010565,0.6022662020154002,-8.706613241117338
+[09Aug2025 03:10:46.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved too quickly! -9.129907622223982,0.6261170778404193,-9.942550943210335
+[09Aug2025 03:10:46.540] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved too quickly! -10.424619830070469,0.6471535503180803,-11.139724756500073
+[09Aug2025 03:10:46.540] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved too quickly! -11.822808899725032,0.6657077190433824,-12.253201380645805
+[09Aug2025 03:10:46.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved too quickly! -13.315586851466378,0.6820724958590887,-13.27529398921115
+[09Aug2025 03:10:46.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved too quickly! -9.14806297609698,0.15194148408180297,-7.890126267817777
+[09Aug2025 03:10:46.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved too quickly! -10.7978512833472,0.16467203672138453,-8.760528355704992
+[09Aug2025 03:11:20.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.33264555976438714
+[09Aug2025 03:11:21.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.3917213281970362
+[09Aug2025 03:11:21.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.41466002157949333
+[09Aug2025 03:11:21.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.49649460675800583
+[09Aug2025 03:11:21.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.5704020843172657
+[09Aug2025 03:11:21.501] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.4971771927403097
+[09Aug2025 03:11:21.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.4729993186701904
+[09Aug2025 03:11:21.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.5479640598646256
+[09Aug2025 03:11:21.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.5292766567954459
+[09Aug2025 03:11:21.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.6100318427088496
+[09Aug2025 03:11:22.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.4836514293751861
+[09Aug2025 03:11:22.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 1.4397755601653444
+[09Aug2025 03:11:22.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 2.4547821762798776
+[09Aug2025 03:12:23.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Sweet Dreams]
