@@ -11007,3 +11007,7 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [10Aug2025 03:51:45.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Aug2025 03:52:00.752] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALANBRE lost connection: Disconnected
 [10Aug2025 03:52:00.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE left the game
+[10Aug2025 03:56:45.403] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 03:56:45.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 04:01:45.400] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 04:01:45.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
