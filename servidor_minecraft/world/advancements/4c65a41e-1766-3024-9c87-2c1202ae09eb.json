@@ -858,6 +858,12 @@
     },
     "done": true
   },
+  "tetra:recipes/string": {
+    "criteria": {
+      "got_string": "2025-08-10 03:38:10 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:archmage_spell_book": {
     "criteria": {
       "has_archmage_spell_book": "2025-08-10 02:26:47 +0000"
