@@ -844,3 +844,11 @@
 [10Aug2025 03:36:00.377] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
 [10Aug2025 03:36:00.377] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
 [10Aug2025 03:36:00.377] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[10Aug2025 03:47:59.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ALANBRE: Set own game mode to Survival Mode]
+[10Aug2025 03:48:50.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ALANBRE: Set own game mode to Creative Mode]
+[10Aug2025 03:50:15.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Lore Writer]
+[10Aug2025 03:50:30.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ALANBRE: Set own game mode to Survival Mode]
+[10Aug2025 03:50:43.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ALANBRE: Set own game mode to Creative Mode]
+[10Aug2025 03:51:37.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Master of the Brewing Stand]
+[10Aug2025 03:52:00.752] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALANBRE lost connection: Disconnected
+[10Aug2025 03:52:00.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE left the game

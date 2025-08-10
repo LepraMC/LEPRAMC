@@ -10995,3 +10995,15 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [10Aug2025 03:38:06.707] [Server thread/DEBUG] [epicfight/]: [EpicFightMod] No joint named Leg_L_IK in CancelableDodgeAnimation wom:animmodels/animations/biped/skill/agony_rising_eagle.json
 [10Aug2025 03:41:45.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Aug2025 03:41:45.487] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 03:46:45.474] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 03:46:45.492] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 03:47:59.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ALANBRE: Set own game mode to Survival Mode]
+[10Aug2025 03:48:50.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ALANBRE: Set own game mode to Creative Mode]
+[10Aug2025 03:50:15.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Lore Writer]
+[10Aug2025 03:50:30.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ALANBRE: Set own game mode to Survival Mode]
+[10Aug2025 03:50:43.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ALANBRE: Set own game mode to Creative Mode]
+[10Aug2025 03:51:37.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Master of the Brewing Stand]
+[10Aug2025 03:51:45.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 03:51:45.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 03:52:00.752] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALANBRE lost connection: Disconnected
+[10Aug2025 03:52:00.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE left the game
