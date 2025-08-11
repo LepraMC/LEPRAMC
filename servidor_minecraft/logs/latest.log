@@ -890,3 +890,15 @@
 [11Aug2025 02:33:05.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RicardoAxel3> debo ir a dormi
 [11Aug2025 02:33:07.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RicardoAxel3> bye
 [11Aug2025 02:33:09.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> chao
+[11Aug2025 02:33:19.895] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[11Aug2025 02:33:22.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RicardoAxel3> le digo a carlos que apague el server?
+[11Aug2025 02:33:27.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> yap
+[11Aug2025 02:33:31.148] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[11Aug2025 02:33:31.148] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[11Aug2025 02:33:33.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RicardoAxel3> ya
+[11Aug2025 02:33:34.311] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RicardoAxel3 lost connection: Disconnected
+[11Aug2025 02:33:34.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 left the game
+[11Aug2025 02:33:36.162] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[11Aug2025 02:33:40.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALANBRE moved wrongly!
+[11Aug2025 02:33:54.154] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALANBRE lost connection: Disconnected
+[11Aug2025 02:33:54.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE left the game
