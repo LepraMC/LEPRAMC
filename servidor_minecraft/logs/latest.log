@@ -821,3 +821,102 @@
 [11Aug2025 00:19:03.316] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
 [11Aug2025 00:19:03.317] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
 [11Aug2025 00:19:03.317] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[11Aug2025 00:19:18.540] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[11Aug2025 00:19:36.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2965ms or 59 ticks behind
+[11Aug2025 00:19:57.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[11Aug2025 00:20:17.729] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[11Aug2025 00:21:09.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Piece of Chaos]
+[11Aug2025 00:22:57.440] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EntityCockatrice['Dahmer'/1481, l='ServerLevel[world]', x=-2019.05, y=66.00, z=3993.06] died: Dahmer was slain by Corpse Maggot
+[11Aug2025 00:23:28.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[11Aug2025 00:23:43.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [The Wind Darkening]
+[11Aug2025 00:23:53.682] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[11Aug2025 00:24:30.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Dark Metallurgy]
+[11Aug2025 00:24:35.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[11Aug2025 00:25:19.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2390ms or 47 ticks behind
+[11Aug2025 00:25:59.536] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RicardoAxel3 lost connection: Disconnected
+[11Aug2025 00:25:59.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 left the game
+[11Aug2025 00:25:59.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved too quickly! 0.46828581515865153,0.0,10.828411474621134
+[11Aug2025 00:26:15.383] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[11Aug2025 00:26:15.383] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[11Aug2025 00:26:15.383] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[11Aug2025 00:26:15.384] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[11Aug2025 00:26:26.994] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[11Aug2025 00:26:26.994] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[11Aug2025 00:26:28.831] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[11Aug2025 00:26:28.831] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[11Aug2025 00:29:59.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALANBRE moved wrongly!
+[11Aug2025 00:30:20.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Gone Bananas!]
+[11Aug2025 00:30:20.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.7503727295379576
+[11Aug2025 00:30:20.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.7491705173424634
+[11Aug2025 00:30:21.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.3248990995089116
+[11Aug2025 00:30:21.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.7580575553006383
+[11Aug2025 00:30:21.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.7626873824337963
+[11Aug2025 00:30:21.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.7656196748021102
+[11Aug2025 00:30:21.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.29313136040218524
+[11Aug2025 00:30:21.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.764774617313833
+[11Aug2025 00:30:21.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.29495910051036844
+[11Aug2025 00:30:21.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.7673253653092615
+[11Aug2025 00:30:21.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.7676964501388284
+[11Aug2025 00:30:21.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.7652629747103674
+[11Aug2025 00:30:21.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.7663320191195453
+[11Aug2025 00:30:21.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.7674651872443974
+[11Aug2025 00:30:21.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.7677712660683937
+[11Aug2025 00:30:21.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.765303007222883
+[11Aug2025 00:30:21.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.7669145834947813
+[11Aug2025 00:30:21.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.7674766489799367
+[11Aug2025 00:30:21.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.7651453634925929
+[11Aug2025 00:30:21.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.3427548371132616
+[11Aug2025 00:30:22.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.7547755438499735
+[11Aug2025 00:30:22.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.7583492553703763
+[11Aug2025 00:30:22.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.33356498637613186
+[11Aug2025 00:30:22.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.7369737667977461
+[11Aug2025 00:30:22.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.7517561717672834
+[11Aug2025 00:30:22.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.7567336495690142
+[11Aug2025 00:30:22.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.7537350955590227
+[11Aug2025 00:30:22.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved wrongly! 0.2919068374694689
+[11Aug2025 00:33:14.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ALANBRE: Set own game mode to Creative Mode]
+[11Aug2025 00:34:13.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ALANBRE: Set own game mode to Survival Mode]
+[11Aug2025 00:36:00.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [The Only Good Bug...]
+[11Aug2025 00:43:28.204] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RicardoAxel3[/10.147.18.118:54105] logged in with entity id 17219 at (144.54133713518723, 62.0, 538.0069278108981)
+[11Aug2025 00:43:28.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 joined the game
+[11Aug2025 00:43:28.236] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: RicardoAxel3
+[11Aug2025 00:43:28.262] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to RicardoAxel3...
+[11Aug2025 00:43:28.263] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[11Aug2025 00:43:28.263] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to RicardoAxel3
+[11Aug2025 00:44:13.482] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[11Aug2025 00:44:13.483] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[11Aug2025 00:44:13.483] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[11Aug2025 00:44:14.332] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[11Aug2025 00:44:14.394] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[11Aug2025 00:44:18.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RicardoAxel3> 147 537
+[11Aug2025 00:44:39.161] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RicardoAxel3 lost connection: Disconnected
+[11Aug2025 00:44:39.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 left the game
+[11Aug2025 00:47:44.131] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[11Aug2025 00:47:44.131] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[11Aug2025 00:47:44.131] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[11Aug2025 00:48:00.732] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[11Aug2025 00:48:11.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved too quickly! 2.4791232584225327,0.0,-10.216824674289455
+[11Aug2025 00:48:11.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved too quickly! 2.917826079772567,0.0,-12.311892879030438
+[11Aug2025 00:48:11.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved too quickly! 3.3425020316735754,0.0,-14.419657368405751
+[11Aug2025 00:48:11.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved too quickly! -2.523449915605397,0.0,12.668858633315722
+[11Aug2025 00:48:11.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved too quickly! -2.523449915605397,0.0,12.668858633315722
+[11Aug2025 00:48:11.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved too quickly! -2.523449915605397,0.0,12.668858633315722
+[11Aug2025 00:48:11.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choca (vehicle of ALANBRE) moved too quickly! -2.1401703233739227,0.0,10.52362463108284
+[11Aug2025 00:48:43.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ALANBRE: Set own game mode to Creative Mode]
+[11Aug2025 00:49:18.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Jungle Fliers]
+[11Aug2025 00:49:19.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ALANBRE) moved wrongly! 0.8030920994039259
+[11Aug2025 00:49:19.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ALANBRE) moved wrongly! 0.7347533873265434
+[11Aug2025 00:49:23.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ALANBRE) moved wrongly! 0.3858437116425622
+[11Aug2025 00:49:25.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ALANBRE) moved wrongly! 0.38616600027653464
+[11Aug2025 00:49:26.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALANBRE was kicked for floating a vehicle too long!
+[11Aug2025 00:49:26.251] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALANBRE lost connection: Flying is not enabled on this server
+[11Aug2025 00:49:26.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE left the game
+[11Aug2025 00:49:41.359] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ALANBRE[/10.147.18.24:62474] logged in with entity id 23076 at (-1292.8554819198525, 129.18782003814383, 3285.905429202796)
+[11Aug2025 00:49:41.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE joined the game
+[11Aug2025 00:49:41.517] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ALANBRE
+[11Aug2025 00:49:41.557] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ALANBRE...
+[11Aug2025 00:49:41.558] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[11Aug2025 00:49:41.559] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ALANBRE
+[11Aug2025 00:49:48.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALANBRE was kicked for floating a vehicle too long!
+[11Aug2025 00:49:48.299] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALANBRE lost connection: Flying is not enabled on this server
+[11Aug2025 00:49:48.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE left the game
