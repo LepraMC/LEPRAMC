@@ -964,15 +964,33 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-08-11 02:11:08 +0000"
+    },
+    "done": true
+  },
   "rpgsmw:miphril": {
     "criteria": {
       "miphril_0": "2025-08-11 02:14:42 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_horn": {
+  "alexsmobs:alexsmobs/transmutation_table": {
     "criteria": {
-      "bestiary": "2025-08-11 02:11:08 +0000"
+      "sopa_de_macaco": "2025-08-11 02:18:34 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/nether_star": {
+    "criteria": {
+      "has_items": "2025-08-11 02:18:38 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:soul_eater": {
+    "criteria": {
+      "soul_eater_0": "2025-08-11 02:23:09 +0000"
     },
     "done": true
   },
