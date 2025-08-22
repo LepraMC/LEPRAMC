@@ -1706,5 +1706,11 @@
     },
     "done": true
   },
+  "ars_nouveau:archmage_spell_book": {
+    "criteria": {
+      "has_archmage_spell_book": "2025-08-22 02:11:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
