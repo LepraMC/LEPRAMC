@@ -11114,3 +11114,10 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [22Aug2025 02:58:29.784] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
 [22Aug2025 02:59:03.052] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Aug2025 02:59:03.070] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Aug2025 03:01:19.971] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/extractor_platform_large
+[22Aug2025 03:01:19.972] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/intersection_6
+[22Aug2025 03:03:44.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[22Aug2025 03:04:03.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Aug2025 03:04:03.067] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Aug2025 03:09:03.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Aug2025 03:09:03.075] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
