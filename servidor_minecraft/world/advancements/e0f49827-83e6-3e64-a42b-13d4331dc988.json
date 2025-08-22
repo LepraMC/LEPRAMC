@@ -1706,6 +1706,12 @@
     },
     "done": true
   },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-08-22 02:25:57 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:archmage_spell_book": {
     "criteria": {
       "has_archmage_spell_book": "2025-08-22 02:11:10 +0000"
